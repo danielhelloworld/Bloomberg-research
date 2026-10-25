@@ -1,0 +1,152 @@
+{
+  "CVX": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"330135000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"134577000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"96.7999\",\"yoy\":\"13.305036\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"8530000000.0000\",\"yoy\":\"109.78849\",\"ratio\":\"2.5838\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"28545000000.0000\",\"yoy\":\"12.377465\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "JNJ": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\",\"value\":\"35.2836\",\"yoy\":\"7.09193\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\",\"value\":\"20758000000.0000\",\"yoy\":\"11.830622\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\",\"value\":\"28278000000.0000\",\"yoy\":\"3.837256\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "XOM": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"464482000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"198371000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"63.0801\",\"yoy\":\"2.411807\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"10588000000.0000\",\"yoy\":\"-26.22631\",\"ratio\":\"2.2795\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"31780000000.0000\",\"yoy\":\"28.992978\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "ABBV": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"135115000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"141003000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"-3.3587\",\"yoy\":\"-3142.082706\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"6569000000.0000\",\"yoy\":\"1.577238\",\"ratio\":\"4.8618\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"64316000000.0000\",\"yoy\":\"0.308806\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "PG": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2027,\"fp_end\":\"1790740800\",\"period\":\"Q1 2027\",\"value\":\"133132000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2027,\"fp_end\":\"1790740800\",\"period\":\"Q1 2027\",\"value\":\"77795000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2027,\"fp_end\":\"1790740800\",\"period\":\"Q1 2027\",\"value\":\"23.3934\",\"yoy\":\"4.122012\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2027,\"fp_end\":\"1790740800\",\"period\":\"Q1 2027\",\"value\":\"15365000000.0000\",\"yoy\":\"37.54364\",\"ratio\":\"11.5412\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2027,\"fp_end\":\"1790740800\",\"period\":\"Q1 2027\",\"value\":\"23560000000.0000\",\"yoy\":\"-4.904137\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "JPM": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1790740800\",\"period\":\"Q3 2026\",\"value\":\"5091545000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1790740800\",\"period\":\"Q3 2026\",\"value\":\"4719177000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1790740800\",\"period\":\"Q3 2026\",\"value\":\"132.2970\",\"yoy\":\"5.873651\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "WMT": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2027,\"fp_end\":\"1785470400\",\"period\":\"Q2 2027\",\"value\":\"293914000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2027,\"fp_end\":\"1785470400\",\"period\":\"Q2 2027\",\"value\":\"189115000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2027,\"fp_end\":\"1785470400\",\"period\":\"Q2 2027\",\"value\":\"12.3694\",\"yoy\":\"9.473081\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2027,\"fp_end\":\"1785470400\",\"period\":\"Q2 2027\",\"value\":\"11529000000.0000\",\"yoy\":\"22.245785\",\"ratio\":\"3.9226\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2027,\"fp_end\":\"1785470400\",\"period\":\"Q2 2027\",\"value\":\"63563000000.0000\",\"yoy\":\"11.264179\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "BRK.B": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"1263071000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"512894000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"348.1506\",\"yoy\":\"12.474066\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"365514000000.0000\",\"yoy\":\"6.225969\",\"ratio\":\"28.9385\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"-236915000000.0000\",\"yoy\":\"-9.141709\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "GOOGL": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"921983000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"281503000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"50.8959\",\"yoy\":\"69.748401\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"242474000000.0000\",\"yoy\":\"154.838777\",\"ratio\":\"26.2992\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"-121683000000.0000\",\"yoy\":\"-141.051902\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "AMZN": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"1095689000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"544069000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"51.1564\",\"yoy\":\"63.381846\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"122988000000.0000\",\"yoy\":\"31.989697\",\"ratio\":\"11.2247\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"128647000000.0000\",\"yoy\":\"93.774665\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "MSFT": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q4 2026\",\"value\":\"758376000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q4 2026\",\"value\":\"315989000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q4 2026\",\"value\":\"59.5647\",\"yoy\":\"28.917329\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q4 2026\",\"value\":\"76843000000.0000\",\"yoy\":\"-18.740549\",\"ratio\":\"10.1326\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q4 2026\",\"value\":\"51970000000.0000\",\"yoy\":\"194.965662\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "LMT": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\",\"value\":\"64510000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\",\"value\":\"54447000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\",\"value\":\"43.6573\",\"yoy\":\"62.452212\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\",\"value\":\"5960000000.0000\",\"yoy\":\"71.757925\",\"ratio\":\"9.2389\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1790481600\",\"period\":\"Q3 2026\",\"value\":\"14538000000.0000\",\"yoy\":\"-22.335595\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "NEE": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1790740800\",\"period\":\"Q3 2026\",\"value\":\"245052000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1790740800\",\"period\":\"Q3 2026\",\"value\":\"170710000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1790740800\",\"period\":\"Q3 2026\",\"value\":\"29.3224\",\"yoy\":\"12.709378\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "TM": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2027,\"fp_end\":\"1782792000\",\"period\":\"Q1 2027\",\"value\":\"631274393544.2624\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2027,\"fp_end\":\"1782792000\",\"period\":\"Q1 2027\",\"value\":\"396140973281.5051\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2027,\"fp_end\":\"1782792000\",\"period\":\"Q1 2027\",\"value\":\"193.7826\",\"yoy\":\"0.934122\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2027,\"fp_end\":\"1782792000\",\"period\":\"Q1 2027\",\"value\":\"82114851399.8920\",\"yoy\":\"-25.943622\",\"ratio\":\"13.0078\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2027,\"fp_end\":\"1782792000\",\"period\":\"Q1 2027\",\"value\":\"188226436795.7493\",\"yoy\":\"20.632014\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "ETN": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"name\":\"总资产(USD)\",\"field\":\"TotalAssets\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"56181000000.0000\"}]},{\"name\":\"总负债(USD)\",\"field\":\"TotalLiability\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"35882000000.0000\"}]},{\"name\":\"每股净资产(USD)\",\"field\":\"BPS\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"52.1473\",\"yoy\":\"9.109601\"}]},{\"name\":\"现金及短期投资(USD)及占比\",\"field\":\"CashSTInvest\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"695000000.0000\",\"yoy\":\"19.006849\",\"ratio\":\"1.2371\"}]},{\"name\":\"净债务(USD)\",\"field\":\"NetDebt\",\"values\":[{\"year\":2026,\"fp_end\":\"1782792000\",\"period\":\"Q2 2026\",\"value\":\"20631000000.0000\",\"yoy\":\"86.705882\"}]}]"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  }
+}

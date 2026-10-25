@@ -1,0 +1,502 @@
+{
+  "as_of": "2026-10-24 Asia/Shanghai; research began after local midnight while 2026-10-23 US regular session was still open",
+  "market_data_basis": "10/22完整收盘来自前轮analysis.json；本文件不采用10/23为周五收盘，不编造盘后结果或目标价。",
+  "mandate": {
+    "account": "Bloomberg Trading Challenge模拟组合",
+    "current_cash_pct": 100,
+    "long_only": true,
+    "instruments": "正股；TM ADR是否允许仍待核",
+    "single_issuer_rule_max_pct": 20,
+    "competition_end": "2026-11-13；精确账户截止以官方规则/账户为准",
+    "wls_status": "全部仍须证券级WLS成员/账户可买性核验"
+  },
+  "posture": "Conditional risk screen；本分工提供基本面与风险上限输入，不是五股独立组合，最终仓位由全组合损失、主题与规则约束决定。",
+  "methodology": {
+    "source_route": "读取本地旧报告和公开官方IR/SEC；本运行无可调用Quartr/Daloopa财报路由。每股至少两份不同原始文件，多个托管域不代表独立外部验证。",
+    "consensus": "未使用过期/字段异常的BRK一致预期。XOM/CVX的长桥次级共识无独立时间戳，未据其计算beat概率；没有可靠共识便对比公司前次披露和经营证据。",
+    "skill_support": [
+      "earnings-deep-dive",
+      "portfolio-risk-management"
+    ],
+    "sizing": "所有权重单位为总NAV百分比；上限取20%规则、分析者暂定公司上限、全组合/主题/流动性限制之最小。压力跌幅是透明假设，不是统计分位数或最坏损失；无用户确认的绝对风险容忍度。",
+    "liquidity": "旧文件20日收盘×成交量美元额只是近似且截止10/22。账户规模未假定为100万美元；待账户NAV确定后计算委托/ADV和退出天数。"
+  },
+  "lane_conclusion": {
+    "priority": "JPM和BRK.B可作已发业绩的质量观察仓；XOM优先于CVX但两者合并为一个油价/炼油风险簇；TM先移出周一组合。",
+    "changes_from_old_B": "XOM原8%与CVX原4%的目标应下调为6%与3%的条件上限；JPM保留至6%的上限；BRK.B至多7%，但不因公司现金多就当成现金；TM原4%改0%执行预算，若资格和业绩证据补齐再考虑至多2%。",
+    "no_mispricing_claim": "未建立完整正常化盈利模型或独立预期差，不能把现金流良好、质量高或油价上涨本身等同股票低估。",
+    "energy_joint_limit": "财报前XOM+CVX合计首阶段建议最多3%总NAV，财报后条件合计上限9%；两股同日财报并共享停火/衰退冲击，不能分别用额度后遗漏合并风险。",
+    "inflation_failure_case": "油企不是通胀的无条件对冲：油价上涨同时可能损伤海外产量、运输、税负和需求；BRK与JPM也不是与科技或经济风险完全独立。"
+  },
+  "stocks": [
+    {
+      "ticker": "XOM",
+      "facts": [
+        {
+          "claim": "2026Q2 GAAP盈利145.25亿美元，调整盈利146.80亿美元；经营现金流235.55亿美元，公司定义FCF172.36亿美元；向股东分配约94亿美元。",
+          "source_url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1208/exxonmobil-announces-second-quarter-2026-results",
+          "source_date": "2026-07-31",
+          "period": "2026Q2"
+        },
+        {
+          "claim": "GAAP与调整利润接近源于抵消：identified items为-26.38亿美元，timing effects为+24.83亿美元；调整盈利排除二者。",
+          "source_url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1208/exxonmobil-announces-second-quarter-2026-results",
+          "source_date": "2026-07-31",
+          "period": "2026Q2"
+        },
+        {
+          "claim": "6/30总债424亿美元、现金106亿美元，净债务/资本10.7%；上半年经营现金流322.60亿美元，营运资本是39亿美元现金消耗。",
+          "source_url": "https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0000034088-26-000093/xom-20260630.htm",
+          "source_date": "2026-08-03",
+          "period": "2026H1/2026-06-30"
+        },
+        {
+          "claim": "10/16公司Q3有限因素桥列出能源产品利润率环比影响+45亿美元、液体价格影响-13亿美元，另列Q3预计timing effects约-25亿美元；公司明确该表不是完整Q3盈利预测。",
+          "source_url": "https://content.equisolve.net/sec/0002115436-26-000013/f8k3q991101626.htm",
+          "source_date": "2026-10-16",
+          "period": "2026Q3 preview versus Q2"
+        },
+        {
+          "claim": "10/30约05:30 CT发布Q3材料、08:30 CT电话会，均在比赛结束之前。",
+          "source_url": "https://investor.exxonmobil.com/news-events/ir-calendar/detail/20261030-3q-2026-earnings-call",
+          "source_date": "2026-10-16 announcement/calendar reviewed 2026-10-24",
+          "period": "2026Q3 event"
+        }
+      ],
+      "quality": [
+        "经营质量判断：Q2现金产出及杠杆可支持分红、资本开支和回购，但高现金流主要来自当期油品与炼油周期，不能年化成永久FCF。",
+        "EPS质量筛查触发。GAAP/adjusted差仅1.55亿美元并不代表无特殊项；减值/财务准备的负面与衍生品/现货时点正面相抵。后续必须分别比较reported、adjusted、timing bridge，防止把会反转的项目算作盈利趋势。",
+        "XOM营运资本上半年消耗现金，与CVX Q2获营运资本释放不同；因此不能只按当季CFO/净利润排序两家的质量。",
+        "FCF为公司非GAAP定义，包含资产处置等现金项目，不能与CVX简单CFO-capex或其他公司的FCF机械横比。关注剔除营运资本与资产出售后的现金覆盖。",
+        "结构性产量和成本改善能提高中周期盈利，但中东停产、原料/物流及利润率也会同时冲击上游和下游；一体化不构成保本。"
+      ],
+      "valuation_basis": {
+        "preferred": "中周期油价/炼油利润率下的正常化EPS与FCF、净债务、资本开支及分配覆盖；EV/DACF作交叉验证。",
+        "avoid": "不把Q2 EPS3.52×4或FCF172亿美元×4当年度正常盈利；不以低TTM PE证明便宜。也不把10/16有限因素桥相加当完整Q3EPS预测。",
+        "dated_price": "10/22完整收盘178.23美元；21交易日已涨10.54%，仅为过去价格事实，不能据此断言市场已完整计价。",
+        "mispricing_status": "炼油改善已经公司预告，基本面为正但尚未证明相对于已披露信息存在额外预期差。"
+      },
+      "catalyst": [
+        {
+          "event": "Q3实际结果与现金桥",
+          "date": "2026-10-30 05:30 CT ≈ 北京18:30；电话会08:30 CT≈21:30",
+          "status": "officially confirmed",
+          "source_url": "https://investor.exxonmobil.com/news-events/ir-calendar/detail/20261030-3q-2026-earnings-call",
+          "decision_relevance": "重在已预告利润率收益是否被营运、化工、准备金、资本开支或现金消耗抵消；调整后现金转换优于单看GAAP同比。"
+        },
+        {
+          "event": "10/26至11/13油价/炼油价差及中东经营恢复",
+          "date": "持续观察窗口",
+          "status": "monitoring window, not a dated catalyst",
+          "source_url": "https://content.equisolve.net/sec/0002115436-26-000013/f8k3q991101626.htm",
+          "decision_relevance": "停火可能降低利润率，冲突升级也可能降低产量；两种不同机制都能让油股保护失效。"
+        }
+      ],
+      "downside_mechanism": "需求衰退或供应恢复压低原油与炼油利润率，叠加已上涨后估值回吐；反之战争导致运输/设施中断或特别税，也可能出现油价涨而XOM现金不涨。长期项目优势不保证三周比赛窗口超额收益。",
+      "falsifier": [
+        "10/30实际正常化经营表现弱于10/16公开桥能够解释的范围，且现金转换/运营可靠性恶化；停止由首仓向目标扩张。",
+        "剔除营运资本/资产出售后现金不足以支持有纪律的资本开支与分配，或公司提高资本开支却无可见回报证据；下调质量判断。",
+        "能源板块相对强度破坏且炼油利润率/油价同时回落；不要仅因价格便宜于前日而补仓。"
+      ],
+      "decision": {
+        "action": "wait for proof / conditional starter",
+        "monday_weight_pct": 2,
+        "post_earnings_conditional_range_pct": [
+          4,
+          6
+        ],
+        "rationale": "保留有限油价/盈利韧性敞口，财报前不过度支付已知炼油利好；符合WLS与账户可买性才进入。",
+        "next_buy_evidence": "Q3现金/产量/费用桥与已预告因素一致或更好，剔除时点效应后改善，价格未因只兑现已知利好而持续失守；最新价和正常化估值有可接受空间。"
+      },
+      "proposed_max_weight": 6,
+      "risk_budget": {
+        "ordinary_event_gap_assumption_pct": -15,
+        "starter_loss_nav_pct": 0.3,
+        "stress_assumption_pct": -25,
+        "max_weight_stress_loss_nav_pct": 1.5,
+        "interpretation": "分析者示例情景，非止损保证；能源两股合计须另算共同冲击。",
+        "binding_constraint": "同日财报/油价风险簇与缺少经核实的预期差；20%规则上限不是主要约束。"
+      },
+      "evidence_gaps": [
+        "截至本文件尚无Q3实际业绩。",
+        "无同截点可靠正常化前瞻估值、独立共识和炼油价差逐日数据。",
+        "本轮未取得完整官方电话会Q&A；已读公司公告、10-Q和Q3因素桥，管理层执行主张未获独立验证。",
+        "WLS成员和比赛账户可交易证券仍待核。"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "facts": [
+        {
+          "claim": "Q2 GAAP盈利120.72亿美元，调整119.77亿美元；GAAP EPS6.11、调整6.06。含资产出售收益2.30亿美元、养老金结算成本0.86亿美元及汇率影响-0.49亿美元。",
+          "source_url": "https://chevroncorp.gcs-web.com/node/38551",
+          "source_date": "2026-07-31",
+          "period": "2026Q2"
+        },
+        {
+          "claim": "Q2经营现金流226亿美元，剔除营运资本197亿美元；FCF181亿美元；公司披露有利timing effects14亿美元，产量407万桶油当量/日、同比+20%，主要含Hess并购贡献。",
+          "source_url": "https://chevroncorp.gcs-web.com/node/38551",
+          "source_date": "2026-07-31",
+          "period": "2026Q2"
+        },
+        {
+          "claim": "6/30债务及融资租赁371亿美元、现金等约85亿美元，净债比13.1%；H1 CFO251.47亿美元、capex86.01亿美元、FCF165.46亿美元。",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000167/cvx-20260630.htm",
+          "source_date": "2026-08 (Q2 10-Q)",
+          "period": "2026H1/2026-06-30"
+        },
+        {
+          "claim": "10/30 11:00 ET召开Q3电话会；未把电话会时刻直接写成业绩发布时刻。",
+          "source_url": "https://chevroncorp.gcs-web.com/",
+          "source_date": "calendar reviewed 2026-10-24",
+          "period": "2026Q3 event"
+        }
+      ],
+      "quality": [
+        "盈利增长包含商品价格与Hess资产并表，不能把+20%产量全称有机增长。需要固定资产口径的量、实现售价、单位成本、TCO分配与并购协同现金分别核查。",
+        "reported/adjusted EPS接近也不等于无周期/会计扰动。该公司的adjusted口径并未消除所有timing effects；14亿美元正面时点效应可能在后续反转。",
+        "Q2 CFO高于剔除营运资本口径29亿美元；有利营运资本和TCO分配均有时点性。Q1 FCF为负、Q2大幅转正，两个极端季度都不应单独年化。",
+        "负债下降与现金生成是缓冲，但Hess并购带来资本支出和执行/整合风险；回购与协同run-rate是管理层资本分配/效率主张，不能自动等同本季可分配现金。",
+        "与XOM比较必须统一FCF、timing和working-capital口径；只凭Q2 FCF高于同业就扩大CVX会偏向最有利的时点。"
+      ],
+      "valuation_basis": {
+        "preferred": "同油价/利润率与同资产范围的正常化现金流收益率、EV/DACF、净债务及持续资本开支；先剔除处置、时点、并表增长。",
+        "avoid": "不把6.06美元季度调整EPS×4当稳定年EPS；不把Hess新增份额/资产带来的同比产量直接解释为每股价值同幅增长。",
+        "dated_price": "10/22完整收盘226.68美元；21交易日已涨10.30%。",
+        "mispricing_status": "未建立相对XOM更优的未计价盈利路径；持有两者主要分散公司执行风险，不能称分散油价风险。"
+      },
+      "catalyst": [
+        {
+          "event": "Q3电话会及结果",
+          "date": "2026-10-30 11:00 ET≈北京23:00电话会；结果发布时间另核",
+          "status": "official calendar confirmed",
+          "source_url": "https://chevroncorp.gcs-web.com/",
+          "decision_relevance": "核Hess/TCO实际贡献、剔除时点后的利润、营运资本反转与资本开支；不追求单季现金流标题。"
+        },
+        {
+          "event": "Hess协同与2026结构成本目标兑现",
+          "date": "截至11/13持续观察，不保证在比赛内有新增公告",
+          "status": "management plan / monitoring window",
+          "source_url": "https://chevroncorp.gcs-web.com/node/38551",
+          "decision_relevance": "需要相对已知run-rate新增可核验信息，不能重复把已宣布的协同当新催化。"
+        }
+      ],
+      "downside_mechanism": "停火或需求走弱使油价与产品利润率同时下行；营运资本释放反转，加上Hess资本开支/整合执行，令现金增幅比利润先消失。油企均受同一政策、税收、地缘及需求影响。",
+      "falsifier": [
+        "Q3 headline EPS强但剔除timing与处置后的盈利、现金质量变弱，或CFO主要依靠营运资本释放；不加仓。",
+        "Hess/TCO量与现金分配未兑现且单位成本上升，借并购放大的同比增速掩盖每股回报停滞；重新评估角色。",
+        "共同能源压力测试已超组合预算；即使单股低于3%亦不应为凑分散增加。"
+      ],
+      "decision": {
+        "action": "secondary candidate / optional small starter",
+        "monday_weight_pct": 1,
+        "post_earnings_conditional_range_pct": [
+          0,
+          3
+        ],
+        "rationale": "优先XOM，CVX只有在提供可信公司执行分散或更佳正常化估值时才占用预算；没有独立优势可保留0%。",
+        "next_buy_evidence": "实际剔除时点的利润与现金、Hess/TCO贡献可靠，估值比较优于XOM或公司执行相关性降低；两股能源总预算同时满足。"
+      },
+      "proposed_max_weight": 3,
+      "risk_budget": {
+        "ordinary_event_gap_assumption_pct": -15,
+        "starter_loss_nav_pct": 0.15,
+        "stress_assumption_pct": -25,
+        "max_weight_stress_loss_nav_pct": 0.75,
+        "interpretation": "XOM6%+CVX3%同跌25%约损失2.25%净值；若超总风险预算应降低二者，而非依赖油股对冲。",
+        "binding_constraint": "相对XOM增量价值不足、与其同日财报与共享因子。"
+      },
+      "evidence_gaps": [
+        "Q3尚未发布；最新sensitivities/forward-guidance完整表未获取。",
+        "无独立同截点可比正常化估值与完整官方Q&A。",
+        "Hess有机量、TCO分配与时点收益需Q3逐项核对。",
+        "WLS资格与比赛可买性待核。"
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "facts": [
+        {
+          "claim": "Q3净利153.05亿美元、EPS5.57；剔除6.58亿美元税前净投资证券损失后，净利约158亿美元、EPS5.75、ROTCE21%（reported为20%）。",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm",
+          "source_date": "2026-10-13",
+          "period": "2026Q3"
+        },
+        {
+          "claim": "Q3 managed收入509.07亿美元同比+8%，费用272.95亿美元同比+12%；信用成本27.43亿美元，其中净核销约22亿美元、净增提准备5.39亿美元；是增提而非准备释放。",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm",
+          "source_date": "2026-10-13",
+          "period": "2026Q3"
+        },
+        {
+          "claim": "Q3 tangible book value每股112.64美元，standardized CET1为13.9%；净回购6.64亿美元，管理层称本季主动减少回购以支持业务资本部署。",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm",
+          "source_date": "2026-10-13",
+          "period": "2026-09-30/Q3"
+        },
+        {
+          "claim": "公司Q3演示材料给出的2026 implied NII ex-Markets约972亿美元，2027 preliminary central case约1070亿美元；2026 adjusted expense约1086亿美元。均为公司前瞻判断，非独立共识或已实现业绩。",
+          "source_url": "https://jpmorganchaseco.gcs-web.com/node/943846/html",
+          "source_date": "2026-10-13",
+          "period": "2026 outlook/2027 preliminary"
+        },
+        {
+          "claim": "Q3财务补充列全行与分部信贷/资产资本数据，可用于验证EPS、证券损失和资本口径。",
+          "source_url": "https://jpmorganchaseco.gcs-web.com/node/943776/html",
+          "source_date": "2026-10-13",
+          "period": "2026Q3 supplement"
+        }
+      ],
+      "quality": [
+        "银行不用CFO-capex或EV/EBITDA衡量可分配盈利。存款、贷款及交易资产就是经营资产/融资；应看正常化ROTCE、NII ex-Markets、核销与拨备、CET1和流动性。",
+        "证券损失确有剔除桥，但它反映资产负债表重定位的经济成本，不应因管理层称discretionary就认定永不复发。必须同时展示5.57和5.75。",
+        "信用成本较上年下降支持净利，但本季净增提准备而非释放；不应错误称储备释放美化EPS。贷款增长扩大风险资产，资本充足率和集中贷款质量要随之跟踪。",
+        "费用同比增12%快于收入8%，存在经营杠杆压力。NII增长不完全等于利率越高越好：存款成本、资产估值、债务人利息负担及信贷损失可抵消。",
+        "少量回购限制了资本返还催化；保留资本若能转化为高回报贷款为正，否则高倍数买入者承担信贷周期与估值回落双重风险。"
+      ],
+      "valuation_basis": {
+        "preferred": "P/TBV配正常化ROTCE、资本要求、长期增长及cost of equity；PE作为交叉检查并保留证券损失和周期信用成本。",
+        "derived_example": "10/22收盘336.54 / 9/30 TBV112.64 ≈2.99倍P/TBV，公式清楚但不同日期且不是买入阈值；较高账面溢价要求ROTCE有持续性。",
+        "avoid": "不把本季5.75×4当可靠全年EPS或2027预期；不和油企、工业股用同一个EV/EBITDA榜单排序。",
+        "mispricing_status": "优质经营数据支持研究优先级，但尚未证明约3倍有形账面价值下仍有显著未计价上修。"
+      },
+      "catalyst": [
+        {
+          "event": "10/28 Fed、10/29 GDP/PCE影响银行利率与信用预期",
+          "date": "2026-10-28/29",
+          "status": "official macro events; earnings read-through is analyst inference",
+          "source_url": "https://www.bea.gov/news/schedule/",
+          "decision_relevance": "看贷款收益与存款成本/信用预期的净影响，不把加息机械当银行利好。"
+        },
+        {
+          "event": "已发布Q3向2027NII路径的再评价",
+          "date": "10/26–11/13观察窗口",
+          "status": "company outlook already public; no new company-specific hard date verified",
+          "source_url": "https://jpmorganchaseco.gcs-web.com/node/943846/html",
+          "decision_relevance": "不能把10/13已知指引重复计为未来新事件；重视新增证据与价格反应。"
+        }
+      ],
+      "downside_mechanism": "通胀与融资成本挤压借款人，信用损失和资本需求上升；费用增速与存款成本抵消NII；接近3倍TBV的估值在ROTCE回落时压缩。已发业绩减少近期财报跳空并不等于没有宏观/信贷跳空。",
+      "falsifier": [
+        "新披露显示核销/逾期/批发信用明显恶化，增提准备超贷款增长可解释范围，而估值仍按高ROTCE定价；下调仓位。",
+        "NII ex-Markets路径下修或存款竞争/融资成本显著上升；不以reported NII和市场交易收益互相掩盖。",
+        "费用增速持续高于收入，新增资本投放未转化为可持续回报；撤回进一步扩张理由。"
+      ],
+      "decision": {
+        "action": "quality candidate / conditional starter",
+        "monday_weight_pct": 4,
+        "conditional_target_range_pct": [
+          4,
+          6
+        ],
+        "rationale": "Q3资本和经营证据较完整，可较油企更早获得少量预算；估值和信用周期限制总仓。",
+        "next_buy_evidence": "最新完整收盘/估值未被追涨拉高，Fed/信用结果未破坏NII与正常化ROTCE，补充资产负债表与信贷趋势审查通过。"
+      },
+      "proposed_max_weight": 6,
+      "risk_budget": {
+        "ordinary_adverse_move_assumption_pct": -15,
+        "at_max_loss_nav_pct": 0.9,
+        "stress_assumption_pct": -30,
+        "max_weight_stress_loss_nav_pct": 1.8,
+        "interpretation": "0.9%为正常不利情景示例，压力可达1.8%甚至更大；用户若不接受，应将6%继续下调。",
+        "binding_constraint": "高P/TBV下的ROTCE持续性、信用周期和与BRK/经济周期的穿透重叠。"
+      },
+      "evidence_gaps": [
+        "本轮获取官方release、deck和supplement，未取得完整官方逐字电话会Q&A；2027判断尚未独立模型验证。",
+        "尚未读取正式Q3完整10-Q全部注释，不把财务补充等同完整监管申报。",
+        "无一致时戳的前瞻共识、信贷集中度压力模型和当前WLS权重。",
+        "WLS资格和最新可执行价格/深度待核。"
+      ]
+    },
+    {
+      "ticker": "BRK.B",
+      "facts": [
+        {
+          "claim": "Q2净利256.67亿美元，包含投资收益126.84亿美元；公司经营盈利129.83亿美元，对比上年111.60亿美元。GAAP EPS不可直接代表经营趋势。",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526344495/d159922dex991.htm",
+          "source_date": "2026-08-08",
+          "period": "2026Q2"
+        },
+        {
+          "claim": "Q2经营盈利包含非美元债务税后汇兑收益3.26亿美元，上年为汇兑损失8.77亿美元；保险承保利润17.31亿美元低于19.92亿美元，保险投资收益30.59亿美元低于33.67亿美元。",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526344495/d159922dex991.htm",
+          "source_date": "2026-08-08",
+          "period": "2026Q2"
+        },
+        {
+          "claim": "6/30保险及其他板块现金350.96亿美元、短期美国国库券3249.05亿美元；集团H1 CFO216.53亿美元，固定资产/租赁设备投资106.31亿美元。现金/国库券不是全部可无约束分配。",
+          "source_url": "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+          "source_date": "2026-08 (Q2 10-Q)",
+          "period": "2026H1/2026-06-30"
+        },
+        {
+          "claim": "GEICO Q2税前承保利润9.94亿美元、上年18.21亿美元，combined ratio91.2%高于83.5%；理赔频率/严重度及费用率上升。",
+          "source_url": "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+          "source_date": "2026-08 (Q2 10-Q)",
+          "period": "2026Q2"
+        },
+        {
+          "claim": "6/30保险及其他借款433.02亿美元，铁路/公用事业/能源借款852.97亿美元；BHE/BNSF债务不由Berkshire担保，集团层面现金不能机械抵销各业务全部融资。",
+          "source_url": "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+          "source_date": "2026-08 (Q2 10-Q)",
+          "period": "2026-06-30"
+        }
+      ],
+      "quality": [
+        "经营盈利同比约16.34%为分析者计算，但剔除已披露的债务FX，两期约126.57亿/120.37亿美元，增长约5.15%。该演算仍未剔除其他收购、税项和经营波动，不称完全正常化盈利。",
+        "投资市值波动进GAAP净利，运营口径虽更有用仍包含FX与税务等影响。不能使用低GAAP PE或把经营利润增速标题当整个集团主业全面加速。",
+        "保险float是负债及未来赔款责任，不是归股东自由现金。GEICO承保恶化在其他业务/投资表现中容易被掩盖；下次报表要先看combined ratio和保单/保费变化。",
+        "H1 CFO减资本投资约110.22亿美元仅为机械集团剩余现金，不是owner earnings，也没有减收购、保险资本或监管资金需求。",
+        "大额国库券、控股经营业务和管理层回购纪律提供韧性，但保险巨灾、BHE法律负担与铁路周期仍可能同时侵蚀估值。穿透持股应防与其他科技、金融、能源候选重叠。"
+      ],
+      "valuation_basis": {
+        "preferred": "分部估值/SOTP与正常化经营盈利、市值投资资产扣税负及必要资本交叉；P/B作粗校验，不把账面价值等同清算可分配价值。",
+        "numerical_crosscheck": "6/30 Berkshire股东权益7479.10亿美元，等价A股1431693股×1500≈21.4754亿等价B股，推算BV/B约348.26美元；10/22股价546.97/BV≈1.57倍。分母、价格日期不同，只是分析者交叉验证。",
+        "avoid": "不把7月末股数或平均股数误套到6/30账面；不单用净现金估值，也不把股内现金视为组合现金仓。",
+        "mispricing_status": "回购体现管理层判断，不能证明当前价格仍便宜；没有用故障的长桥BRK盈利日历/共识。"
+      },
+      "catalyst": [
+        {
+          "event": "Q3经营、GEICO承保、资本配置更新",
+          "date": "2026年11月上旬可能窗口；具体日期尚无本轮官方确认",
+          "status": "unconfirmed monitoring window",
+          "source_url": "https://www.berkshirehathaway.com/reports.html",
+          "decision_relevance": "仅在官方确认后纳入硬日历；不能写成确定11/7、也不把下一次13F假定为比赛内催化。"
+        },
+        {
+          "event": "回购/资本部署的新增证据",
+          "date": "未来公司披露窗口；本轮没有保证11/13前公告",
+          "status": "monitoring window",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526344495/d159922dex991.htm",
+          "decision_relevance": "需关注可持续经营回报及资金机会成本，而非简单现金越多越涨。"
+        }
+      ],
+      "downside_mechanism": "保险赔付/费用趋势和潜在巨灾加剧，公用事业法律责任与资本开支挤压现金，市场持股下跌；同时市场给予的质量溢价压缩。公司账上现金不能阻止BRK股价在科技急反弹中落后WLS。",
+      "falsifier": [
+        "Q3 GEICO combined ratio继续上升、承保利润下降且无可靠费率/费用改善路径；不因集团GAAP净利强而忽略。",
+        "剔除债务FX、投资波动与一次性后的经营增长/现金转换显著弱于质量溢价需要；降低预算。",
+        "新增大额资本部署回报不清、BHE法律/资本需求恶化，或最新估值已预付乐观增长；停止追加。"
+      ],
+      "decision": {
+        "action": "quality diversifier / conditional small starter",
+        "monday_weight_pct": 3,
+        "conditional_target_range_pct": [
+          4,
+          7
+        ],
+        "rationale": "可作经营业务多元化的质量股票，但短比赛窗口催化不确定、近10日已涨7.03%，不把它作为现金替代或追满。",
+        "next_buy_evidence": "官方Q3日程/经营更新更清楚，GEICO、剔FX利润和资金配置验证，同时最新估值仍能承受正常化增长较标题慢。"
+      },
+      "proposed_max_weight": 7,
+      "risk_budget": {
+        "ordinary_adverse_move_assumption_pct": -12,
+        "at_max_loss_nav_pct": 0.84,
+        "stress_assumption_pct": -20,
+        "max_weight_stress_loss_nav_pct": 1.4,
+        "interpretation": "现金多降低公司部分融资风险但不约束股价下跌；股票极端损失可能超过该压力。",
+        "binding_constraint": "短窗催化弱、保险质量转弱与金融/能源/权益资产隐藏重叠。"
+      },
+      "evidence_gaps": [
+        "官方Q3准确披露日期未确认；聚合站日期相互矛盾，未采用。",
+        "完整10-Q已读关键财务/保险/负债段落，但未完成所有持股逐项估值及法律诉讼量化。",
+        "没有季度电话会完整Q&A来源；不创造管理层问答。",
+        "当前WLS资格、权重与最新估值仍待核。"
+      ]
+    },
+    {
+      "ticker": "TM",
+      "facts": [
+        {
+          "claim": "FY2027Q1即2026年4–6月：营收135254亿日元同比+10.4%，营业利润10634亿日元同比-8.8%，归属Toyota净利14770亿日元同比+75.6%。",
+          "source_url": "https://pressroom.toyota.com/tmc-announces-april-through-june-2026-financial-results/",
+          "source_date": "2026-08-04",
+          "period": "FY2027Q1 ended 2026-06-30"
+        },
+        {
+          "claim": "SEC表列other finance income8506亿日元、上年1537亿；净外汇收益1124亿、上年损失2124亿；不能把净利润大增直接归为汽车营业利润增长。",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526331392/d258414dex991.htm",
+          "source_date": "2026-08-04",
+          "period": "FY2027Q1"
+        },
+        {
+          "claim": "Q1 CFO5365亿日元、上年18765亿；经营资产负债等变动为-14319亿、缴税8294亿；现金减少23165亿至103430亿，同时回购支出36569亿。",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526331392/d258414dex991.htm",
+          "source_date": "2026-08-04",
+          "period": "FY2027Q1 cash flow"
+        },
+        {
+          "claim": "公司演示材料显示营业利润率9.5%降至7.9%，汇率对营业利润贡献+3450亿日元；全年营业利润预测由3.0万亿上调3.4万亿，汇率假设美元兑日元由150改160。",
+          "source_url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_presentation_2_en.pdf",
+          "source_date": "2026-08-04",
+          "period": "FY2027Q1 and FY2027 guidance"
+        },
+        {
+          "claim": "6/30短债及一年内到期长债178687亿日元、长债260845亿；金融业务应收款单列，不能将合并有息债全当汽车工业业务净债。",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526331392/d258414dex991.htm",
+          "source_date": "2026-08-04",
+          "period": "2026-06-30"
+        }
+      ],
+      "quality": [
+        "主业和净利方向分离，是强制EPS质量审查案例。非经营收益、权益法投资及汇兑共同影响税前/归母利润；本轮没有把other finance income每个组成全部拆清，不能一概称一次性，更不能视为经常汽车盈利。",
+        "现金流低于盈利并不直接证明会计问题：经营资产负债、税、金融业务放贷和资本结构需桥接；但大额回购与股息由何种现金来源支持，值得在下一季重点追问。",
+        "全年指引上调部分依赖更弱日元假设。若日元走强，美元ADR的汇率换算可能受益，同时出口业务日元盈利承压，两条方向可抵消，不能把TM简单当多日元交易。",
+        "产销量同比需考虑Hino退出并表；收入增长也含价格、汇率和产品组合。混动需求韧性与整体营业利润承压可以并存。",
+        "汽车金融业务的债务对应应收款/租赁资产，适用匹配期限、残值和信用质量审查；与汽车工业债务分开，避免用合并高负债否定一切或用现金忽略金融杠杆。"
+      ],
+      "valuation_basis": {
+        "preferred": "汽车业务正常化营业利润/工业FCF及净流动性，金融业务权益/正常化ROE分部；ADR估值需核存托比例、股票拆分、汇率和税/费用。",
+        "avoid": "不拿每本地股120.69日元季度EPS直接除美元ADR198.22；不年化净利1.477万亿作为汽车稳定盈利，也不忽略汇率假设变化。",
+        "dated_price": "10/22完整收盘TM ADR198.22美元，旧文件20日美元成交额近似5858万美元，明显小于本分工其他大型美股，但实际账户规模未获确认。",
+        "mispricing_status": "可研究全球汽车/日本敞口，但尚无已核验的短比赛窗口预期差，加入它不能仅为地理分散。"
+      },
+      "catalyst": [
+        {
+          "event": "BOJ会议及汇率/汽车利润预期",
+          "date": "2026-10-29至30日本当地",
+          "status": "official macro calendar; stock impact uncertain",
+          "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+          "decision_relevance": "需同时计算本币盈利和ADR换算，不能只押日元方向。"
+        },
+        {
+          "event": "FY2027Q2结果",
+          "date": "11月上旬可能窗口；11/5来自二级日历，Toyota官方日历本轮工具不可读",
+          "status": "not officially verified in this lane",
+          "source_url": "https://global.toyota/en/ir/calendar/",
+          "decision_relevance": "执行前查官方准确时间；重在工业利润、现金转换、关税/运费、汇率假设及资本回报，未确认前不作为确定催化。"
+        }
+      ],
+      "downside_mechanism": "日元升值削弱出口利润，能源/物流/关税或开发费用使工业利润率继续下降，汽车金融残值/信用承压；ADR的汇率换算不足以抵消盈利估值下修。若ADR不被比赛视为合规正股，研究再好也不应进入账户。",
+      "falsifier": [
+        "下一份官方业绩显示营业利润率与工业现金流继续下降，而净利仅靠金融/汇率项目维持；不能以低PE补仓。",
+        "全年营业利润指引依赖的汇率假设偏离且本地经营改善不足，或税/营运资金后的现金长期不支持资本回报；撤回配置理由。",
+        "TM ADR或当地7203任一具体证券不在WLS/比赛允许名单中；该证券预算保持0，不以公司同名推定可替换。"
+      ],
+      "decision": {
+        "action": "exclude from Monday pending instrument eligibility and operating proof",
+        "monday_weight_pct": 0,
+        "conditional_target_range_pct": [
+          0,
+          2
+        ],
+        "rationale": "相较其他已核验美股，资格、ADR与业绩桥的复杂性提高，原B周一3%和目标4%缺乏足够依据；优先保留现金。",
+        "next_buy_evidence": "证券级WLS及ADR是否属于允许正股明确，官方Q2日期确认，工业利润/现金质量得到改善证据并完成ADR估值换算。"
+      },
+      "proposed_max_weight": 2,
+      "risk_budget": {
+        "ordinary_adverse_move_assumption_pct": -15,
+        "at_max_loss_nav_pct": 0.3,
+        "stress_assumption_pct": -25,
+        "max_weight_stress_loss_nav_pct": 0.5,
+        "interpretation": "2%仅是资格获确认后的条件风险上限；当前可执行预算0%。",
+        "binding_constraint": "ADR合规/资格、净利质量与工业现金流证据，而非20%规则上限。"
+      },
+      "evidence_gaps": [
+        "TM ADR是否符合只做多正股的比赛定义与证券级WLS资格未确认。",
+        "本轮Toyota IR普通网页/日历工具读取失败；官方美国新闻、SEC 6-K和官方演示PDF已读，二级11/5日历不升级为确定事实。",
+        "未完整拆解other finance income内部所有项目，未取得汽车/金融业务可比正常化估值和ADR存托文件。",
+        "暂无完整电话会Q&A；没有独立同截点前瞻共识。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1073 @@
+{
+  "CVX": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "61646139060.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "14026022000.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "4.7142"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "4.8260"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "2",
+      "period_text": "Q2 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "70055000000.0000",
+          "estimate": "60380594990.0000",
+          "comp_value": "9674405010.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "17036000000.0000",
+          "estimate": "17163049450.0000",
+          "comp_value": "-127049450.0000",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "6.1100",
+          "estimate": "5.5987",
+          "comp_value": "0.5113",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "6.0600",
+          "estimate": "5.5679",
+          "comp_value": "0.4921",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  },
+  "XOM": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "106024365960.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "24319926390.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "3.9982"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "4.0327"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "2",
+      "period_text": "Q2 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "116017000000.0000",
+          "estimate": "97656912680.0000",
+          "comp_value": "18360087320.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "22289000000.0000",
+          "estimate": "19217551780.0000",
+          "comp_value": "3071448220.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "3.4800",
+          "estimate": "3.5757",
+          "comp_value": "-0.0957",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "3.5200",
+          "estimate": "3.6289",
+          "comp_value": "-0.1089",
+          "comp_desc": "不及预期"
+        }
+      ]
+    }
+  },
+  "JNJ": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "4",
+      "period_text": "Q4 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "26426549370.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "8334961420.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "2.4200"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "2.9151"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "25399000000.0000",
+          "estimate": "25370181710.0000",
+          "comp_value": "28818290.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "7608000000.0000",
+          "estimate": "7416678290.0000",
+          "comp_value": "191321710.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "0.0900",
+          "estimate": "2.0700",
+          "comp_value": "-1.9800",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "2.5900",
+          "estimate": "2.5223",
+          "comp_value": "0.0678",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  },
+  "ABBV": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "17346965960.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "8462526340.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "2.3071"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "3.7788"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "2",
+      "period_text": "Q2 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "16990000000.0000",
+          "estimate": "16762322360.0000",
+          "comp_value": "227677640.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "8213000000.0000",
+          "estimate": "8103471840.0000",
+          "comp_value": "109528160.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "2.0300",
+          "estimate": "1.9107",
+          "comp_value": "0.1193",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "3.6500",
+          "estimate": "3.6084",
+          "comp_value": "0.0416",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  },
+  "WMT": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2027,
+      "fiscal_period": "3",
+      "period_text": "Q3 2027",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "187190411600.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "7544627440.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "0.6357"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "0.6358"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2027,
+      "fiscal_period": "2",
+      "period_text": "Q2 2027",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "187937000000.0000",
+          "estimate": "186824595550.0000",
+          "comp_value": "1112404450.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "9248000000.0000",
+          "estimate": "8667893100.0000",
+          "comp_value": "580106900.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "0.8000",
+          "estimate": "0.7425",
+          "comp_value": "0.0575",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "0.8100",
+          "estimate": "0.7413",
+          "comp_value": "0.0687",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  },
+  "PG": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2027,
+      "fiscal_period": "2",
+      "period_text": "Q2 2027",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "22921126310.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "5601543470.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "1.8057"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "1.8283"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2027,
+      "fiscal_period": "1",
+      "period_text": "Q1 2027",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "23276000000.0000",
+          "estimate": "22823469550.0000",
+          "comp_value": "452530450.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "6035000000.0000",
+          "estimate": "5669376770.0000",
+          "comp_value": "365623230.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "1.9700",
+          "estimate": "1.8583",
+          "comp_value": "0.1117",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "2.0000",
+          "estimate": "1.8928",
+          "comp_value": "0.1072",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  },
+  "JPM": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "4",
+      "period_text": "Q4 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "51142683070.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "23280500000.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "5.8437"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "5.9032"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "50172000000.0000",
+          "estimate": "51215704930.0000",
+          "comp_value": "-1043704930.0000",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "22877000000.0000",
+          "estimate": "24082285710.0000",
+          "comp_value": "-1205285710.0000",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "5.5700",
+          "estimate": "5.9150",
+          "comp_value": "-0.3450",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "5.7500",
+          "estimate": "5.9427",
+          "comp_value": "-0.1927",
+          "comp_desc": "不及预期"
+        }
+      ]
+    }
+  },
+  "BRK.B": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "1",
+      "period_text": "Q1 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "94693000000.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false
+        },
+        {
+          "key": "eps",
+          "is_released": false
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2025,
+      "fiscal_period": "4",
+      "period_text": "Q4 2025",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "94232000000.0000",
+          "estimate": "99176000000.0000",
+          "comp_value": "-4944000000.0000",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true
+        },
+        {
+          "key": "eps",
+          "is_released": true
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true
+        }
+      ]
+    }
+  },
+  "MSFT": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2027,
+      "fiscal_period": "1",
+      "period_text": "Q1 2027",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "90719834050.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "44039014960.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "4.7209"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "4.7161"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "4",
+      "period_text": "Q4 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "90007000000.0000",
+          "estimate": "87630789490.0000",
+          "comp_value": "2376210510.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "40603000000.0000",
+          "estimate": "39041106760.0000",
+          "comp_value": "1561893240.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "4.8100",
+          "estimate": "4.2169",
+          "comp_value": "0.5931",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "4.7400",
+          "estimate": "4.2394",
+          "comp_value": "0.5006",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  },
+  "GOOGL": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "127853434530.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "43073064050.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "3.0037"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "2.9659"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "2",
+      "period_text": "Q2 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "119796000000.0000",
+          "estimate": "116976077690.0000",
+          "comp_value": "2819922310.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "40770000000.0000",
+          "estimate": "40291787650.0000",
+          "comp_value": "478212350.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "9.1100",
+          "estimate": "2.8991",
+          "comp_value": "6.2109",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "2.8500",
+          "estimate": "2.9127",
+          "comp_value": "-0.0627",
+          "comp_desc": "不及预期"
+        }
+      ]
+    }
+  },
+  "LMT": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "4",
+      "period_text": "Q4 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "22577587620.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "2715593780.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "8.4612"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "8.4841"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "20711000000.0000",
+          "estimate": "20464849230.0000",
+          "comp_value": "246150770.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "2443000000.0000",
+          "estimate": "2468167760.0000",
+          "comp_value": "-25167760.0000",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "7.9700",
+          "estimate": "7.5179",
+          "comp_value": "0.4521",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "7.9700",
+          "estimate": "7.5222",
+          "comp_value": "0.4479",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  },
+  "AMZN": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "202202781700.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "26089586610.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "1.9579"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "1.9823"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "2",
+      "period_text": "Q2 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "200606000000.0000",
+          "estimate": "196619189040.0000",
+          "comp_value": "3986810960.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "27461000000.0000",
+          "estimate": "23599041390.0000",
+          "comp_value": "3861958610.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "5.7500",
+          "estimate": "1.8260",
+          "comp_value": "3.9240",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "1.9505",
+          "estimate": "1.8185",
+          "comp_value": "0.1320",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  },
+  "TM": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2027,
+      "fiscal_period": "2",
+      "period_text": "Q2 2027",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "85455816746.1752"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "6163723800.9310"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "2.7350"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2027,
+      "fiscal_period": "1",
+      "period_text": "Q1 2027",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "83190227820.6961",
+          "estimate": "79797629533.0417",
+          "comp_value": "3392598287.6544",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "6541068001.7714",
+          "estimate": "6819122884.1707",
+          "comp_value": "-278054882.3993",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "7.6602",
+          "estimate": "3.9370",
+          "comp_value": "3.7232",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true
+        }
+      ]
+    }
+  },
+  "ETN": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "8524657130.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "1750389580.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "2.9749"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "3.5463"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "2",
+      "period_text": "Q2 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "8531000000.0000",
+          "estimate": "8155060710.0000",
+          "comp_value": "375939290.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "1570000000.0000",
+          "estimate": "1552607070.0000",
+          "comp_value": "17392930.0000",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "2.1100",
+          "estimate": "2.5990",
+          "comp_value": "-0.4890",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "3.1500",
+          "estimate": "3.0764",
+          "comp_value": "0.0736",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  },
+  "NEE": {
+    "currency": "USD",
+    "next": {
+      "fiscal_year": 2026,
+      "fiscal_period": "4",
+      "period_text": "Q4 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": false,
+          "estimate": "8837805790.0000"
+        },
+        {
+          "key": "ebit",
+          "is_released": false,
+          "estimate": "2261930070.0000"
+        },
+        {
+          "key": "eps",
+          "is_released": false,
+          "estimate": "0.6121"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": false,
+          "estimate": "0.5818"
+        }
+      ]
+    },
+    "last": {
+      "fiscal_year": 2026,
+      "fiscal_period": "3",
+      "period_text": "Q3 2026",
+      "details": [
+        {
+          "key": "revenue",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "8090000000.0000",
+          "estimate": "8668847500.0000",
+          "comp_value": "-578847500.0000",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "ebit",
+          "is_released": true,
+          "comp": "miss_est",
+          "actual": "2624000000.0000",
+          "estimate": "3216456330.0000",
+          "comp_value": "-592456330.0000",
+          "comp_desc": "不及预期"
+        },
+        {
+          "key": "eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "2.2800",
+          "estimate": "1.1802",
+          "comp_value": "1.0998",
+          "comp_desc": "超出预期"
+        },
+        {
+          "key": "normalized_eps",
+          "is_released": true,
+          "comp": "beat_est",
+          "actual": "1.2400",
+          "estimate": "1.1913",
+          "comp_value": "0.0487",
+          "comp_desc": "超出预期"
+        }
+      ]
+    }
+  }
+}

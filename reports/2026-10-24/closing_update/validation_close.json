@@ -1,0 +1,70 @@
+{
+  "passed": true,
+  "session": "2026-10-23 regular-session quote snapshot",
+  "prices": 260,
+  "returns": 259,
+  "instruments": 48,
+  "models_checked": 5,
+  "html_pages": 18,
+  "local_links": 340,
+  "independent_weighted_return_volatility": {
+    "原B_75": {
+      "20": 6.909175820677889,
+      "60": 7.153653164424936,
+      "120": 7.037357814597615,
+      "252": 6.743605003461998
+    },
+    "原B同比缩到50": {
+      "20": 4.606117213785259,
+      "60": 4.769102109616625,
+      "120": 4.6915718763984104,
+      "252": 4.495736668974666
+    },
+    "修订B_50": {
+      "20": 5.766342105157194,
+      "60": 5.314358374843063,
+      "120": 5.420671069236895,
+      "252": 4.724526306728395
+    },
+    "修订B周一20": {
+      "20": 3.2176007939968936,
+      "60": 2.5367003524750884,
+      "120": 2.528902209778898,
+      "252": 2.255007206878588
+    },
+    "修订B条件35": {
+      "20": 4.036439473610036,
+      "60": 3.720050862390144,
+      "120": 3.7944697484658265,
+      "252": 3.307168414709875
+    }
+  },
+  "all_stresses_independently_summed": true,
+  "independent_recession_fixture": true,
+  "beta_direct_regression_checked": true,
+  "single_previous_close_conflict": "PG 0.005 dollars explicitly retained and sensitivity checked",
+  "cash_permission": "user confirmed",
+  "visual_qa": "passed desktop opening, allocations, risk table and individual-stock section via local HTTP browser",
+  "calculator_browser_check": "passed default 1m starter, 2m target and invalid zero NAV; restored default",
+  "sha256": {
+    "2026-10-24\\closing_update\\monday_close_update_20261024.html": "3794135be8a336507f62a6d02290146411def000e24cbc1c98787234bf12a80b",
+    "2026-10-24\\stock_deep_dive_risk_20261024.html": "106b5aa9c73f386fbf30065fc9ce732eee644120f415bab30db2ab77777d777b",
+    "2026-10-24\\stocks\\ABBV.html": "d94ed7a9b0b65bdc74ba9a9301899e965076582a067c141dc337e06bfbf3d49a",
+    "2026-10-24\\stocks\\AMZN.html": "6bfc9a43239a3c40fd44a0f1237c3f21ff91efcc1b5b0468d34c918376b66136",
+    "2026-10-24\\stocks\\BRK_B.html": "05d027e197be820dd86e833e026308029c0db06368ea42c5735a227397f7edf5",
+    "2026-10-24\\stocks\\CVX.html": "2fad90caf851fb2dc954680e3c5d1ad62cea19c75eb4b5303c5a2615f54848ab",
+    "2026-10-24\\stocks\\ETN.html": "d44af06705f1041bc906c5316fc30bdad5344b89c3dbcf04f048ad51d8ac90af",
+    "2026-10-24\\stocks\\GOOGL.html": "efb5a5d8632d5e69a42da4739874e89c6a29332e7a5b8386f3233c5eb90cdc71",
+    "2026-10-24\\stocks\\JNJ.html": "c83d96c8e657711684c88dee730014bcc6323bcec3e472e6e71abb561a6b3553",
+    "2026-10-24\\stocks\\JPM.html": "e4c45093c68e6d975a81daa321e89093d1dff42760afc244f9cfdaf9e25f79ca",
+    "2026-10-24\\stocks\\LMT.html": "e3d659c3bdacf86e1420531cba541b1f48725b688b05b91d2d27139d2997236f",
+    "2026-10-24\\stocks\\MSFT.html": "7c558701c31db469b932874c822cfdff04021baae110146e2f7ff8bc838f5753",
+    "2026-10-24\\stocks\\NEE.html": "f515aaec7cd06ff7b498d72d9e9edacd5ec815d0550e84ad4f57b20d8b422ca1",
+    "2026-10-24\\stocks\\PG.html": "b5861cce6b4e54d93511e623434ee01d7fb53f5aa293a19cafa6e7d7a7d6f83d",
+    "2026-10-24\\stocks\\TM.html": "4e1313494ff5dd775a5370aa28a9eb9f443c4ed9343ce165c13afa1f83e15c4a",
+    "2026-10-24\\stocks\\WMT.html": "bb625452b1fcf69e2f2e0ce84be50042799b10421965d6fdba05043b8dcf7e35",
+    "2026-10-24\\stocks\\XOM.html": "d2127b9977785b0b712331c18f5bee34971ec8167b3093b6def7fb04d09e9de6",
+    "2026-10-23\\global_market_positioning_20261026.html": "e80fb72919ecac57a827149ca31e600ca227679db63b2d35f71c97fd8a14ffe1"
+  },
+  "browser_console_errors": []
+}

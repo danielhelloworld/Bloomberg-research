@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "ROOT-MSFT-EVENT",
+    "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/",
+    "title": "Microsoft quarterly earnings date",
+    "published": "2026-10-07",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "FY27Q1 release Oct28 after close; call14:30PT=17:30ET"
+  },
+  {
+    "id": "ROOT-AMZN-EVENT",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report",
+    "title": "Amazon Q3 2026 conference call",
+    "published": "2026-10-15",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "Oct29 call17:00ET; title/body Q3, ignore inconsistent web extraction page label Q2"
+  },
+  {
+    "id": "ROOT-GOOGL-EVENT",
+    "url": "https://www.publicnow.com/view/44136C85C4D5D099F2F1F5740EF199299B51D499",
+    "title": "Alphabet announces Q3 2026 call date",
+    "published": "2026-10-06",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "issuer distribution search-index text; direct IR navigation shell, distribution正文HTTP403; exchange commentary independently supports date",
+    "facts": "Oct28 call16:30ET; release before call, exact release minute not stated"
+  },
+  {
+    "id": "ROOT-FED",
+    "url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+    "title": "Federal Reserve October2026 calendar",
+    "published": "calendar last update label2025-06-24; dated2026 schedule read",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "official",
+    "facts": "Oct27–28 FOMC; Oct28 14:00ET decision/14:30ET press conference"
+  },
+  {
+    "id": "ROOT-BEA",
+    "url": "https://www.bea.gov/news/schedule/full",
+    "title": "BEA official 2026 releases",
+    "published": "2026 schedule",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "official",
+    "facts": "Oct29 08:30ET Q3 advance GDP and September personal income/outlays"
+  },
+  {
+    "id": "ROOT-TCB",
+    "url": "https://www.conference-board.org/topics/consumer-confidence/?cq_net=g",
+    "title": "Consumer confidence next release",
+    "published": "September2026 release",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "publisher primary",
+    "facts": "Next release Oct27 10:00ET; no new survey outcome assumed"
+  },
+  {
+    "id": "ROOT-CBOE",
+    "url": "https://www.cboe.com/insights/posts/sell-off-widens-as-oil-rallies-amid-middle-east-conflict",
+    "title": "Sell-off widens as oil rallies",
+    "published": "2026-10-23",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "exchange commentary; interpretation, not company filing",
+    "facts": "Risk-off oil/rates backdrop, defensive sectors also pulled back, next week major tech earnings"
+  },
+  {
+    "id": "ROOT-ABBV-EVENT",
+    "url": "https://abbvie.gcs-web.com/news-releases/news-release-details/abbvie-host-third-quarter-2026-earnings-conference-call",
+    "title": "AbbVie third quarter call",
+    "published": "2026-10-01",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "Oct30 before market open; call08:00CT=09:00ET"
+  },
+  {
+    "id": "ROOT-XOM-EVENT",
+    "url": "https://investor.exxonmobil.com/news-events/ir-calendar/detail/20261030-3q-2026-earnings-call",
+    "title": "Exxon third quarter call",
+    "published": "2026 event calendar",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "Oct30 materials05:30CT=06:30ET; call08:30CT=09:30ET"
+  },
+  {
+    "id": "ROOT-CVX-EVENT",
+    "url": "https://chevroncorp.gcs-web.com/",
+    "title": "Chevron investor calendar",
+    "published": "2026-10-01 announcement",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "Oct30 call11:00ET; release before call, exact minute not stated"
+  },
+  {
+    "id": "SEM-NVDA-1",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/",
+    "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+    "published": "2026-08-26",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-NVDA-2",
+    "url": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx",
+    "title": "NVIDIA Events & Presentations",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened_dynamic_calendar_incomplete"
+  },
+  {
+    "id": "SEM-TSM-1",
+    "url": "https://investor.tsmc.com/schinese/encrypt/files/encrypt_file/reports/2026-10/526b65af7305df2dde6b9ece6812b1fdf1e49f9b/3Q26%20EarningsRelease.pdf",
+    "title": "TSMC Reports Third Quarter EPS of NT$29.43",
+    "published": "2026-10-15",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_PDF_opened"
+  },
+  {
+    "id": "SEM-TSM-2",
+    "url": "https://investor.tsmc.com/chinese/encrypt/files/encrypt_file/qr/phase4_reports/2026-10/e18db1d00f041c8d37a90dedbcb150518d8277d9/FS.pdf",
+    "title": "TSMC 2026 Q3 Consolidated Condensed Financial Statements",
+    "published": "2026-10-15",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_PDF_opened"
+  },
+  {
+    "id": "SEM-AMD-1",
+    "url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results",
+    "title": "AMD Reports Second Quarter 2026 Financial Results",
+    "published": "2026-08-04",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-AMD-2",
+    "url": "https://ir.amd.com/news-events/ir-calendar",
+    "title": "AMD IR Calendar",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-AVGO-1",
+    "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial",
+    "title": "Broadcom Third Quarter Fiscal Year 2026 Financial Results",
+    "published": "2026-09-02",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-AVGO-2",
+    "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+    "title": "Broadcom Financial News",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-MU-1",
+    "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/",
+    "title": "Micron Record Fiscal Fourth-Quarter and Full-Year 2026 Results",
+    "published": "2026-09-30",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-ASML-1",
+    "url": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026",
+    "title": "ASML Q3 2026 results",
+    "published": "2026-10-14",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-ARM-1",
+    "url": "https://investors.arm.com/static-files/d8db20bd-7b96-486a-b99b-23315627d1ec",
+    "title": "Arm FY2027 Q1 Shareholder Letter",
+    "published": "2026-07-29",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_PDF_opened"
+  },
+  {
+    "id": "SEM-ARM-2",
+    "url": "https://investors.arm.com/financials/quarterly-annual-results",
+    "title": "Arm Quarterly Results and November 4 webcast",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-QCOM-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000085/qcom062826erex991.htm",
+    "title": "Qualcomm FY2026 Q3 Earnings Release Exhibit 99.1",
+    "published": "2026-07-29",
+    "accessed": "2026-10-25",
+    "source_type": "issuer_SEC_exhibit_opened"
+  },
+  {
+    "id": "SEM-QCOM-2",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000086/qcom-20260628.htm",
+    "title": "Qualcomm FY2026 Q3 Form 10-Q",
+    "published": "2026-07-29",
+    "accessed": "2026-10-25",
+    "source_type": "issuer_SEC_10Q_opened"
+  },
+  {
+    "id": "SEM-QCOM-3",
+    "url": "https://www.qualcomm.com/news/releases/2026/10/qualcomm-schedules-fourth-quarter-and-fiscal-2026-earnings-relea",
+    "title": "Qualcomm Schedules Fourth Quarter and Fiscal 2026 Earnings Release",
+    "published": "2026-10-22",
+    "accessed": "2026-10-25",
+    "source_type": "company_newsroom_opened"
+  },
+  {
+    "id": "SEM-INTC-1",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results",
+    "title": "Intel Reports Second-Quarter 2026 Financial Results",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-INTC-2",
+    "url": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-reports-third-quarter-2026-financial-results.html",
+    "title": "Intel to Report Third-Quarter 2026 Financial Results",
+    "published": "2026-10-06",
+    "accessed": "2026-10-25",
+    "source_type": "company_newsroom_opened"
+  },
+  {
+    "id": "SEM-AMAT-1",
+    "url": "https://investor.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-third-quarter-2026-results",
+    "title": "Applied Materials Announces Third Quarter 2026 Results",
+    "published": "2026-08-13",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-LRCX-1",
+    "url": "https://investor.lamresearch.com/2026-10-21-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-September-27,-2026",
+    "title": "Lam Research Quarter Ended September 27, 2026 Results",
+    "published": "2026-10-21",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-LRCX-2",
+    "url": "https://investor.lamresearch.com/image/Q1_2027-slides-full_final.pdf",
+    "title": "Lam Research September Quarter 2026 Financial Results Slides",
+    "published": "2026-10-21",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_PDF_opened"
+  },
+  {
+    "id": "SEM-KLAC-1",
+    "url": "https://ir.kla.com/news-events/press-releases/detail/518/kla-corporation-reports-fiscal-2026-fourth-quarter-and-full",
+    "title": "KLA Fiscal 2026 Fourth Quarter and Full Year Results",
+    "published": "2026-07-28",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-KLAC-2",
+    "url": "https://ir.kla.com/news-events/press-releases/detail/522/kla-announces-first-quarter-fiscal-year-2027-earnings-date",
+    "title": "KLA Announces FY2027 Q1 Earnings Date and Webcast",
+    "published": "2026-10-01",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-KLAC-3",
+    "url": "https://d1io3yog0oux5.cloudfront.net/_0ebdd7ea4324b85d41343cefc23f5eca/klatencor/db/1126/10661/description/05.07.26-KLAC-Stock-Split-FAQs.pdf",
+    "title": "KLA Stock Split Frequently Asked Questions May 2026",
+    "published": "2026-05-07",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_linked_PDF_opened"
+  },
+  {
+    "id": "SP_AAPL_Q3",
+    "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+    "title": "Apple reports third quarter results",
+    "published": "2026-07-30",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_AAPL_DATE",
+    "url": "https://investor.apple.com/investor-relations/",
+    "title": "Apple Investor Relations FY26 fourth quarter conference call",
+    "published": "undated current page",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir_index_only",
+    "read_status": "Official indexed excerpt read; open page returned navigation only; direct HTTP returned 403. Date is provisional until page body is rechecked."
+  },
+  {
+    "id": "SP_META_Q3",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "title": "Meta Reports Third Quarter 2026 Results, Exhibit 99.1",
+    "published": "2026-10-21",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_exhibit",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_ORCL_Q1",
+    "url": "https://www.oracle.com/news/announcement/q1fy27-earnings-release-2026-09-10/",
+    "title": "Oracle Q1 FY27 earnings release",
+    "published": "2026-09-10",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_CRM_Q2",
+    "url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Delivers-Record-Second-Quarter-Fiscal-2027-Results/default.aspx",
+    "title": "Salesforce Delivers Record Second Quarter Fiscal 2027 Results",
+    "published": "2026-09",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_ADBE_Q3",
+    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000147/adbeex991q326.htm",
+    "title": "Adobe Reports Record Q3 Results, Exhibit 99.1",
+    "published": "2026-09-10",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_exhibit",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_NOW_Q2",
+    "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+    "title": "ServiceNow Reports Second Quarter 2026 Financial Results",
+    "published": "2026-07-22",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_NOW_DATE",
+    "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-to-Announce-Third-Quarter-2026-Financial-Results-on-October-28/default.aspx",
+    "title": "ServiceNow Q3 2026 release date notice",
+    "published": "2026-10-07",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_NFLX_LETTER",
+    "url": "https://ir.netflix.net/files/doc_financials/2026/q3/FINAL-Q3-26-Shareholder-Letter.pdf",
+    "title": "Netflix Q3 2026 shareholder letter",
+    "published": "2026-10-20",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_NFLX_Q3",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/nflx-20260930.htm",
+    "title": "Netflix Form 10-Q quarter ended September 30, 2026",
+    "published": "2026-10-21",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_10q",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_UBER_Q2",
+    "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Second-Quarter-2026/default.aspx",
+    "title": "Uber Announces Results for Second Quarter 2026",
+    "published": "2026-08-05",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_UBER_DATE",
+    "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Date-of-Third-Quarter-2026-Results-Conference-Call/default.aspx",
+    "title": "Uber Announces Date of Third Quarter 2026 Results Conference Call",
+    "published": "2026-10-05",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_PLTR_Q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000039/a2026q2ex991pressrelease.htm",
+    "title": "Palantir Q2 2026 earnings release, Exhibit 99.1",
+    "published": "2026-08-03",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_exhibit",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_PLTR_10Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000041/pltr-20260630.htm",
+    "title": "Palantir Form 10-Q quarter ended June 30, 2026",
+    "published": "2026-08-03",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_10q",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_PLTR_DATE",
+    "url": "https://www.nasdaq.com/press-release/palantir-announces-date-third-quarter-2026-earnings-release-and-webcast-2026-10-12",
+    "title": "Palantir Q3 2026 date notice, company Business Wire release on Nasdaq",
+    "published": "2026-10-12",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_release_distributed_by_nasdaq",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_PANW_Q4",
+    "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-10",
+    "title": "Palo Alto Networks FY26 fourth quarter results",
+    "published": "2026-09-01",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_CRWD_Q2",
+    "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
+    "title": "CrowdStrike Reports Second Quarter Fiscal Year 2027 Financial Results",
+    "published": "2026-08-26",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_ZS_Q4",
+    "url": "https://zscaler.gcs-web.com/news-releases/news-release-details/zscaler-announces-strong-fourth-quarter-and-fiscal-2026",
+    "title": "Zscaler Announces Strong Fourth Quarter and Fiscal 2026 Financial Results",
+    "published": "2026-09-03",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_DDOG_Q2",
+    "url": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-second-quarter-2026-financial-results/",
+    "title": "Datadog Announces Second Quarter 2026 Financial Results",
+    "published": "2026-08-06",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_DDOG_DATE",
+    "url": "https://datadog.gcs-web.com/news-releases/news-release-details/datadog-announces-date-third-quarter-fiscal-year-2026-earnings",
+    "title": "Datadog Announces Date of Third Quarter Fiscal Year 2026 Earnings Call",
+    "published": "2026-10-14",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_SNOW_Q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm",
+    "title": "Snowflake Q2 FY27 results, Exhibit 99.1",
+    "published": "2026-09-02",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_exhibit",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_SNOW_10Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/snow-20260731.htm",
+    "title": "Snowflake Form 10-Q quarter ended July 31, 2026",
+    "published": "2026-09-04",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_10q",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "IC_ANET_Q2",
+    "url": "https://www.arista.com/company/news/press-release/24401-pr-20260804",
+    "title": "Arista Q2 2026 results and Q3 outlook",
+    "published": "2026-08-04",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_ANET_TABLES",
+    "url": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Networks-Inc--Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+    "title": "Arista Q2 2026 financial tables",
+    "published": "2026-08-04",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_ANET_EVENT",
+    "url": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Networks-to-Announce-Q3-2026-Financial-Results-on-Tuesday-November-3-2026/default.aspx",
+    "title": "Arista confirms November 3 Q3 2026 release",
+    "published": "2026-10-06",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_VRT_Q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026050323/q22026exhibit991vrt07292026.htm",
+    "title": "Vertiv Q2 2026 earnings release",
+    "published": "2026-07-29",
+    "accessed": "2026-10-25",
+    "source_type": "SEC company exhibit"
+  },
+  {
+    "id": "IC_VRT_EVENT",
+    "url": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Announces-Date-of-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
+    "title": "Vertiv confirms October 28 2026 results",
+    "published": "2026-10-14",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_CEG_Q2",
+    "url": "https://www.constellationenergy.com/news/2026/08/constellation-reports-second-quarter-2026-results.html",
+    "title": "Constellation Q2 2026 results",
+    "published": "2026-08-06",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_CEG_10Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000104/ceg-20260630.htm",
+    "title": "Constellation June 2026 Form 10-Q",
+    "published": "2026-08-06",
+    "accessed": "2026-10-25",
+    "source_type": "SEC filing"
+  },
+  {
+    "id": "IC_CEG_EVENT",
+    "url": "https://investors.constellationenergy.com/events-and-presentations",
+    "title": "Constellation upcoming events: November 9 Q3 call",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company event page"
+  },
+  {
+    "id": "IC_VST_Q2",
+    "url": "https://investor.vistracorp.com/2026-08-07-Vistra-Reports-Second-Quarter-2026-Results",
+    "title": "Vistra Q2 2026 results",
+    "published": "2026-08-07",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_VST_EVENT",
+    "url": "https://investor.vistracorp.com/2026-09-29-Vistra-to-Report-Third-Quarter-Results-on-Nov-6,-2026",
+    "title": "Vistra confirms November 6 Q3 results call",
+    "published": "2026-09-29",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_V_Q3",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000103/q32026earningsrelease.htm",
+    "title": "Visa fiscal Q3 2026 results",
+    "published": "2026-07-28",
+    "accessed": "2026-10-25",
+    "source_type": "SEC company exhibit"
+  },
+  {
+    "id": "IC_V_EVENT",
+    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22841.html",
+    "title": "Visa confirms October 27 FY2026 Q4 release",
+    "published": "2026-10-08",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_MA_Q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000081/ma06302026-exx991xearnings.htm",
+    "title": "Mastercard Q2 2026 results",
+    "published": "2026-07-30",
+    "accessed": "2026-10-25",
+    "source_type": "SEC company exhibit"
+  },
+  {
+    "id": "IC_MA_EVENT",
+    "url": "https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-Incorporated-to-Host-Conference-Call-on-Third-Quarter-2026-Financial-Results/default.aspx",
+    "title": "Mastercard confirms October 29 2026 earnings call",
+    "published": "2026-10-08",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_CAT_Q2",
+    "url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/2q26-results-caterpillar-inc.html",
+    "title": "Caterpillar Q2 2026 results",
+    "published": "2026-08-04",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_CAT_EVENT",
+    "url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/caterpillar-to-announce-3Q-2026-financial-results-on-oct-29.html",
+    "title": "Caterpillar confirms October 29 2026 results and call",
+    "published": "2026-10-15",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_RTX_Q3",
+    "url": "https://www.rtx.com/news/news-center/2026/10/20/rtx-reports-q3-2026-results",
+    "title": "RTX Q3 2026 results",
+    "published": "2026-10-20",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_GE_Q3",
+    "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-announces-third-quarter-2026-results",
+    "title": "GE Aerospace Q3 2026 results",
+    "published": "2026-10-20",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_LLY_Q2",
+    "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full",
+    "title": "Lilly Q2 2026 results and revised guidance",
+    "published": "2026-08-05",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_LLY_EVENT",
+    "url": "https://investor.lilly.com/events/event-details/q3-2026-earnings-call",
+    "title": "Lilly Q3 2026 call on October 29 at 10 AM EDT",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company event page"
+  },
+  {
+    "id": "IC_UNH_Q3",
+    "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-10-13-uhg-reports-third-quarter-2026-results.html?cid=EM:SubscribetoNews:OA:000:standard:NAT:Newsroom",
+    "title": "UnitedHealth Group Q3 2026 results",
+    "published": "2026-10-13",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_COST_FY",
+    "url": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Operating-Results/",
+    "title": "Costco FY2026 Q4 and full-year results",
+    "published": "2026-09-24",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_COST_SALES",
+    "url": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-September-Sales-Results/default.aspx",
+    "title": "Costco September 2026 retail-month sales",
+    "published": "2026-10-07",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_COST_EVENTS",
+    "url": "https://investor.costco.com/overview/",
+    "title": "Costco IR upcoming November sales and December earnings",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company event page; event details verified in indexed official content"
+  },
+  {
+    "id": "IC_BAC_Q3",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000481/bac09302026ex991.htm",
+    "title": "Bank of America Q3 2026 results",
+    "published": "2026-10-14",
+    "accessed": "2026-10-25",
+    "source_type": "SEC company exhibit"
+  },
+  {
+    "id": "IC_SLB_Q3",
+    "url": "https://investorcenter.slb.com/news-releases/news-release-details/slb-announces-third-quarter-2026-results",
+    "title": "SLB Q3 2026 results",
+    "published": "2026-10-23",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "OLD-1",
+    "url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1208/exxonmobil-announces-second-quarter-2026-results",
+    "title": "XOM prior primary disclosure",
+    "published": "2026-07-31",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-2",
+    "url": "https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0000034088-26-000093/xom-20260630.htm",
+    "title": "XOM prior primary disclosure",
+    "published": "2026-08-03",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-3",
+    "url": "https://content.equisolve.net/sec/0002115436-26-000013/f8k3q991101626.htm",
+    "title": "XOM prior primary disclosure",
+    "published": "2026-10-16",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-4",
+    "url": "https://investor.exxonmobil.com/news-events/ir-calendar/detail/20261030-3q-2026-earnings-call",
+    "title": "XOM prior primary disclosure",
+    "published": "2026-10-16 announcement/calendar reviewed 2026-10-24",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-5",
+    "url": "https://chevroncorp.gcs-web.com/node/38551",
+    "title": "CVX prior primary disclosure",
+    "published": "2026-07-31",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-6",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000167/cvx-20260630.htm",
+    "title": "CVX prior primary disclosure",
+    "published": "2026-08 (Q2 10-Q)",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-7",
+    "url": "https://chevroncorp.gcs-web.com/",
+    "title": "CVX prior primary disclosure",
+    "published": "calendar reviewed 2026-10-24",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-8",
+    "url": "https://investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-reports-Q3-2026-results-raises-2026-guidance/default.aspx",
+    "title": "JNJ prior primary disclosure",
+    "published": "2026-10-13",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-9",
+    "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-q3-2026-earnings-ceo-and-cfo-prepared-remarks",
+    "title": "JNJ prior primary disclosure",
+    "published": "2026-10-13",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-10",
+    "url": "https://news.abbvie.com/2026-07-31-AbbVie-Reports-Second-Quarter-2026-Financial-Results",
+    "title": "ABBV prior primary disclosure",
+    "published": "2026-07-31",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-11",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000026/abbv-20260630.htm",
+    "title": "ABBV prior primary disclosure",
+    "published": "2026-08-03",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-12",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000030/abbv-20261005.htm",
+    "title": "ABBV prior primary disclosure",
+    "published": "2026-10-05",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-13",
+    "url": "https://abbvie.gcs-web.com/news-releases/news-release-details/abbvie-host-third-quarter-2026-earnings-conference-call",
+    "title": "ABBV prior primary disclosure",
+    "published": "2026-10-01",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-14",
+    "url": "https://news.abbvie.com/2026-10-22-AbbVie-Announces-Topline-Results-from-the-Phase-3-INTREPID-Trial-Showing-Lutikizumab-Significantly-Improved-Signs-and-Symptoms-of-Disease-in-Patients-with-Hidradenitis-Suppurativa",
+    "title": "ABBV prior primary disclosure",
+    "published": "2026-10-22",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-15",
+    "url": "https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2027-First-Quarter-Results/default.aspx",
+    "title": "PG prior primary disclosure",
+    "published": "2026-10-22",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/pg-20260630.htm",
+    "title": "PG prior primary disclosure",
+    "published": "2026-08-06",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-17",
+    "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-26-000145/earningsreleasefy27q2.htm",
+    "title": "WMT prior primary disclosure",
+    "published": "2026-08-20",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-18",
+    "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-26-000154/wmt-20260731.htm",
+    "title": "WMT prior primary disclosure",
+    "published": "2026-08-28",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-19",
+    "url": "https://corporate.walmart.com/news/events/fy2027-q3-earnings-release",
+    "title": "WMT prior primary disclosure",
+    "published": "event page retrieved 2026-10-24",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm",
+    "title": "JPM prior primary disclosure",
+    "published": "2026-10-13",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-21",
+    "url": "https://jpmorganchaseco.gcs-web.com/node/943846/html",
+    "title": "JPM prior primary disclosure",
+    "published": "2026-10-13",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-22",
+    "url": "https://jpmorganchaseco.gcs-web.com/node/943776/html",
+    "title": "JPM prior primary disclosure",
+    "published": "2026-10-13",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526344495/d159922dex991.htm",
+    "title": "BRK.B prior primary disclosure",
+    "published": "2026-08-08",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-24",
+    "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+    "title": "BRK.B prior primary disclosure",
+    "published": "2026-08 (Q2 10-Q)",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-25",
+    "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+    "title": "MSFT prior primary disclosure",
+    "published": "2026-07-29",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-26",
+    "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4",
+    "title": "MSFT prior primary disclosure",
+    "published": "2026-07-29",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-27",
+    "url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "title": "MSFT prior primary disclosure",
+    "published": "2026 annual report read 2026-10-24",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "title": "GOOGL prior primary disclosure",
+    "published": "2026-07-22",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+    "title": "GOOGL prior primary disclosure",
+    "published": "2026-07-23",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-30",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+    "title": "AMZN prior primary disclosure",
+    "published": "2026-07-30",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+    "title": "AMZN prior primary disclosure",
+    "published": "2026-07-31",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-32",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report",
+    "title": "AMZN prior primary disclosure",
+    "published": "2026-10-15",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-33",
+    "url": "https://lockheedmartin.gcs-web.com/news-releases/news-release-details/lockheed-martin-reports-third-quarter-2026-financial-results",
+    "title": "LMT prior primary disclosure",
+    "published": "2026-10-22",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-34",
+    "url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026066928/lmt-20260927.htm",
+    "title": "LMT prior primary disclosure",
+    "published": "2026-10-22",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-35",
+    "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html",
+    "title": "ETN prior primary disclosure",
+    "published": "2026-07-31",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-36",
+    "url": "https://www.eaton.com/content/dam/eaton/company/investor-relations/quarterly-earnings/filings/2026/q2/q2-2026-financials-only.pdf",
+    "title": "ETN prior primary disclosure",
+    "published": "2026-07-31",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-37",
+    "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-to-announce-third-quarter-2026-earnings-on-november-3--202.html",
+    "title": "ETN prior primary disclosure",
+    "published": "2026-10-20",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-38",
+    "url": "https://pressroom.toyota.com/tmc-announces-april-through-june-2026-financial-results/",
+    "title": "TM prior primary disclosure",
+    "published": "2026-08-04",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-39",
+    "url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526331392/d258414dex991.htm",
+    "title": "TM prior primary disclosure",
+    "published": "2026-08-04",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-40",
+    "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_presentation_2_en.pdf",
+    "title": "TM prior primary disclosure",
+    "published": "2026-08-04",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-41",
+    "url": "https://www.sec.gov/Archives/edgar/data/37634/000075330826000077/neeq32026exhibit99.htm",
+    "title": "NEE prior primary disclosure",
+    "published": "2026-10-21",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-42",
+    "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000081/nee-20260930.htm",
+    "title": "NEE prior primary disclosure",
+    "published": "2026-10-21",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  },
+  {
+    "id": "OLD-43",
+    "url": "https://www.investor.nexteraenergy.com/~/media/Files/N/NEE-IR/reports-and-fillings/quarterly-earnings/2026/Q3%202026/Q3%202026%20Earnings%20Slides_v%20F.pdf",
+    "title": "NEE prior primary disclosure",
+    "published": "2026-10-21",
+    "accessed": "2026-10-24 prior report",
+    "source_type": "retained prior research"
+  }
+]

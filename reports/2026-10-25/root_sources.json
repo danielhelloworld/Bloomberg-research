@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ROOT-MSFT-EVENT",
+    "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/",
+    "title": "Microsoft quarterly earnings date",
+    "published": "2026-10-07",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "FY27Q1 release Oct28 after close; call14:30PT=17:30ET"
+  },
+  {
+    "id": "ROOT-AMZN-EVENT",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report",
+    "title": "Amazon Q3 2026 conference call",
+    "published": "2026-10-15",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "Oct29 call17:00ET; title/body Q3, ignore inconsistent web extraction page label Q2"
+  },
+  {
+    "id": "ROOT-GOOGL-EVENT",
+    "url": "https://www.publicnow.com/view/44136C85C4D5D099F2F1F5740EF199299B51D499",
+    "title": "Alphabet announces Q3 2026 call date",
+    "published": "2026-10-06",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "issuer distribution search-index text; direct IR navigation shell, distribution正文HTTP403; exchange commentary independently supports date",
+    "facts": "Oct28 call16:30ET; release before call, exact release minute not stated"
+  },
+  {
+    "id": "ROOT-FED",
+    "url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+    "title": "Federal Reserve October2026 calendar",
+    "published": "calendar last update label2025-06-24; dated2026 schedule read",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "official",
+    "facts": "Oct27–28 FOMC; Oct28 14:00ET decision/14:30ET press conference"
+  },
+  {
+    "id": "ROOT-BEA",
+    "url": "https://www.bea.gov/news/schedule/full",
+    "title": "BEA official 2026 releases",
+    "published": "2026 schedule",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "official",
+    "facts": "Oct29 08:30ET Q3 advance GDP and September personal income/outlays"
+  },
+  {
+    "id": "ROOT-TCB",
+    "url": "https://www.conference-board.org/topics/consumer-confidence/?cq_net=g",
+    "title": "Consumer confidence next release",
+    "published": "September2026 release",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "publisher primary",
+    "facts": "Next release Oct27 10:00ET; no new survey outcome assumed"
+  },
+  {
+    "id": "ROOT-CBOE",
+    "url": "https://www.cboe.com/insights/posts/sell-off-widens-as-oil-rallies-amid-middle-east-conflict",
+    "title": "Sell-off widens as oil rallies",
+    "published": "2026-10-23",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "exchange commentary; interpretation, not company filing",
+    "facts": "Risk-off oil/rates backdrop, defensive sectors also pulled back, next week major tech earnings"
+  },
+  {
+    "id": "ROOT-ABBV-EVENT",
+    "url": "https://abbvie.gcs-web.com/news-releases/news-release-details/abbvie-host-third-quarter-2026-earnings-conference-call",
+    "title": "AbbVie third quarter call",
+    "published": "2026-10-01",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "Oct30 before market open; call08:00CT=09:00ET"
+  },
+  {
+    "id": "ROOT-XOM-EVENT",
+    "url": "https://investor.exxonmobil.com/news-events/ir-calendar/detail/20261030-3q-2026-earnings-call",
+    "title": "Exxon third quarter call",
+    "published": "2026 event calendar",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "Oct30 materials05:30CT=06:30ET; call08:30CT=09:30ET"
+  },
+  {
+    "id": "ROOT-CVX-EVENT",
+    "url": "https://chevroncorp.gcs-web.com/",
+    "title": "Chevron investor calendar",
+    "published": "2026-10-01 announcement",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company primary",
+    "facts": "Oct30 call11:00ET; release before call, exact minute not stated"
+  }
+]

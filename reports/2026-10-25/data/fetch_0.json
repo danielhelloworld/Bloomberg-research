@@ -1,0 +1,10 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Error fetching price data for NVDA: Your current balance is $0.00. Please add more credits to continue using the API."
+    }
+  ],
+  "structuredContent": null,
+  "isError": false
+}

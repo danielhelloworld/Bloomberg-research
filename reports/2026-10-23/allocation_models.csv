@@ -1,0 +1,19 @@
+﻿instrument,stock_A_pct,stock_B_pct,stock_C_pct,Monday_A_pct,Monday_B_pct,Monday_C_pct,WLS_status
+XOM,8,8,8,3,3,3,unverified
+CVX,4,4,4,2,2,2,unverified
+JNJ,8,8,6,5,5,6,unverified
+ABBV,4,4,4,0,0,0,unverified
+PG,8,7,4,5,5,4,unverified
+WMT,6,5,4,3,3,4,unverified
+JPM,4,6,6,3,4,6,unverified
+BRK.B,5,6,6,4,4,6,unverified
+MSFT,3,5,10,0,0,0,unverified
+GOOGL,0,5,8,0,0,0,unverified
+AMZN,0,3,6,0,0,0,unverified
+NVDA,0,0,6,0,0,0,unverified
+TSM,0,0,4,0,0,0,unverified
+LMT,0,4,4,0,3,4,unverified
+ETN,0,3,5,0,0,0,unverified
+TM,5,4,5,0,3,5,unverified
+NEE,0,3,0,0,3,0,unverified
+CASH,45,25,10,75,65,60,cash rule unverified

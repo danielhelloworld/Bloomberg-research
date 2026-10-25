@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "HOOD",
+    "date_et": "2026-10-27",
+    "time_et": "17:00",
+    "beijing_reference": "10/28 05:00",
+    "status": "confirmed_issuer",
+    "note": "财报盘后发布、电话会17:00 ET；北京时间10/28 05:00。事件前默认新增风险仓位为0，财报后再评估。",
+    "source_id": "ATK-PC-HOOD-EVENT"
+  },
+  {
+    "ticker": "STX",
+    "date_et": "2026-10-27",
+    "time_et": "after close; call17:00 ET",
+    "beijing_reference": "10/28 05:00",
+    "status": "company_confirmed",
+    "note": "FY27Q1财报10/27盘后；北京时间10/28 05:00电话会。并非10/25已经发生的结果。",
+    "source_id": "ATK-SS-STX-DATE"
+  },
+  {
+    "ticker": "GEV",
+    "date_et": "2026-10-28",
+    "time_et": "before market open; call07:30ET",
+    "beijing_reference": "10/28 19:30",
+    "status": "company_confirmed",
+    "note": "公司10/13公告和官方事件页交叉确认；北京时间10月28日19:30电话会。首次新闻稿精确分钟未核实。",
+    "source_id": "ATK-AI-GEV-DATE"
+  },
+  {
+    "ticker": "VRT",
+    "date_et": "2026-10-28",
+    "time_et": "before market open; call 11:00",
+    "beijing_reference": "10/28 23:00",
+    "status": "company_confirmed",
+    "note": "北京时间10月28日盘前披露，电话会23:00。盘前精确新闻稿分钟未确认。",
+    "source_id": "IC_VRT_EVENT"
+  },
+  {
+    "ticker": "COIN",
+    "date_et": "2026-10-29",
+    "time_et": "17:00",
+    "beijing_reference": "10/30 05:00",
+    "status": "confirmed_issuer",
+    "note": "盘后财报，Q&A 14:00 PT即17:00 ET；北京时间10/30 05:00。与MSTR同晚，事件风险不能相互分散。",
+    "source_id": "ATK-PC-COIN-EVENT"
+  },
+  {
+    "ticker": "MSTR",
+    "date_et": "2026-10-29",
+    "time_et": "17:00",
+    "beijing_reference": "10/30 05:00",
+    "status": "confirmed_issuer",
+    "note": "盘后Q3财报，17:00 ET直播；北京时间10/30 05:00。同晚COIN，前后加密风险和融资风险会叠加。下一份周度8-K日期未证实，不假定10/26必发。",
+    "source_id": "ATK-PC-MSTR-EVENT"
+  },
+  {
+    "ticker": "MU",
+    "date_et": "2026-10-29",
+    "time_et": null,
+    "beijing_reference": "未核实",
+    "status": "公司确认股息支付日；非财报日",
+    "note": "支付日不代表新增经营信息；不将除息或股息支付制造为上涨催化。",
+    "source_id": "SEM-MU-1"
+  },
+  {
+    "ticker": "SNDK",
+    "date_et": "2026-10-29",
+    "time_et": "call16:30ET",
+    "beijing_reference": "10/30 04:30",
+    "status": "company_confirmed",
+    "note": "公司公告确认为13:30PT电话会，即北京时间10月30日04:30。公告未单独给新闻稿首次发布精确分钟，本轮不编造。",
+    "source_id": "ATK-AI-SNDK-EVENT"
+  }
+]

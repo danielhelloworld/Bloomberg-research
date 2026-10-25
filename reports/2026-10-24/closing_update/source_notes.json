@@ -1,0 +1,43 @@
+[
+  {
+    "id": "Q1",
+    "name": "Longbridge regular-session quote snapshot",
+    "file": "closing_quotes.json",
+    "captured_utc": "2026-10-24 04:28:27 UTC",
+    "as_of": "2026-10-23 16:00 ET regular session; post_market excluded",
+    "limits": "History by-date endpoint denied permission 301607. Latest quote is not independently historical-bar verified. Historical adjusted series retained; latest quote appended, no corporate-action reconciliation beyond previous-close comparison."
+  },
+  {
+    "id": "H1",
+    "name": "Original 259 provider adjusted daily closes",
+    "file": "../../2026-10-23/stock_raw.json",
+    "as_of": "through 2026-10-22",
+    "limits": "price-return approximation, excludes cash yield, transaction costs, execution slippage and full total-return adjustment verification"
+  },
+  {
+    "id": "M1",
+    "name": "Bloomberg market wrap syndicated by SWI",
+    "url": "https://www.swissinfo.ch/eng/stocks-fall-as-oil-rally-keeps-a-lid-on-treasuries:-markets-wrap/92260391",
+    "as_of": "2026-10-23 New York 16:00 snapshot; page updated Oct23 22:05",
+    "facts": {
+      "US_10y_yield_pct": 5.0,
+      "change_bps": 5,
+      "WTI_snapshot_usd": 103.63,
+      "WTI_change_pct": 4.2,
+      "spot_gold_snapshot_usd": 3999.56
+    },
+    "limits": "news snapshot, not independently verified exchange settlement or bond-close feed"
+  },
+  {
+    "id": "E1",
+    "name": "Federal Reserve October calendar",
+    "url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+    "facts": "October27–28 FOMC; Oct28 14:00 ET decision,14:30 press conference"
+  },
+  {
+    "id": "E2",
+    "name": "BEA official release schedule",
+    "url": "https://www.bea.gov/news/schedule/full",
+    "facts": "Oct29 08:30 ET Q3 advance GDP and September personal income/outlays"
+  }
+]

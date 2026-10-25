@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "html_pages": 16,
+  "local_links_checked": 163,
+  "unique_primary_source_urls": 43,
+  "stock_coverage": [
+    "XOM",
+    "CVX",
+    "JNJ",
+    "ABBV",
+    "PG",
+    "WMT",
+    "JPM",
+    "BRK.B",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "LMT",
+    "ETN",
+    "TM",
+    "NEE"
+  ],
+  "all_weights_total_100": true,
+  "long_only_and_max_single_20_pass": true,
+  "scenario_arithmetic_independently_checked": true,
+  "independent_60_day_vol_pct": 5.353449348267317,
+  "return_rows_60": 60,
+  "last_complete_price": "2026-10-22",
+  "user_drawdown_tolerance_pct": 12,
+  "visual_qa": {
+    "passed": true,
+    "method": "CUA in-app browser screenshots and DOM verification via localhost",
+    "views": [
+      "main overview",
+      "allocation table",
+      "macro to portfolio risk table",
+      "MSFT standalone page"
+    ],
+    "calculator": "200000 USD conditional target: XOM 10000/54 shares, PG 14000/86 shares, MSFT10000/19 shares; observed outputs match reference prices",
+    "limits": "desktop views reviewed; no mobile device screenshot claim"
+  },
+  "sha256": {
+    "stock_deep_dive_risk_20261024.html": "fda4a6de6824dedfd88c9e2d886d6bbf25d820135c67ba25820236399ad62e10",
+    "stocks\\ABBV.html": "e76dd38f434b1665554955cc3518664fa62249bc4e78ccac108021a03a23d685",
+    "stocks\\AMZN.html": "754fb730cbadd57b62044b103b11f3c35ca9cc4529fb21b50527b78fd76a7d5a",
+    "stocks\\BRK_B.html": "9773bc2492f9c48a4896f46b7b79ba0ed62f1467ebddbdb80d52bf2749b6b3a1",
+    "stocks\\CVX.html": "d5d64ba6b60004d1b1cb7592ce027bccc4fdbf97ddbed8fb363e03c6dc0663d8",
+    "stocks\\ETN.html": "929ef9b8a3b98b3b74041f8c8df334995ccbf0bcecbb3bf3c614b376fedf2c95",
+    "stocks\\GOOGL.html": "838f246ad38021203e8c948c3526015d8f4badfc7ac459250268b4a49e1d5e36",
+    "stocks\\JNJ.html": "adb4611c8a2d876cc5a06542604c3d02584a6c6fd1d0f3202cc0ef925f93164c",
+    "stocks\\JPM.html": "b02477c61dcd77425139c8facefef727173f0ae60ab0700418b17c01801b913d",
+    "stocks\\LMT.html": "11d4297499aa53b4599cd67d87f219cf09309af0670c7e7209f1a314651b721c",
+    "stocks\\MSFT.html": "73472e5d91bf86220fbdbfef322d3c0734099daae932855a5bfebc2e2c7fecb5",
+    "stocks\\NEE.html": "9171c826558c5e7a51f9371ff6f7844cc127bca57ebc123da20934d5823a4150",
+    "stocks\\PG.html": "a99fbff4c7ab96304d58afe23309494a308e3e05ff83582571b71d50c4706584",
+    "stocks\\TM.html": "a6e5cdf4f3a00f5bc99c11688b9a73cc4ed22d628a2ecdb803834818bde787ae",
+    "stocks\\WMT.html": "5daf0f6ea33e251c3dd9f5d81343670c839eb2e501773b75211d5306cfc847c0",
+    "stocks\\XOM.html": "e132c8c8f16bc6825cb18bbe097f01b0e485e8d2dd9b23ba6bccbdb4f94ec714"
+  }
+}

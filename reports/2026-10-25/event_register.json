@@ -1,0 +1,200 @@
+[
+  {
+    "ticker": "MACRO",
+    "date_et": "2026-10-27",
+    "title": "消费者信心",
+    "release_window": "数据10:00 ET",
+    "call_time_et": "10:00",
+    "beijing_call": "10/27 22:00",
+    "source_id": "ROOT-TCB",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "V",
+    "date_et": "2026-10-27",
+    "title": "FY26Q4业绩",
+    "release_window": "盘后",
+    "call_time_et": "17:00",
+    "beijing_call": "10/28 05:00",
+    "source_id": "IC_V_EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "VRT",
+    "date_et": "2026-10-28",
+    "title": "Q3业绩",
+    "release_window": "盘前，精确分钟未核",
+    "call_time_et": "11:00",
+    "beijing_call": "10/28 23:00",
+    "source_id": "IC_VRT_EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "MACRO",
+    "date_et": "2026-10-28",
+    "title": "FOMC决议",
+    "release_window": "决议14:00 ET",
+    "call_time_et": "14:00",
+    "beijing_call": "10/29 02:00",
+    "source_id": "ROOT-FED",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "MACRO",
+    "date_et": "2026-10-28",
+    "title": "美联储发布会",
+    "release_window": "发布会14:30 ET",
+    "call_time_et": "14:30",
+    "beijing_call": "10/29 02:30",
+    "source_id": "ROOT-FED",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "GOOGL",
+    "date_et": "2026-10-28",
+    "title": "Q3业绩",
+    "release_window": "电话会前发布，精确分钟未核",
+    "call_time_et": "16:30",
+    "beijing_call": "10/29 04:30",
+    "source_id": "ROOT-GOOGL-EVENT",
+    "confidence": "medium_indexed",
+    "note": "公司公告分发索引可读，正文403；交易所评论交叉确认日期，具体时间仍须终端核验"
+  },
+  {
+    "ticker": "NOW",
+    "date_et": "2026-10-28",
+    "title": "Q3业绩",
+    "release_window": "盘后",
+    "call_time_et": "17:00",
+    "beijing_call": "10/29 05:00",
+    "source_id": "SP_NOW_DATE",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "KLAC",
+    "date_et": "2026-10-28",
+    "title": "FY27Q1业绩",
+    "release_window": "盘后",
+    "call_time_et": "17:00",
+    "beijing_call": "10/29 05:00",
+    "source_id": "SEM-KLAC-2",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "MSFT",
+    "date_et": "2026-10-28",
+    "title": "FY27Q1业绩",
+    "release_window": "盘后",
+    "call_time_et": "17:30",
+    "beijing_call": "10/29 05:30",
+    "source_id": "ROOT-MSFT-EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "CAT",
+    "date_et": "2026-10-29",
+    "title": "Q3业绩",
+    "release_window": "06:30 ET发布",
+    "call_time_et": "08:30",
+    "beijing_call": "10/29 20:30",
+    "source_id": "IC_CAT_EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "MACRO",
+    "date_et": "2026-10-29",
+    "title": "Q3 GDP初值 + 9月PCE相关数据",
+    "release_window": "数据08:30 ET",
+    "call_time_et": "08:30",
+    "beijing_call": "10/29 20:30",
+    "source_id": "ROOT-BEA",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "MA",
+    "date_et": "2026-10-29",
+    "title": "Q3业绩",
+    "release_window": "精确首次发布时点未核",
+    "call_time_et": "09:00",
+    "beijing_call": "10/29 21:00",
+    "source_id": "IC_MA_EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "LLY",
+    "date_et": "2026-10-29",
+    "title": "Q3业绩",
+    "release_window": "精确首次发布时点未核",
+    "call_time_et": "10:00",
+    "beijing_call": "10/29 22:00",
+    "source_id": "IC_LLY_EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "AMZN",
+    "date_et": "2026-10-29",
+    "title": "Q3业绩",
+    "release_window": "盘后，电话会17:00 ET",
+    "call_time_et": "17:00",
+    "beijing_call": "10/30 05:00",
+    "source_id": "ROOT-AMZN-EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "INTC",
+    "date_et": "2026-10-29",
+    "title": "Q3业绩",
+    "release_window": "盘后",
+    "call_time_et": "17:00",
+    "beijing_call": "10/30 05:00",
+    "source_id": "SEM-INTC-2",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "ABBV",
+    "date_et": "2026-10-30",
+    "title": "Q3业绩",
+    "release_window": "盘前，精确分钟未核",
+    "call_time_et": "09:00",
+    "beijing_call": "10/30 21:00",
+    "source_id": "ROOT-ABBV-EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "XOM",
+    "date_et": "2026-10-30",
+    "title": "Q3业绩",
+    "release_window": "06:30 ET发布",
+    "call_time_et": "09:30",
+    "beijing_call": "10/30 21:30",
+    "source_id": "ROOT-XOM-EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  },
+  {
+    "ticker": "CVX",
+    "date_et": "2026-10-30",
+    "title": "Q3业绩",
+    "release_window": "电话会前发布，精确分钟未核",
+    "call_time_et": "11:00",
+    "beijing_call": "10/30 23:00",
+    "source_id": "ROOT-CVX-EVENT",
+    "confidence": "confirmed",
+    "note": ""
+  }
+]

@@ -1,0 +1,2494 @@
+{
+  "as_of_beijing": "2026-10-25; regular-session prices10/23",
+  "coverage": {
+    "this_report": 28,
+    "new_companies": 16,
+    "retained_prior_companies": 12,
+    "combined_unique_companies_across_reports": 71
+  },
+  "metrics": {
+    "NVDA": {
+      "close": 210.96,
+      "prev_close": 212.21,
+      "r1": -0.5890391593233124,
+      "open": 210.99,
+      "high": 213.85,
+      "low": 210.18,
+      "volume_friday": 80189765.0,
+      "turnover_friday_dollars": 16991097284.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": -1.48,
+      "r10": -7.99,
+      "r_halfyear": 5.91,
+      "pe_ttm": 26.36,
+      "pb": 22.2,
+      "market_cap": 5084136000000.0,
+      "volume_ratio": 0.64,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "英伟达",
+      "price_bucket": "温和回撤观察",
+      "high_runup_warning": false,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "盈利与现金兑现"
+    },
+    "AMD": {
+      "close": 516.79,
+      "prev_close": 507.93,
+      "r1": 1.744334849290241,
+      "open": 510.21,
+      "high": 523.92,
+      "low": 508.357,
+      "volume_friday": 15177935.0,
+      "turnover_friday_dollars": 7847210872.0,
+      "quote_timestamp": "2026-10-23T20:00:01Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": -2.26,
+      "r10": -15.02,
+      "r_halfyear": 69.26,
+      "pe_ttm": 131.12,
+      "pb": 12.55,
+      "market_cap": 843646776955.18,
+      "volume_ratio": 0.52,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "AMD",
+      "price_bucket": "短期急跌待确认",
+      "high_runup_warning": true,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "增长加速与高预期"
+    },
+    "AVGO": {
+      "close": 321.68,
+      "prev_close": 323.24,
+      "r1": -0.48261353792847794,
+      "open": 321.5,
+      "high": 327.7,
+      "low": 320.23,
+      "volume_friday": 15917005.0,
+      "turnover_friday_dollars": 5152688918.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": -2.15,
+      "r10": -11.03,
+      "r_halfyear": -23.14,
+      "pe_ttm": 40.13,
+      "pb": 15.4,
+      "market_cap": 1535581254973.2,
+      "volume_ratio": 0.94,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "博通",
+      "price_bucket": "短期急跌待确认",
+      "high_runup_warning": false,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "盈利与现金兑现"
+    },
+    "MU": {
+      "close": 877.55,
+      "prev_close": 856.49,
+      "r1": 2.458872841480919,
+      "open": 862.29,
+      "high": 891.89,
+      "low": 858.34,
+      "volume_friday": 21249884.0,
+      "turnover_friday_dollars": 18709311461.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": -0.15,
+      "r10": -14.7,
+      "r_halfyear": 82.23,
+      "pe_ttm": 11.69,
+      "pb": 7.18,
+      "market_cap": 992880439690.6,
+      "volume_ratio": 0.46,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "美光科技",
+      "price_bucket": "短期急跌待确认",
+      "high_runup_warning": true,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "增长加速与高预期"
+    },
+    "ANET": {
+      "close": 172.37,
+      "prev_close": 171.07,
+      "r1": 0.7599228386040879,
+      "open": 169.06,
+      "high": 175.88,
+      "low": 168.245,
+      "volume_friday": 5013111.0,
+      "turnover_friday_dollars": 867057328.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": -2.6,
+      "r10": -20.47,
+      "r_halfyear": -0.1,
+      "pe_ttm": 53.75,
+      "pb": 14.69,
+      "market_cap": 217397292575.76,
+      "volume_ratio": 0.9,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "Arista Networks",
+      "price_bucket": "短期急跌待确认",
+      "high_runup_warning": false,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "盈利与现金兑现"
+    },
+    "VRT": {
+      "close": 194.32,
+      "prev_close": 195.59,
+      "r1": -0.6493174497673726,
+      "open": 191.6,
+      "high": 196.73,
+      "low": 187.24,
+      "volume_friday": 7398336.0,
+      "turnover_friday_dollars": 1436987869.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": -5.86,
+      "r10": -19.96,
+      "r_halfyear": -39.58,
+      "pe_ttm": 43.19,
+      "pb": 15.72,
+      "market_cap": 74810901777.36,
+      "volume_ratio": 2.01,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "Vertiv",
+      "price_bucket": "短期急跌待确认",
+      "high_runup_warning": false,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "增长加速与高预期"
+    },
+    "PLTR": {
+      "close": 196.75,
+      "prev_close": 196.19,
+      "r1": 0.2854375860135594,
+      "open": 195.02,
+      "high": 197.49,
+      "low": 190.57,
+      "volume_friday": 17668386.0,
+      "turnover_friday_dollars": 3454977009.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": 5.76,
+      "r10": -5.88,
+      "r_halfyear": 38.98,
+      "pe_ttm": 156.73,
+      "pb": 48.37,
+      "market_cap": 472801755940.0,
+      "volume_ratio": 0.59,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "Palantir Tech",
+      "price_bucket": "已反弹等待回踩",
+      "high_runup_warning": false,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "增长加速与高预期"
+    },
+    "CRWD": {
+      "close": 257.57,
+      "prev_close": 237.94,
+      "r1": 8.249978986299066,
+      "open": 239.29,
+      "high": 257.91,
+      "low": 234.788,
+      "volume_friday": 13400134.0,
+      "turnover_friday_dollars": 3367468927.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": 13.27,
+      "r10": -6.35,
+      "r_halfyear": 131.32,
+      "pe_ttm": 5861.43,
+      "pb": 51.7,
+      "market_cap": 263734897253.94,
+      "volume_ratio": 1.73,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "CrowdStrike",
+      "price_bucket": "已反弹等待回踩",
+      "high_runup_warning": false,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "盈利与现金兑现"
+    },
+    "SNOW": {
+      "close": 325.43,
+      "prev_close": 313.96,
+      "r1": 3.653331634603152,
+      "open": 310.31,
+      "high": 325.62,
+      "low": 310.31,
+      "volume_friday": 3136249.0,
+      "turnover_friday_dollars": 1008548015.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": 6.06,
+      "r10": -11.78,
+      "r_halfyear": 122.29,
+      "pe_ttm": -105.25,
+      "pb": 53.41,
+      "market_cap": 114811704000.0,
+      "volume_ratio": 0.87,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "Snowflake",
+      "price_bucket": "已反弹等待回踩",
+      "high_runup_warning": true,
+      "pe_use": "NM: negative GAAP earnings",
+      "attack_group": "增长加速与高预期"
+    },
+    "CEG": {
+      "close": 253.45,
+      "prev_close": 255.21,
+      "r1": -0.6896281493671941,
+      "open": 254.0,
+      "high": 256.79,
+      "low": 247.2,
+      "volume_friday": 2888283.0,
+      "turnover_friday_dollars": 731894713.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": -6.6,
+      "r10": -14.97,
+      "r_halfyear": -13.16,
+      "pe_ttm": 25.92,
+      "pb": 2.81,
+      "market_cap": 89799205207.55,
+      "volume_ratio": 1.02,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "Constellation Energy",
+      "price_bucket": "短期急跌待确认",
+      "high_runup_warning": false,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "盈利与现金兑现"
+    },
+    "VST": {
+      "close": 140.16,
+      "prev_close": 140.83,
+      "r1": -0.47575090534688336,
+      "open": 139.06,
+      "high": 141.525,
+      "low": 136.17,
+      "volume_friday": 6740484.0,
+      "turnover_friday_dollars": 941796462.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": -7.8,
+      "r10": -13.2,
+      "r_halfyear": -10.37,
+      "pe_ttm": 23.21,
+      "pb": 15.65,
+      "market_cap": 47042628931.2,
+      "volume_ratio": 1.99,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "Vistra",
+      "price_bucket": "短期急跌待确认",
+      "high_runup_warning": false,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "盈利与现金兑现"
+    },
+    "ORCL": {
+      "close": 126.16,
+      "prev_close": 125.54,
+      "r1": 0.49386649673410776,
+      "open": 124.87,
+      "high": 128.33,
+      "low": 124.39,
+      "volume_friday": 19223405.0,
+      "turnover_friday_dollars": 2433088185.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "wls": "unverified",
+      "rsi14": null,
+      "atr14": null,
+      "drawdown52w": null,
+      "r5": -1.61,
+      "r10": -10.78,
+      "r_halfyear": -27.92,
+      "pe_ttm": 20.41,
+      "pb": 6.19,
+      "market_cap": 382454184957.84,
+      "volume_ratio": 0.56,
+      "return_source": "Longbridge calc snapshot; period endpoints not independently supplied; last_done matched to quote",
+      "name": "甲骨文",
+      "price_bucket": "短期急跌待确认",
+      "high_runup_warning": false,
+      "pe_use": "GAAP TTM snapshot only; denominator and adjusted/future earnings not reconciled",
+      "attack_group": "资本开支与融资约束"
+    },
+    "ALAB": {
+      "name": "Astera Labs",
+      "close": 257.16,
+      "r1": -0.25599255294390666,
+      "r5": -10.03,
+      "r10": -24.85,
+      "r_halfyear": 30.18,
+      "pe_ttm": 120.74,
+      "high": 266.87,
+      "low": 253.44,
+      "turnover_friday_dollars": 635887149.0,
+      "volume_friday": 2445716.0,
+      "quote_timestamp": "2026-10-23T20:00:01Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "增长加速与高预期"
+    },
+    "MRVL": {
+      "name": "迈威尔科技",
+      "close": 228.51,
+      "r1": 2.2553362867498983,
+      "r5": 0.3,
+      "r10": -16.99,
+      "r_halfyear": 38.09,
+      "pe_ttm": 75.9,
+      "high": 231.615,
+      "low": 221.382,
+      "turnover_friday_dollars": 2974240666.0,
+      "volume_friday": 13039757.0,
+      "quote_timestamp": "2026-10-23T20:00:01Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "盈利与现金兑现"
+    },
+    "CRWV": {
+      "name": "Coreweave",
+      "close": 54.235,
+      "r1": -2.4550359712230296,
+      "r5": -11.65,
+      "r10": -33.92,
+      "r_halfyear": -53.81,
+      "pe_ttm": -15.51,
+      "high": 56.11,
+      "low": 54.01,
+      "turnover_friday_dollars": 2575507975.0,
+      "volume_friday": 46947437.0,
+      "quote_timestamp": "2026-10-23T20:00:01Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "资本开支与融资约束"
+    },
+    "NBIS": {
+      "name": "Nebius",
+      "close": 158.74,
+      "r1": -0.2701514104416547,
+      "r5": -4.07,
+      "r10": -28.19,
+      "r_halfyear": 1.06,
+      "pe_ttm": 1026.19,
+      "high": 162.99,
+      "low": 155.858,
+      "turnover_friday_dollars": 2164604188.0,
+      "volume_friday": 13496767.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "资本开支与融资约束"
+    },
+    "GEV": {
+      "name": "GE Vernova",
+      "close": 815.0,
+      "r1": -1.5010514611684456,
+      "r5": -11.53,
+      "r10": -18.88,
+      "r_halfyear": -29.07,
+      "pe_ttm": 22.78,
+      "high": 832.43,
+      "low": 796.415,
+      "turnover_friday_dollars": 3161324593.0,
+      "volume_friday": 3861865.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "盈利与现金兑现"
+    },
+    "SNDK": {
+      "name": "闪迪",
+      "close": 1238.03,
+      "r1": -1.8161198480486695,
+      "r5": -4.72,
+      "r10": -21.73,
+      "r_halfyear": 32.77,
+      "pe_ttm": 15.86,
+      "high": 1299.99,
+      "low": 1228.89,
+      "turnover_friday_dollars": 10025350471.0,
+      "volume_friday": 7923529.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "盈利与现金兑现"
+    },
+    "STX": {
+      "name": "希捷科技",
+      "close": 630.49,
+      "r1": -1.814246114554452,
+      "r5": -1.33,
+      "r10": -19.48,
+      "r_halfyear": 7.46,
+      "pe_ttm": 44.88,
+      "high": 655.6,
+      "low": 621.0,
+      "turnover_friday_dollars": 3575682563.0,
+      "volume_friday": 5572336.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "盈利与现金兑现"
+    },
+    "WDC": {
+      "name": "西部数据",
+      "close": 343.67,
+      "r1": -2.970157260227557,
+      "r5": 3.52,
+      "r10": -13.49,
+      "r_halfyear": -14.7,
+      "pe_ttm": 12.98,
+      "high": 360.66,
+      "low": 339.55,
+      "turnover_friday_dollars": 4864741361.0,
+      "volume_friday": 13953729.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "盈利与现金兑现"
+    },
+    "TSLA": {
+      "name": "特斯拉",
+      "close": 372.22,
+      "r1": -0.6300389769875459,
+      "r5": 4.93,
+      "r10": -2.74,
+      "r_halfyear": -0.4,
+      "pe_ttm": 456.55,
+      "high": 377.32,
+      "low": 365.27,
+      "turnover_friday_dollars": 12934688311.0,
+      "volume_friday": 34762967.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "高弹性主题与市场交易"
+    },
+    "HOOD": {
+      "name": "Robinhood",
+      "close": 95.07,
+      "r1": -1.5634706978670532,
+      "r5": -3.84,
+      "r10": -12.8,
+      "r_halfyear": 13.8,
+      "pe_ttm": 41.25,
+      "high": 97.75,
+      "low": 94.79,
+      "turnover_friday_dollars": 1339514136.0,
+      "volume_friday": 13966518.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "高弹性主题与市场交易"
+    },
+    "COIN": {
+      "name": "Coinbase",
+      "close": 164.45,
+      "r1": -2.7441007747353585,
+      "r5": -5.03,
+      "r10": -8.33,
+      "r_halfyear": -16.92,
+      "pe_ttm": -43.97,
+      "high": 169.84,
+      "low": 163.33,
+      "turnover_friday_dollars": 1094790420.0,
+      "volume_friday": 6595199.0,
+      "quote_timestamp": "2026-10-23T20:00:01Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "高弹性主题与市场交易"
+    },
+    "MSTR": {
+      "name": "Strategy",
+      "close": 146.01,
+      "r1": 0.14403292181068839,
+      "r5": 6.71,
+      "r10": -5.4,
+      "r_halfyear": -15.34,
+      "pe_ttm": -1.97,
+      "high": 152.21,
+      "low": 144.205,
+      "turnover_friday_dollars": 2751302981.0,
+      "volume_friday": 18575760.0,
+      "quote_timestamp": "2026-10-23T20:00:01Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "高弹性主题与市场交易"
+    },
+    "RKLB": {
+      "name": "Rocket Lab",
+      "close": 52.6,
+      "r1": 2.6942600546661533,
+      "r5": 3.46,
+      "r10": -22.89,
+      "r_halfyear": -37.83,
+      "pe_ttm": -190.25,
+      "high": 52.915,
+      "low": 49.522,
+      "turnover_friday_dollars": 694555457.0,
+      "volume_friday": 13443920.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "高弹性主题与市场交易"
+    },
+    "ASTS": {
+      "name": "AST SpaceMobile",
+      "close": 39.79,
+      "r1": 2.630900180551965,
+      "r5": -2.14,
+      "r10": -21.93,
+      "r_halfyear": -49.47,
+      "pe_ttm": -25.03,
+      "high": 40.155,
+      "low": 36.72,
+      "turnover_friday_dollars": 507488383.0,
+      "volume_friday": 13053216.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "高弹性主题与市场交易"
+    },
+    "TEM": {
+      "name": "Tempus AI",
+      "close": 67.615,
+      "r1": 5.963015201379074,
+      "r5": 4.47,
+      "r10": -4.67,
+      "r_halfyear": 31.44,
+      "pe_ttm": -47.68,
+      "high": 68.145,
+      "low": 62.67,
+      "turnover_friday_dollars": 311464227.0,
+      "volume_friday": 4691091.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "医疗商业化与监管"
+    },
+    "HIMS": {
+      "name": "Hims & Hers Health",
+      "close": 27.71,
+      "r1": -4.874699622382417,
+      "r5": -1.28,
+      "r10": -10.38,
+      "r_halfyear": -1.56,
+      "pe_ttm": -45.52,
+      "high": 28.905,
+      "low": 27.3,
+      "turnover_friday_dollars": 275028969.0,
+      "volume_friday": 9827569.0,
+      "quote_timestamp": "2026-10-23T20:00:00Z",
+      "rsi14": null,
+      "atr14": null,
+      "beta": null,
+      "attack_group": "医疗商业化与监管"
+    }
+  },
+  "stocks": {
+    "NVDA": {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "sector": "AI加速器与网络",
+      "pathway": "高增长基本面下的条件估值修复；必须同时核查现金转化",
+      "fiscal_period": "FY2027 Q2，截至2026-07-26，2026-08-26披露",
+      "facts": [
+        {
+          "claim": "季度收入962.21亿美元，同比增长106%；数据中心收入约890亿美元，同比增长117%。",
+          "source_id": "SEM-NVDA-1"
+        },
+        {
+          "claim": "GAAP毛利率75.0%；GAAP EPS 2.46美元，非GAAP EPS 2.22美元，二者方向与通常的加回模式不同。",
+          "source_id": "SEM-NVDA-1"
+        },
+        {
+          "claim": "季度净利润596.88亿美元，经营现金流240.77亿美元；应收账款变动占用现金223.46亿美元，股权证券收益77.71亿美元。",
+          "source_id": "SEM-NVDA-1"
+        }
+      ],
+      "guidance": "FY2027 Q3公司收入指引1080亿美元±2%，毛利率74.0%±0.5个百分点；不假设中国数据中心计算收入。[SEM-NVDA-1]",
+      "cash_quality": "季度购买物业设备及无形资产26.77亿美元；经营现金流减该项目约214.00亿美元，为研究计算，不能视为扣除股权投资后的全部股东可支配现金。利润强但当季应收占款与投资收益使净利润远高于现金流。[SEM-NVDA-1]",
+      "rebound_case": "若下跌主要来自利率和高估值收缩，而大型客户仍确认加速器交付、数据中心需求与订单回款，则存在盈利增长消化估值后的修复条件。当前没有公司事实支持收入已衰退的结论。",
+      "trap_case": "不要将回购授权、客户融资安排或GAAP EPS直接等同内生现金创造；客户融资与回款周期延长可能使收入增长的质量变差。整条AI链同涨同跌，不能与AVGO、AMD一起当独立分散。",
+      "kill": "公司下调交付/收入指引，主要客户取消资本开支，或应收持续快于销售增长且现金转化继续恶化；出现这些证据时否决单凭跌幅买入。",
+      "trigger": "主要云客户财报明确维持可执行的资本开支与实际部署；后续公司披露回款改善且毛利率指引守住。若仅有股价反弹而缺少上述证据，继续观察。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "未确认下周公司财报事件",
+        "source_id": "SEM-NVDA-2",
+        "note": "已打开公司事件页，但动态日历未显示可核验的下周明确日期；不据去年11月日程推算今年。下周云客户财报属间接验证，非NVDA自身财报。"
+      },
+      "priority_research": "A：优先基本面复核；是否超跌由统一行情筛选决定",
+      "source_ids": [
+        "SEM-NVDA-1",
+        "SEM-NVDA-2"
+      ]
+    },
+    "AMD": {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "sector": "CPU与AI加速器",
+      "pathway": "高弹性增长修复，非无条件低估值",
+      "fiscal_period": "2026 Q2，截至2026-06-27，2026-08-04披露",
+      "facts": [
+        {
+          "claim": "季度收入115.36亿美元，同比增长50%；数据中心收入约67亿美元，同比增长107%。",
+          "source_id": "SEM-AMD-1"
+        },
+        {
+          "claim": "GAAP营业利润19.90亿美元，GAAP EPS 1.38美元，非GAAP EPS 1.66美元。",
+          "source_id": "SEM-AMD-1"
+        },
+        {
+          "claim": "季度经营现金流23.66亿美元，设备购置8.08亿美元；简单差额15.58亿美元。",
+          "source_id": "SEM-AMD-1"
+        }
+      ],
+      "guidance": "2026 Q3收入130亿美元±3亿美元、非GAAP毛利率约56%；这是8月公司指引，不能当作已经实现的Q3实际数。[SEM-AMD-1]",
+      "cash_quality": "季度现金仍为正，但设备投入上升；同比比较的去年Q2包括8亿美元MI308出口管制存货及相关费用，利润增幅有低基数贡献。[SEM-AMD-1]",
+      "rebound_case": "CPU份额、数据中心增长与GPU部署同时兑现，价格回调后可以研究增长兑现型修复；相比仅靠远期产品叙事，需要看收入和毛利。",
+      "trap_case": "CPU增长不能自动证明GPU方案竞争力；大型部署承诺也不等于当季验收收入。技术反弹可能在11月财报前回吐，且云资本开支风险与NVDA高度共因。",
+      "kill": "数据中心交付延迟、GPU收入兑现不及公司原计划或Q3/Q4毛利指引下修；若只因跌得多入选则否决。",
+      "trigger": "客户确认Helios/Instinct实际生产部署和交付节奏，11月财报守住已披露收入/毛利框架；下周仅条件观察，不预写超预期结论。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "下周无已确认自身财报；下一次11月3日已确认",
+        "source_id": "SEM-AMD-2",
+        "note": "公司IR列11月3日14:00 PDT；该页时区标记与美国届时已转冬令时的日历存在显示问题，日期可确认，精确ET时间执行前复核。"
+      },
+      "priority_research": "B：高弹性备选，等现金和订单证据",
+      "source_ids": [
+        "SEM-AMD-1",
+        "SEM-AMD-2"
+      ]
+    },
+    "AVGO": {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "sector": "定制AI芯片、网络及基础软件",
+      "pathway": "现金支持的增长修复候选",
+      "fiscal_period": "FY2026 Q3，截至2026-08-02，2026-09-02披露",
+      "facts": [
+        {
+          "claim": "季度收入295.91亿美元，同比增长86%；AI半导体收入167亿美元，同比增长221%。",
+          "source_id": "SEM-AVGO-1"
+        },
+        {
+          "claim": "季度GAAP EPS 2.68美元，非GAAP EPS 3.32美元。",
+          "source_id": "SEM-AVGO-1"
+        },
+        {
+          "claim": "经营现金流141.97亿美元，资本开支约5.32亿美元，公司自由现金流136.65亿美元。",
+          "source_id": "SEM-AVGO-1"
+        }
+      ],
+      "guidance": "FY2026 Q4收入约348亿美元，其中AI半导体约217亿美元；非GAAP营业利润率约66%，不是GAAP利润率。[SEM-AVGO-1]",
+      "cash_quality": "现金流提供了比单纯订单叙事更强的支持；但非GAAP调整、客户集中及客户自行设计与采购节奏仍需单独审查，公司FCF不等同最终可分配现金。[SEM-AVGO-1]",
+      "rebound_case": "定制加速器与网络支出兑现，软件业务提供不同收入来源；若云客户维持投资，回调可研究盈利增长与现金支撑的修复。",
+      "trap_case": "不是把多个云客户芯片项目相加就能保证销售；定制芯片客户集中、长期利润目标和估值重估可能一起反转，软件也有续约风险。",
+      "kill": "重要定制客户推迟项目、AI收入指引下修或经营现金流显著弱于盈利且缺乏合理时点解释。",
+      "trigger": "云客户实际网络和自研芯片投入未削减，交付与现金回收跟上；等公司更新确认Q4指引，而不把媒体项目总额计入本期收入。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "本轮未核实下周公司财报事件",
+        "source_id": "SEM-AVGO-2",
+        "note": "已检查公司新闻列表；不能从无列示断言下周绝无公告。云客户财报提供间接证据。"
+      },
+      "priority_research": "A：质量修复重点，与NVDA按同一AI风险簇管理",
+      "source_ids": [
+        "SEM-AVGO-1",
+        "SEM-AVGO-2"
+      ]
+    },
+    "MU": {
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "sector": "DRAM、HBM与NAND",
+      "pathway": "高盈利景气周期中的超跌观察；高利润不等于低风险",
+      "fiscal_period": "FY2026 Q4，截至2026-09-03，2026-09-30披露",
+      "facts": [
+        {
+          "claim": "季度收入542.29亿美元，GAAP毛利率86.8%；非GAAP摊薄EPS 33.42美元。",
+          "source_id": "SEM-MU-1"
+        },
+        {
+          "claim": "季度经营现金流439.7亿美元，公司净资本开支107.7亿美元，调整自由现金流332.0亿美元。",
+          "source_id": "SEM-MU-1"
+        },
+        {
+          "claim": "公司宣布10月29日支付每股0.15美元股息，登记日为10月14日；现在买入不能据此假设获得该次股息资格。",
+          "source_id": "SEM-MU-1"
+        }
+      ],
+      "guidance": "FY2027 Q1收入615亿美元±15亿美元，非GAAP毛利率约86.25%、非GAAP EPS 38.15美元±1.00美元。毛利率指引低于刚披露季度的非GAAP87.0%，不能只看EPS抬升。[SEM-MU-1]",
+      "cash_quality": "当期现金强，但属于存储价格与结构性短缺影响很大的阶段；净资本开支及调整FCF为公司非GAAP定义，不能把峰值毛利率永续化。[SEM-MU-1]",
+      "rebound_case": "若HBM/服务器存储实际需求、定价和客户承诺没有恶化，估值压缩后的修复可跟踪；现金流强度是支持而非保证。",
+      "trap_case": "存储行业常见峰值盈利下低市盈率陷阱；远期供给扩张、普通DRAM/NAND定价转弱或组合毛利回落，可能比当前EPS更决定价格。",
+      "kill": "公司或客户确认订单取消、长期协议重谈、存储售价下降并指向未来毛利率持续下修。",
+      "trigger": "客户实际采购、产品资格认证和可执行合同支持发货，后续指引没有继续降毛利；股息支付日不作为反弹买点。",
+      "next_week_event": {
+        "date_et": "2026-10-29",
+        "time_et": null,
+        "status": "公司确认股息支付日；非财报日",
+        "source_id": "SEM-MU-1",
+        "note": "支付日不代表新增经营信息；不将除息或股息支付制造为上涨催化。"
+      },
+      "priority_research": "B：周期敏感，需限制与设备股叠加",
+      "source_ids": [
+        "SEM-MU-1"
+      ]
+    },
+    "ANET": {
+      "ticker": "ANET",
+      "name": "Arista Networks",
+      "sector": "网络设备",
+      "pathway": "科技基础设施急跌后的条件反弹",
+      "fiscal_period": "2026 Q2, quarter ended 2026-06-30",
+      "facts": [
+        {
+          "claim": "Q2收入30.357亿美元，同比增长37.7%；GAAP营业利润率45.4%，调整后49.9%。",
+          "source_id": "IC_ANET_Q2"
+        },
+        {
+          "claim": "Q2 GAAP/调整后EPS为0.95/1.02美元；H1经营现金流27.765亿美元，购置固定资产0.842亿美元。",
+          "source_id": "IC_ANET_TABLES"
+        },
+        {
+          "claim": "6月末现金22.902亿美元、有价证券110.531亿美元；H1递延收入增加支持现金流，不能将全部收现视为同期已确认收入。",
+          "source_id": "IC_ANET_TABLES"
+        }
+      ],
+      "guidance": "公司Q3指引收入约33亿美元、调整后营业利润率48%—49%、调整后EPS 1.06—1.08美元。[IC_ANET_Q2] 这是季度指引，不能乘四当作已实现年度盈利。",
+      "cash_quality": "分析计算H1 CFO减固定资产购置约26.923亿美元；SBC 2.413亿美元仍有股东稀释成本。现金质量较强，但递延收入、存货和客户预付款可能改变季度转换，尚无AI收入独立拆分。[IC_ANET_TABLES]",
+      "rebound_case": "收入、利润和现金已有业务证据；近期急跌若主要来自数据中心资本成本和估值收缩，云客户指引稳定及相对强弱止跌可支持修复。11月3日才是自身财报，下周主要由同行和大型云客户验证需求。",
+      "trap_case": "高增长不等于便宜；大型云客户集中、以太网方案竞争及采购验收时点，可能令预付款和订单不能及时转为收入。不能用AI产品发布直接证明AI销售额。",
+      "kill": "公司削减收入或利润率指引；云客户明显推迟网络采购；收入增长伴随应收、库存显著快于收入且收现恶化；价格继续创新低而行业反弹时仍落后。",
+      "trigger": "重新核对大型云厂财报资本开支和网络交付表述；ANET相对QQQ/SMH转强并形成止跌后才考虑小仓，11月3日前不因跌幅大连续补仓。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "no_self_earnings_next_week",
+        "source_id": "IC_ANET_EVENT",
+        "note": "公司确认2026-11-03盘后发布Q3，16:30 ET电话会，属于下下周；下周关注云客户交叉验证。"
+      },
+      "priority_research": "A 条件反弹优先研究；先验证，非无条件买入",
+      "source_ids": [
+        "IC_ANET_Q2",
+        "IC_ANET_TABLES",
+        "IC_ANET_EVENT"
+      ]
+    },
+    "VRT": {
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "sector": "数据中心供电与散热",
+      "pathway": "急跌与财报验证交汇",
+      "fiscal_period": "2026 Q2, quarter ended 2026-06-30",
+      "facts": [
+        {
+          "claim": "Q2净销售32.74亿美元，同比增长24%，其中有机18%、收购5%、汇率1%。",
+          "source_id": "IC_VRT_Q2"
+        },
+        {
+          "claim": "Q2调整后营业利润率22.6%，同比增加410bp；GAAP/调整后EPS 1.27/1.52美元。",
+          "source_id": "IC_VRT_Q2"
+        },
+        {
+          "claim": "Q2经营现金流11亿美元、公司调整后自由现金流9.25亿美元，期末达到净现金状态。",
+          "source_id": "IC_VRT_Q2"
+        }
+      ],
+      "guidance": "FY2026销售中值140亿美元、有机增长中值31%，GAAP EPS 5.82—5.92美元、调整后6.65—6.75美元。[IC_VRT_Q2]",
+      "cash_quality": "调整后FCF不等于GAAP现金流；Q2现金转换强，但本次已读披露没有可使用的量化订单/积压金额，不能补编订单暴增。公司指出供应链拥堵和大型项目分阶段执行造成收入时点变化，Q3必须验证是否兑现。[IC_VRT_Q2]",
+      "rebound_case": "供电与散热收入和现金已有落地；若Q3澄清Q2交付推迟仅是时点、保持全年指引，急跌后可能修复。",
+      "trap_case": "把供应链推迟误读为纯技术回调；数据中心融资成本上升可能令客户取消/延期，强现金也可能含预付款。财报跳空会越过常规止损。",
+      "kill": "全年销售或利润指引下调，交付延期转为取消；收现或利润率明显恶化；财报后盘中冲高但收不回关键区间。",
+      "trigger": "周三先看盘前发布，再等11:00 ET电话会解释交付、现金、订单口径；只有财报和盘面共同确认后进入备选，不在周一/二用满反弹风险额度。",
+      "next_week_event": {
+        "date_et": "2026-10-28",
+        "time_et": "before market open; call 11:00",
+        "status": "company_confirmed",
+        "source_id": "IC_VRT_EVENT",
+        "note": "北京时间10月28日盘前披露，电话会23:00。盘前精确新闻稿分钟未确认。"
+      },
+      "priority_research": "A 周三事件后优先；财报前仅观察",
+      "source_ids": [
+        "IC_VRT_Q2",
+        "IC_VRT_EVENT"
+      ]
+    },
+    "PLTR": {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies",
+      "sector": "AI数据/政府企业软件",
+      "pathway": "基本面高增长但估值与预期门槛高",
+      "fiscal_period": "2026 Q2，截止2026-06-30",
+      "facts": [
+        {
+          "claim": "收入1.935464十亿美元，同比+93%；美国商业收入764百万美元，同比+149%；GAAP营业利润912.004百万美元。",
+          "source_id": "SP_PLTR_Q2"
+        },
+        {
+          "claim": "Q2CFO1.216167十亿美元，公司调整FCF1.220359十亿美元；调整FCF不是纯CFO减资本开支。",
+          "source_id": "SP_PLTR_Q2"
+        },
+        {
+          "claim": "H1CFO2.115332十亿美元、PPE现金支出21.955百万美元、SBC466.801百万美元；SBC是现金流加回却有股东稀释成本。",
+          "source_id": "SP_PLTR_10Q"
+        }
+      ],
+      "guidance": "Q3收入2.160–2.164十亿美元；FY26收入8.150–8.158十亿美元、调整FCF4.5–4.7十亿美元。〔SP_PLTR_Q2〕",
+      "cash_quality": "增长已体现到实际收入和经营现金，较纯叙事更有依据；仍需将SBC稀释与投资收益分开，不能只看调整利润率。",
+      "rebound_case": "若AI软件订单持续转为商业收入，市场回调可提供新的研究窗口。",
+      "trap_case": "高增速已获广泛认可，估值容错可能很低；涨跌大不等于便宜，无直接持仓/流量证据不称拥挤交易。",
+      "kill": "商业增速或订单兑现明显低于指引、调整利润与股东现金价值持续分离、估值需要更激进假设才能成立。",
+      "trigger": "先等待估值能被明确假设解释，并避开连续拉升；11月2日财报在下下周，10月30日要复核跨周事件风险。",
+      "next_week_event": {
+        "date_et": "2026-11-02",
+        "time_et": "17:00",
+        "status": "confirmed_outside_week",
+        "source_id": "SP_PLTR_DATE",
+        "note": "公司Business Wire新闻稿在Nasdaq完整转发，确认11月2日盘后、17:00 ET电话会；IR新闻页本身为导航壳。"
+      },
+      "priority_research": "B/C：高预期约束；不以AI题材自动晋级",
+      "source_ids": [
+        "SP_PLTR_Q2",
+        "SP_PLTR_10Q",
+        "SP_PLTR_DATE"
+      ]
+    },
+    "CRWD": {
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings",
+      "sector": "终端/云安全",
+      "pathway": "ARR与现金兑现，反弹后验证",
+      "fiscal_period": "FY2027 Q2，截止2026-07-31",
+      "facts": [
+        {
+          "claim": "收入1.47十亿美元，同比+26%；ARR5.84十亿美元，同比+25%，本季净新增ARR332.8百万美元。",
+          "source_id": "SP_CRWD_Q2"
+        },
+        {
+          "claim": "GAAP营业亏损33.2百万美元，对照non-GAAP营业利润371.6百万美元；调整口径排除SBC及相关税、法律与事件相关项目等。",
+          "source_id": "SP_CRWD_Q2"
+        },
+        {
+          "claim": "CFO530.3百万美元、FCF377.4百万美元，现金与现金等价物5.01十亿美元。",
+          "source_id": "SP_CRWD_Q2"
+        }
+      ],
+      "guidance": "FY27收入5.9911–6.0111十亿美元、期末ARR6.6030–6.6119十亿美元；Q3收入1.5232–1.5292十亿美元。〔SP_CRWD_Q2〕",
+      "cash_quality": "真实经营现金和FCF支持业务质量，但调整利润高于GAAP且法律/事故相关风险未因此消失。EPS需统一拆股后口径，勿与旧每股数据直接比。",
+      "rebound_case": "净新增ARR与模块采用如保持，板块回踩后可研究质量延续。",
+      "trap_case": "已反弹不能继续用超跌名义追涨；非GAAP繁荣和FCF不等于没有SBC稀释、事故责任或竞争压力。",
+      "kill": "ARR/续约实际弱化、重大新客户信任或法律事件、利润与回款出现持续背离。",
+      "trigger": "等待价格回踩企稳且ARR逻辑未破；与PANW/ZS作择优替换，禁止把三只当作完全分散。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "not_confirmed_in_next_week",
+        "source_id": "SP_CRWD_Q2",
+        "note": "本次已读资料未确认10月26日至30日财报日；不能用其财季结束10月31日推算发布日。"
+      },
+      "priority_research": "A/B：安全质量候选；已反弹后等待回踩",
+      "source_ids": [
+        "SP_CRWD_Q2"
+      ]
+    },
+    "SNOW": {
+      "ticker": "SNOW",
+      "name": "Snowflake",
+      "sector": "云数据/AI平台",
+      "pathway": "消耗增长与SBC、现金质量对照",
+      "fiscal_period": "FY2027 Q2，截止2026-07-31",
+      "facts": [
+        {
+          "claim": "总收入1.546793十亿美元，同比约+35%；产品收入1.4919十亿美元，同比+37%；净收入留存率126%。",
+          "source_id": "SP_SNOW_Q2"
+        },
+        {
+          "claim": "GAAP营业亏损263.0百万美元，对照non-GAAP营业利润237.0百万美元；CFO91.4百万美元、FCF83.8百万美元、调整FCF92.3百万美元。",
+          "source_id": "SP_SNOW_Q2"
+        },
+        {
+          "claim": "Q2SBC423.582百万美元，约占收入27%；GAAP净亏损191.720百万美元。",
+          "source_id": "SP_SNOW_10Q"
+        }
+      ],
+      "guidance": "Q3产品收入1.588–1.593十亿美元；FY27产品收入6.070十亿美元，同比+36%，调整FCF利润率23%。〔SP_SNOW_Q2〕",
+      "cash_quality": "non-GAAP利润不能掩盖SBC与GAAP亏损。调整FCF会调整员工股票交易相关税流，普通FCF也不含列在融资现金流的部分员工股权结算税项。",
+      "rebound_case": "已披露产品收入加速给AI数据需求提供实际证据；若增长持续并提高现金与稀释后回报，可研究回踩延续。",
+      "trap_case": "消费型收入和RPO不等价；合同金额不能保证按期消耗。已反弹后再追可能只买到预期，而非新增信息。",
+      "kill": "实际产品消耗降档、SBC长期高位且稀释未收敛、GAAP与调整经营表现差距无改善。",
+      "trigger": "回踩企稳时优先查产品消耗、客户留存及稀释；候选排序需同时满足估值与现金门槛，不能仅按AI关键词。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "not_confirmed_in_next_week",
+        "source_id": "SP_SNOW_Q2",
+        "note": "未在本次已读公司资料确认10月26日至30日财报或确定时点；这不证明没有新公告。"
+      },
+      "priority_research": "A/B：有收入加速证据，SBC与现金门槛严格",
+      "source_ids": [
+        "SP_SNOW_Q2",
+        "SP_SNOW_10Q"
+      ]
+    },
+    "CEG": {
+      "ticker": "CEG",
+      "name": "Constellation Energy",
+      "sector": "核电与商用发电",
+      "pathway": "电力主题急跌后的业务验证",
+      "fiscal_period": "2026 Q2 / H1 ended 2026-06-30",
+      "facts": [
+        {
+          "claim": "Q2 GAAP EPS 1.42美元，调整后营业EPS 2.55美元；去年分别2.67和1.91美元，两个口径方向相反。",
+          "source_id": "IC_CEG_Q2"
+        },
+        {
+          "claim": "新增920MW长期购电协议；自有核电机组容量因子93.0%，低于去年94.8%。Crane重启目标2027年，不是下周新增利润。",
+          "source_id": "IC_CEG_Q2"
+        },
+        {
+          "claim": "H1经营现金流15.53亿美元，投资现金净流出51.01亿美元（含Calpine交易及资本支出），融资净流入8.77亿美元。",
+          "source_id": "IC_CEG_10Q"
+        }
+      ],
+      "guidance": "FY2026调整后营业EPS上调至11.50—12.50美元。[IC_CEG_Q2]",
+      "cash_quality": "GAAP受衍生品公允价值、退役相关项目、收购合同摊销影响；920MW合同不等于当季新增现金。H1投资净流出包含收购，不能把CFO减全部投资净流出叫FCF；本轮未完成单独维护/增长资本支出全勾稽。[IC_CEG_Q2][IC_CEG_10Q]",
+      "rebound_case": "长期购电协议、已有核电产能和Calpine扩展是需求兑现路径；市场若由利率冲击回稳且核电利用率恢复，可能形成电力主题修复。",
+      "trap_case": "Calpine并表夸大可比增长，停机、重启成本、监管与资金成本可能吞噬新增合同价值；它与AI、长久期资产同跌，不是传统低波公用事业替代。",
+      "kill": "Crane重启延迟或资本成本失控，长期合同无法获得可接受回报，停机持续拖累，或全年调整后指引下修。",
+      "trigger": "先验证核电可用率和合同价格/交付日期；与VST及VRT共用电力/AI风险上限。价格止跌可入小仓观察，11月9日前不把项目新闻当盈利上调。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "no_self_earnings_next_week",
+        "source_id": "IC_CEG_EVENT",
+        "note": "公司Q3电话会为11月9日09:00 ET；下周仅政策、利率和AI资本开支交叉催化。"
+      },
+      "priority_research": "B 电力反弹观察；不能视作现金替代",
+      "source_ids": [
+        "IC_CEG_Q2",
+        "IC_CEG_10Q",
+        "IC_CEG_EVENT"
+      ]
+    },
+    "VST": {
+      "ticker": "VST",
+      "name": "Vistra",
+      "sector": "综合发电与零售电力",
+      "pathway": "电力主题急跌后的条件反弹",
+      "fiscal_period": "2026 Q2 / H1 ended 2026-06-30",
+      "facts": [
+        {
+          "claim": "Q2净利润3.05亿美元，包含4.72亿美元未实现对冲损失；持续经营调整后EBITDA 17.67亿美元，同比增长逾30%。",
+          "source_id": "IC_VST_Q2"
+        },
+        {
+          "claim": "H1经营现金流22.22亿美元；包括核燃料及长期服务协议预付款的资本支出15.72亿美元。",
+          "source_id": "IC_VST_Q2"
+        },
+        {
+          "claim": "公司对Helix数字基础设施初始承诺最高10亿美元；这属于潜在资金投入，不能当作已确认数据中心收入。",
+          "source_id": "IC_VST_Q2"
+        }
+      ],
+      "guidance": "FY2026持续经营调整后EBITDA 68—76亿美元、调整后增长资本开支前FCF 39.25—47.25亿美元；公司明确这份指引不含待完成Cogentrix交易及已宣布Meta长期PPA的潜在影响。[IC_VST_Q2]",
+      "cash_quality": "分析计算H1 CFO减含核燃料等资本投入约6.50亿美元，不能与全年FCFbG混同。FCFbG排除增长投入并调整保证金/营运资金，远非可全部分红的净现金；Helix投入会增加未来现金需求。[IC_VST_Q2]",
+      "rebound_case": "已实现电价、容量收入和机组贡献支持EBITDA增长；如果电力远期价格与可靠性稳健，主题去杠杆后的修复有经营基础。",
+      "trap_case": "对冲保护使现货电价上涨无法即时兑现；收购和数据中心承诺需要资金。以AI PPA标题给全部电量重新估值会高估当期现金流。",
+      "kill": "容量或实现电价走弱、机组可用性下降、增长投资挤压资产负债表，或公司下调持续经营指引。",
+      "trigger": "现金流、对冲期限和增长资本支出先补核；与CEG合计按单一电力主题管理，只选证据和相对强弱更好的一个，避免把两个高相关反弹加成分散。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "no_self_earnings_next_week",
+        "source_id": "IC_VST_EVENT",
+        "note": "公司确认Q3为11月6日10:00 ET电话会；下周没有自身财报催化。"
+      },
+      "priority_research": "B 电力反弹观察；须与CEG二选一或合计限额",
+      "source_ids": [
+        "IC_VST_Q2",
+        "IC_VST_EVENT"
+      ]
+    },
+    "ORCL": {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "sector": "云基础设施/企业数据库",
+      "pathway": "AI订单增长与重资本融资矛盾",
+      "fiscal_period": "FY2027 Q1，2026年9月10日发布",
+      "facts": [
+        {
+          "claim": "季度收入19.3十亿美元，同比+30%；IaaS收入7.4十亿美元，同比+121%；RPO664十亿美元。",
+          "source_id": "SP_ORCL_Q1"
+        },
+        {
+          "claim": "GAAP EPS1.56美元、调整EPS1.92美元；季度CFO23十亿美元但FCF为-5十亿美元。",
+          "source_id": "SP_ORCL_Q1"
+        },
+        {
+          "claim": "季度通过ATM普通股发行筹资20十亿美元（佣金前）。",
+          "source_id": "SP_ORCL_Q1"
+        }
+      ],
+      "guidance": "FY27收入至少90十亿美元、non-GAAP EPS8.10美元；Q2收入增速30–34%。〔SP_ORCL_Q1〕",
+      "cash_quality": "CFO很强仍不足覆盖基础设施投资，负FCF与发行股票同时出现；RPO是多年收入合同，不是当期现金，更不能将股权融资当盈利。",
+      "rebound_case": "若AI合同兑现为可用容量和收入，且融资需求没有继续上修，市场风险偏好恢复可支持回踩修复。",
+      "trap_case": "只看RPO或云收入增长，忽略资金需求、客户集中与股权稀释；承诺规模大不代表可持续股东现金回报高。",
+      "kill": "交付推迟、客户合同执行/融资风险上升，或资本开支和稀释持续超过收入兑现。",
+      "trigger": "先等云与资本开支板块稳定，并核查新增融资与客户付款条款；优先回踩确认，不能按RPO增速推目标价。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "not_confirmed_in_next_week",
+        "source_id": "SP_ORCL_Q1",
+        "note": "未在本次已读公司资料确认10月26日至30日财报或确定时点；这不证明没有新公告。"
+      },
+      "priority_research": "B：现金与融资约束较重",
+      "source_ids": [
+        "SP_ORCL_Q1"
+      ]
+    },
+    "ALAB": {
+      "ticker": "ALAB",
+      "name": "Astera Labs",
+      "sector": "AI互连半导体",
+      "pathway": "从信号调节向机架级交换产品扩张，进攻点在新产品收入兑现",
+      "fiscal_period": "2026Q2，截至2026-06-30；8月4日披露",
+      "facts": [
+        {
+          "claim": "Q2收入3.924亿美元，同比增长104%；GAAP营业利润0.892亿美元，毛利率73.3%。",
+          "source_id": "ATK-AI-ALAB-Q2"
+        },
+        {
+          "claim": "Q2 GAAP/非GAAP EPS为0.83/0.80美元；税务调节等项目使净利润口径不能机械视为主营改善。",
+          "source_id": "ATK-AI-ALAB-Q2"
+        },
+        {
+          "claim": "H1经营现金流1.62276亿美元、PPE购买0.28054亿美元，简化相减1.34222亿美元；H1 SBC为1.12905亿美元。",
+          "source_id": "ATK-AI-ALAB-Q2"
+        }
+      ],
+      "guidance": "8月指引Q3收入5.40—5.60亿美元、GAAP EPS0.87—0.92、非GAAP EPS1.16—1.21；是管理层预测，不是已实现结果。[ATK-AI-ALAB-Q2]",
+      "cash_quality": "收入增长有实际证据，但SBC、客户认股权证收入抵减、应收和库存影响股东经济收益；不能把调整后EPS或H1现金差额当不受稀释的每股FCF。季度净利润与半年现金期间不同。",
+      "attack_case": "如果Scorpio等新产品量产如期扩大，AI机架互连内容量上升能传导至收入；进攻性来自产品放量与盈利弹性，而不是单纯复制GPU厂商估值。",
+      "expectations_risk": "公司已明确预告Q3收入跃升，新产品提前放量本身是公开利好。没有完整一致预期修正和正常化估值模型，不能宣称市场尚未定价。高增长若仅达到高预期仍可能令股价下跌。",
+      "trap_case": "客户集中、设计赢单向量产转化不及预期、接口标准变化、SBC稀释或毛利回落，会同时打击盈利与估值；小型互连公司不等于低风险分散。",
+      "kill": "量产计划推迟、收入/毛利指引下调，或应收库存增速持续超过收入且现金转化恶化时，撤销新增候选，不因跌幅大摊低。",
+      "trigger": "云厂商采购和公司正式出货/收入披露共同验证产品兑现；形成价格企稳且估值能承受指引兑现而非上修后，再讨论小额条件仓。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "next_earnings_outside_week_confirmed",
+        "source_id": "ATK-AI-ALAB-EVENT",
+        "note": "官方事件页列11月3日16:30 EST电话会，属于下一周；北京时间11月4日05:30。下周主要观察云客户交叉证据，不伪造本公司财报催化。"
+      },
+      "priority_research": "A/B：高增长经营进攻研究，仍有预期与估值闸门",
+      "source_ids": [
+        "ATK-AI-ALAB-Q2",
+        "ATK-AI-ALAB-EVENT"
+      ]
+    },
+    "MRVL": {
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "sector": "数据中心连接与定制芯片",
+      "pathway": "连接产品和定制硅片的收入加速，盈利兑现型进攻候选",
+      "fiscal_period": "FY2027Q2，截至2026-08-01；8月27日披露",
+      "facts": [
+        {
+          "claim": "FY27Q2收入27.393亿美元，同比增长37%；数据中心收入同比增长46%，是已披露业务增长而非仅有AI标签。",
+          "source_id": "ATK-AI-MRVL-Q2"
+        },
+        {
+          "claim": "GAAP/非GAAP EPS为0.33/0.94美元，GAAP毛利率53.1%，显示并购摊销、SBC及其他调整不能忽略。",
+          "source_id": "ATK-AI-MRVL-Q2"
+        },
+        {
+          "claim": "季度经营现金流6.055亿美元；该数尚未扣资本开支、技术许可或收购现金，不能直接当可分配FCF。",
+          "source_id": "ATK-AI-MRVL-Q2"
+        }
+      ],
+      "guidance": "8月指引FY27Q3收入31.50亿美元±5%，GAAP EPS0.53±0.05、非GAAP1.10±0.05。10月6日投资者日已发生；本轮打开官方活动页，但完整大体积演示稿未能读取，以上仅作为明确日期的8月指引，不冒称已完成所有后续更新核验。[ATK-AI-MRVL-Q2][ATK-AI-MRVL-ID]",
+      "cash_quality": "CFO提供增长之外的支持，但GAAP与调整后利润差额大，许可付款、收购及可转换优先股安排影响普通股经济收益。必须按同口径每股现金与资本投入复核。",
+      "attack_case": "若定制芯片和高速连接产品按客户部署节奏进入收入，收入增量可带来运营杠杆；相对于纯叙事型公司，已有收入和现金可用作兑现检查。",
+      "expectations_risk": "高增长与数据中心加速已公开；未完整重建10月投资者日后的预期和订单时序，不能把旧指引增速当新增预期差。定制芯片业务增长可能集中于少数大客户。",
+      "trap_case": "项目延期、定制芯片客户内部化设计、产品组合毛利变化或持续融资稀释，可能使收入增长不能转成普通股每股收益；不能按客户总AI预算外推公司收入。",
+      "kill": "公司收入/毛利指引下调，客户项目延后或现金与应收结构恶化而缺乏可信解释，退出新增名单。",
+      "trigger": "补读10月投资者日正式财务框架，核对客户量产、收入时点和现金；价格企稳后才评估预算，不在预期尚未更新时按旧模型追买。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "no_verified_dated_event_in_week",
+        "source_id": "ATK-AI-MRVL-ID",
+        "note": "10月6日投资者日已经过去，本轮未核实10/26—30确定公司财报时点。不得把已过活动重新包装成下周催化。"
+      },
+      "priority_research": "A/B：盈利兑现型，需补齐投资者日后预期校准",
+      "source_ids": [
+        "ATK-AI-MRVL-Q2",
+        "ATK-AI-MRVL-ID"
+      ]
+    },
+    "CRWV": {
+      "ticker": "CRWV",
+      "name": "CoreWeave",
+      "sector": "AI云运营与重资本融资",
+      "pathway": "算力交付增长与融资成本共同决定股权弹性，属融资约束型进攻",
+      "fiscal_period": "2026Q2，截至2026-06-30；8月11日披露",
+      "facts": [
+        {
+          "claim": "Q2收入25.75亿美元、GAAP营业亏损0.49亿美元、净利息费用6.40亿美元、净亏损6.26亿美元。",
+          "source_id": "ATK-AI-CRWV-Q2"
+        },
+        {
+          "claim": "期末revenue backlog约1040亿美元，定义包含RPO及公司估算未来确认金额，仍取决于交付/服务可用条件。",
+          "source_id": "ATK-AI-CRWV-Q2"
+        },
+        {
+          "claim": "Q2经营现金流6.79亿美元，PPE及资本化内部软件现金支出64.22亿美元，简化差额-57.43亿美元；融资现金净流入100.71亿美元。",
+          "source_id": "ATK-AI-CRWV-Q2"
+        }
+      ],
+      "guidance": "已读业绩新闻稿说明前瞻数字将于电话会提供，本轮未完成电话会全部指引勾稽，因此不填第三方预测或借用backlog当未来收入。需要最新容量、资本开支与融资条款同步更新。",
+      "cash_quality": "调整后EBITDA不能替代扣除折旧、利息、资本开支后的股东现金。当前现金流模式依赖预付款和融资；上述CFO减PPE为研究简化差额，未计全部投资及融资义务，不是公司定义的FCF。",
+      "attack_case": "如果建设按期完成、容量及时变成可计费收入，且融资渠道改善，运营杠杆和风险溢价下降可能同时支持股价；这是执行与资本市场共同驱动的高弹性情景。",
+      "expectations_risk": "庞大订单已经是公开叙事。关键未知不是是否有AI需求，而是履约资本、借款成本、客户集中和GPU经济寿命；完整股权估值必须扣净债务及未来融资稀释，不能仅按收入倍数。",
+      "trap_case": "新增合同增加建设义务，也可能增加资金缺口；借新债支撑增长并不自动创造每股价值。客户、供应商与融资方相关性可能在风险厌恶时同步恶化。",
+      "kill": "容量上线/收入确认推迟、融资成本或保证金要求跳升、客户付款/合同履行恶化，或新增权益融资显著稀释时，停止新增；价格止损无法保证公告跳空损失。",
+      "trigger": "先核实可用融资覆盖未来承诺支出、客户付款条款和交付进度，再评每单位算力的可持续回报；只有资金与经营两端均通过才进入小额投机观察，不进入默认核心示例。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "exact_next_earnings_not_verified",
+        "source_id": "ATK-AI-CRWV-EVENT",
+        "note": "已打开官方事件页，但动态正文未提供可核验下一财报时点；不采用第三方估计写作已确认10/26—30事件。"
+      },
+      "priority_research": "C/高风险观察：融资门槛先于进攻仓位",
+      "source_ids": [
+        "ATK-AI-CRWV-Q2",
+        "ATK-AI-CRWV-EVENT"
+      ]
+    },
+    "NBIS": {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "sector": "AI云与算力容量扩张",
+      "pathway": "云收入放量、预付款和资本融资共同驱动，属资金密集型进攻",
+      "fiscal_period": "2026Q2，截至2026-06-30；8月12日披露",
+      "facts": [
+        {
+          "claim": "Q2集团收入5.823亿美元，同比增长454%；集团调整后EBITDA2.362亿美元，但持续经营净亏损1.904亿美元。",
+          "source_id": "ATK-AI-NBIS-Q2"
+        },
+        {
+          "claim": "Q2经营现金流22.461亿美元，其中递延收入增加11.970亿美元；PPE与无形资产购买56.574亿美元，简化差额-34.113亿美元。",
+          "source_id": "ATK-AI-NBIS-Q2"
+        },
+        {
+          "claim": "H1可转债发行现金43.375亿美元、出售库存股现金28.467亿美元；正经营现金不代表扩张无需融资。",
+          "source_id": "ATK-AI-NBIS-Q2"
+        },
+        {
+          "claim": "管理层称Q2 AI云收入5.75亿美元、期末ARR30亿美元；ARR按季末月收入乘12计算，并非当年已实现收入。",
+          "source_id": "ATK-AI-NBIS-LETTER"
+        }
+      ],
+      "guidance": "8月股东信重申全年框架，将年底签约电力目标提高至5GW，预计2026客户预付款超过90亿美元；完整收入/资本开支数字指引需电话会进一步核对。签约电力不是已上线可计费容量。[ATK-AI-NBIS-LETTER]",
+      "cash_quality": "应把预付款产生的CFO与未来履约支出一起看；Q2的CFO减PPE/无形资产是简化分析差额，不是公司FCF定义。集团投资重估还会影响GAAP净利，融资及ATM稀释必须进入普通股价值计算。",
+      "attack_case": "若容量交付与客户需求兑现，新合同定价和单位容量利用率改善可能带来快速收入增长；股权弹性还依赖融资压力下降，而不只是AI算力紧缺。",
+      "expectations_risk": "合同金额、ARR与签约GW已经是公开管理层指标，均不能直接当现金利润。股东信的投资回收期是基于预测成本及尚未建设容量的估计，不是已验证的无风险收益。",
+      "trap_case": "预付资金附带未来服务义务；电力/建设/GPU交付延误、客户集中或定价下降可能让资金缺口扩大。新增发行可以支持业务同时稀释每股回报。",
+      "kill": "容量上线延后、预付款/合同执行恶化、融资条件收紧或资本开支持续超过可用资金而无可信回报路径时，撤销新增候选。",
+      "trigger": "核对已建成与可计费容量、客户付款、融资覆盖和按每股计的现金回报；只有这些证据和价格确认共同改善才考虑小额观察，不放默认盈利兑现组合。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "exact_next_earnings_not_verified",
+        "source_id": "ATK-AI-NBIS-EVENT",
+        "note": "官方Investor Hub未显示可读的下一次准确财报日期；第三方11月估计不升级为已确认事件，下周无本轮已核实公司财报时点。"
+      },
+      "priority_research": "C/高风险观察：交付和融资双重验证",
+      "source_ids": [
+        "ATK-AI-NBIS-Q2",
+        "ATK-AI-NBIS-LETTER",
+        "ATK-AI-NBIS-EVENT"
+      ]
+    },
+    "GEV": {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "sector": "电力设备与电网",
+      "pathway": "数据中心电力需求传导到订单、交付及利润率；产业兑现型进攻",
+      "fiscal_period": "2026Q2，截至2026-06-30；7月22日披露",
+      "facts": [
+        {
+          "claim": "Q2订单242亿美元，期末backlog1760亿美元；订单和backlog不是当期收入。",
+          "source_id": "ATK-AI-GEV-Q2"
+        },
+        {
+          "claim": "Q2收入111.04亿美元、同比+22%，有机增长12%；年内数据中心订单超过50亿美元，提供主题到业务的订单证据。",
+          "source_id": "ATK-AI-GEV-Q2"
+        },
+        {
+          "claim": "Q2经营现金流54.92亿美元、公司FCF51.07亿美元；现金改善包含营运资本正贡献，不能将强季度简单乘四。",
+          "source_id": "ATK-AI-GEV-Q2"
+        }
+      ],
+      "guidance": "7月FY2026指引收入455—465亿美元、FCF115—125亿美元、调整后EBITDA率12%—14%；下周Q3应检验是否维持。风电仍预期约4亿美元分部EBITDA亏损，不能只看电网强项。[ATK-AI-GEV-Q2]",
+      "cash_quality": "已有现金创造，比仅靠远期订单的公司更可核验；但预收与营运资本时点、并购/业务组合和风电项目损失会影响现金重复性。FCF是公司非GAAP口径，需结合调节表而非与云运营商直接横比。",
+      "attack_case": "电网和燃机瓶颈若持续，订单价格与服务结构有望转成利润率及现金；AI受益路径经过设备采购，而不是把全部订单都归因于AI。",
+      "expectations_risk": "大额订单和上调现金指引已公开。股价需要的不只是高backlog，还要证明交付不延误、定价能覆盖成本、风电负担不扩大；没有正常化估值模型就不宣称已经便宜。",
+      "trap_case": "设备扩产需要时间，固定价格项目、供应链及风电质保可能造成亏损；订单高增长与未来现金到账有时点差。客户资本开支下降会同时打击该股和其他AI基建持仓。",
+      "kill": "指引下调、关键交付推迟、订单取消或项目损失扩大、现金改善被证明主要不可持续时，撤销新增候选。",
+      "trigger": "等10月28日盘前结果及07:30ET电话会后，确认收入、订单质量、利润率和现金指引，再按新价格重排；不把旧7月指引自动当财报通过。",
+      "next_week_event": {
+        "date_et": "2026-10-28",
+        "time_et": "before market open; call07:30ET",
+        "status": "company_confirmed",
+        "source_id": "ATK-AI-GEV-DATE",
+        "note": "公司10/13公告和官方事件页交叉确认；北京时间10月28日19:30电话会。首次新闻稿精确分钟未核实。"
+      },
+      "priority_research": "A：产业盈利兑现研究；财报后才有条件推进",
+      "source_ids": [
+        "ATK-AI-GEV-Q2",
+        "ATK-AI-GEV-EVENT",
+        "ATK-AI-GEV-DATE"
+      ]
+    },
+    "SNDK": {
+      "ticker": "SNDK",
+      "name": "Sandisk",
+      "sector": "NAND存储与企业SSD",
+      "pathway": "NAND定价和企业SSD放量带来经营杠杆，周期型进攻",
+      "fiscal_period": "FY2026Q4，截至2026-07-03；8月5日披露",
+      "facts": [
+        {
+          "claim": "FY26Q4收入89.65亿美元、环比+51%；GAAP毛利率84.6%，GAAP/非GAAP EPS43.97/39.25美元。",
+          "source_id": "ATK-AI-SNDK-Q4"
+        },
+        {
+          "claim": "Q4经营现金流71.26亿美元，净PPE支出0.43亿美元，公司FCF70.83亿美元；调整后FCF50.35亿美元。",
+          "source_id": "ATK-AI-SNDK-Q4"
+        },
+        {
+          "claim": "调整后FCF对Flash Ventures净活动及NBM预付款/押金作调整；Q4 NBM相关调减19.38亿美元，不能把客户提前支付视作永续自由现金。",
+          "source_id": "ATK-AI-SNDK-Q4"
+        }
+      ],
+      "guidance": "FY27Q1收入103—108亿美元、非GAAP EPS44—46美元为公司8月指引，不是已实现。10/29电话会将检验定价、出货和资本/客户付款假设。[ATK-AI-SNDK-Q4]",
+      "cash_quality": "强现金与强毛利提供经营支撑，但高景气NAND价格、预付款、合同退款责任、合资厂投资和营运资本可能逆转；公司FCF与调整FCF必须分开。不能将单季EPS年化或把周期顶部低P/E当永久便宜。",
+      "attack_case": "若企业SSD需求与供给纪律维持，价格和产品结构可产生高盈利弹性；正式指引继续上修且现金质量保持，才可能形成进一步预期差。",
+      "expectations_risk": "极高季度毛利与盈利已公开且容易被年化，估值安全边际依赖中周期价格与资本支出，而本轮未建立可审计中周期模型；达到既有高指引也可能不够支持上涨。",
+      "trap_case": "NAND供给恢复、客户去库存、定价下行或预付退款会使利润与现金同时下降；与MU/WDC/STX同买不代表真正分散，其中产品结构也不同。",
+      "kill": "价格/出货/毛利或指引下修、调整后现金显著弱化且预付款掩盖恶化，或资本承诺扩大无法合理解释时，否决新增。",
+      "trigger": "等10/29实际数据和16:30ET电话会后，核实新季指引、价格/出货、企业SSD贡献与调整后现金，再考虑小仓；不在公告前赌“继续超预期”。",
+      "next_week_event": {
+        "date_et": "2026-10-29",
+        "time_et": "call16:30ET",
+        "status": "company_confirmed",
+        "source_id": "ATK-AI-SNDK-EVENT",
+        "note": "公司公告确认为13:30PT电话会，即北京时间10月30日04:30。公告未单独给新闻稿首次发布精确分钟，本轮不编造。"
+      },
+      "priority_research": "A/B：存储周期进攻，财报前等待",
+      "source_ids": [
+        "ATK-AI-SNDK-Q4",
+        "ATK-AI-SNDK-EVENT"
+      ]
+    },
+    "TSLA": {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "sector": "汽车、储能与自动驾驶预期",
+      "pathway": "实际业务修复带动高预期成长；不能将机器人/无人驾驶叙事当作已兑现收入",
+      "fiscal_period": "2026Q3，截至2026-09-30；2026-10-21发布",
+      "facts": [
+        {
+          "claim": "Q3收入280.46亿美元，营业利润7.18亿美元；汽车收入205.60亿美元、能源收入28.81亿美元。汽车以外业务不能直接当成自动驾驶利润。",
+          "source_id": "ATK-PC-TSLA-Q3"
+        },
+        {
+          "claim": "Q3汽车毛利率剔除监管积分为18.1%；该毛利率改善不等同于整家公司营业利润同步改善。",
+          "source_id": "ATK-PC-TSLA-Q3"
+        },
+        {
+          "claim": "Q3经营现金流62.63亿美元、资本开支47.32亿美元、自由现金流15.31亿美元；现金及短期投资454.47亿美元。",
+          "source_id": "ATK-PC-TSLA-Q3"
+        },
+        {
+          "claim": "Q3应付账款与应计负债对经营现金流贡献39.91亿美元，递延收入贡献12.55亿美元；股权激励11.65亿美元。报告仍称FSD为Supervised，要求驾驶员主动监督。",
+          "source_id": "ATK-PC-TSLA-Q3"
+        }
+      ],
+      "guidance": "已核实Q3更新及管理层产能/产品展望；本研究不据未经完整核实的媒体摘要填列全年资本开支或收入指引。管理层机器人、Robotaxi及产能目标是待验证执行目标。",
+      "cash_quality": "现金厚度构成缓冲，但单季现金流明显受营运资金推动；不能把15.31亿美元FCF机械年化。能源业务应以分部毛利与交付转化验证，自动驾驶价值不能填补当期汽车盈利缺口。",
+      "attack_case": "研究价值在汽车扣积分毛利修复、储能放量能否提升真实营业利润和持续现金流；若基本面与市场风险偏好同时改善，可能出现高弹性。",
+      "expectations_risk": "未估算自动驾驶/机器人未来收入，未验证共识预期或估值折价。叙事兑现不足可与汽车利润承压同时发生，不能因为股价下跌就认定便宜。",
+      "trap_case": "把较强CFO视为永久现金创造，忽略应付款/递延收入；把受监督FSD等同于已经规模化无人驾驶收入。",
+      "kill": "研究否决：扣积分汽车毛利与营业利润同时恶化，持续资本开支使规范化FCF转负，或监管/执行证据直接否定关键商业化假设。不可用新故事替代失败的利润指标。",
+      "trigger": "重新入选证据：后续披露证明营业利润和剔除营运资金波动的现金创造同步改善；若仅有概念性产品消息，不提高风险预算。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "no_confirmed_company_event_in_window",
+        "source_id": "ATK-PC-TSLA-8K",
+        "note": "Q3已于10/21发布；未确认10/26–30另有固定财报事件。不能把上周财报当作下周待发催化。"
+      },
+      "priority_research": "B：利润修复观察；不适合作为低波动核心。自动驾驶与汽车/能源应分别估值和验证。",
+      "source_ids": [
+        "ATK-PC-TSLA-Q3",
+        "ATK-PC-TSLA-8K"
+      ]
+    },
+    "HOOD": {
+      "ticker": "HOOD",
+      "name": "Robinhood Markets",
+      "sector": "零售券商与交易平台",
+      "pathway": "客户资产/净入金增长转化为交易与订阅收入；下周财报事件驱动",
+      "fiscal_period": "2026Q2，截至2026-06-30；2026-07-29发布",
+      "facts": [
+        {
+          "claim": "Q2净收入13.08亿美元，同比增长32%；净入金217亿美元，Gold订阅用户480万，同比增长39%。",
+          "source_id": "ATK-PC-HOOD-Q2"
+        },
+        {
+          "claim": "Q2交易收入7.76亿美元，其中加密收入1.00亿美元、同比下降38%；期权3.42亿美元，股票1.29亿美元，事件合约1.56亿美元。收入增长并非全部来自加密交易。",
+          "source_id": "ATK-PC-HOOD-Q2"
+        },
+        {
+          "claim": "Q2净利润5.73亿美元、稀释EPS 0.62美元；其中RVI去并表收益1.29亿美元，贡献约0.14美元EPS。调整后EBITDA 7.41亿美元不是经营现金流。",
+          "source_id": "ATK-PC-HOOD-Q2"
+        },
+        {
+          "claim": "6/30公司现金及现金等价物53.62亿美元；另有82.50亿美元隔离现金，不可当作可自由部署公司现金。",
+          "source_id": "ATK-PC-HOOD-Q2"
+        }
+      ],
+      "guidance": "2026全年调整后营业费用加SBC指引26.75–27.75亿美元；该定义不是GAAP营业费用或EPS指引，Q3起拟排除经营性利息费用，跨期比较需重述。",
+      "cash_quality": "对利润先剔除RVI一次性去并表收益；客户隔离现金不是公司风险吸收资本。交易、净利息与订阅收入应分拆，不能把客户资产规模直接当利润。",
+      "attack_case": "净入金、Gold及期权/股票/事件产品可提供多条收入增长路径。若Q3收入增长覆盖新增成本且存量客户活跃度稳定，基本面比单纯加密概念更完整。",
+      "expectations_risk": "未获取可靠同日分析师共识，无法断言财报超预期。高客户活动、期权和事件合约景气仍可能受风险偏好及规则改变影响。",
+      "trap_case": "将0.62美元EPS全部视为可持续经营利润；用总客户资金衡量公司自有现金；认为不同交易产品意味着与加密/投机周期完全脱钩。",
+      "kill": "净入金明显反转且客户活跃下降，成本或信用损失增速超过业务增长；重大产品合规限制使关键收入渠道不再可持续。",
+      "trigger": "10/27财报后核对剔除一次性收益的利润、净入金、Gold、交易收入构成及可比费用。盘后跳空已发生后，应根据新证据重算仓位，不将预设止损视为跳空保险。",
+      "next_week_event": {
+        "date_et": "2026-10-27",
+        "time_et": "17:00",
+        "status": "confirmed_issuer",
+        "source_id": "ATK-PC-HOOD-EVENT",
+        "note": "财报盘后发布、电话会17:00 ET；北京时间10/28 05:00。事件前默认新增风险仓位为0，财报后再评估。"
+      },
+      "priority_research": "A：下周关键财报跟踪；与COIN/MSTR归入共同风险偏好因子，不按三条完全独立策略计风险。",
+      "source_ids": [
+        "ATK-PC-HOOD-Q2",
+        "ATK-PC-HOOD-EVENT"
+      ]
+    },
+    "COIN": {
+      "ticker": "COIN",
+      "name": "Coinbase Global",
+      "sector": "加密资产交易与基础设施",
+      "pathway": "交易份额、稳定币及衍生品增长；与加密价格/波动/交易活跃度高度相关的事件研究",
+      "fiscal_period": "2026Q2及上半年，截至2026-06-30；2026-07-30发布",
+      "facts": [
+        {
+          "claim": "Q2加密交易市场份额10.3%，前季9.1%；订阅及服务收入5.55亿美元，占净收入48%。所谓88%净收入不来自比特币现货，不等于88%不受加密市场影响。",
+          "source_id": "ATK-PC-COIN-Q2"
+        },
+        {
+          "claim": "Q2总收入12.20068亿美元，GAAP净亏损3.59468亿美元；调整后EBITDA 2.07810亿美元。",
+          "source_id": "ATK-PC-COIN-10Q"
+        },
+        {
+          "claim": "Q2股权激励2.38341亿美元；上半年经营现金流3.80054亿美元，去年同期10.92772亿美元。",
+          "source_id": "ATK-PC-COIN-10Q"
+        },
+        {
+          "claim": "6/30现金、现金等价物及可交易投资约88亿美元；长期票据本金合计60亿美元，到期2028–2032年。客户托管资产与稳定币余额不是公司自由现金。",
+          "source_id": "ATK-PC-COIN-10Q"
+        }
+      ],
+      "guidance": "本研究没有填入未经逐项核验的Q3数值收入指引；重点核对10/29披露的实际交易收入、订阅服务构成、费用与现金流。调整后EBITDA连续为正不能当作GAAP净利润承诺。",
+      "cash_quality": "较大流动性资产与有息债务同时存在。剔除投资公允价值波动后仍需看SBC与现金创造，不能只用调整后EBITDA给高增长估值；客户资金不计入可用企业流动性。",
+      "attack_case": "市场份额提高且订阅、衍生品等增量收入真正覆盖合规与技术成本时，经营弹性可能放大；需要活跃度、费率和收入结构同时支持。",
+      "expectations_risk": "稳定币收入受利率和分成影响，衍生品与山寨币仍在加密生态内；收入来源增加不等于宏观/加密风险被分散。未确认市场共识或估值便宜。",
+      "trap_case": "以14个季度正调整后EBITDA推论自由现金流和GAAP利润都稳定；忽略交易费率竞争、持币投资损失与股权稀释。",
+      "kill": "交易量增长但净变现费率/利润持续恶化，安全或监管事件损害客户资产信任，稳定币收入回落而费用刚性使现金流持续缩水。",
+      "trigger": "10/29财报后，交易份额提升需同时转化为可持续净收入和现金流；若只靠币价公允价值收益改善净利，不提高经营质量评级。",
+      "next_week_event": {
+        "date_et": "2026-10-29",
+        "time_et": "17:00",
+        "status": "confirmed_issuer",
+        "source_id": "ATK-PC-COIN-EVENT",
+        "note": "盘后财报，Q&A 14:00 PT即17:00 ET；北京时间10/30 05:00。与MSTR同晚，事件风险不能相互分散。"
+      },
+      "priority_research": "A：事件及现金流核验；事件前默认新增风险仓位为0。若组合已有加密敏感股，需从共同风险额度内置换。",
+      "source_ids": [
+        "ATK-PC-COIN-Q2",
+        "ATK-PC-COIN-10Q",
+        "ATK-PC-COIN-EVENT"
+      ]
+    },
+    "MSTR": {
+      "ticker": "MSTR",
+      "name": "Strategy",
+      "sector": "比特币财库、融资结构与软件",
+      "pathway": "比特币净资产、资本市场融资条件与普通股估值溢价共同驱动；属于企业层面杠杆暴露",
+      "fiscal_period": "资产/融资最新核验截至2026-10-18；Q2债务基准截至2026-06-30，不能混为同日资产负债表",
+      "facts": [
+        {
+          "claim": "截至10/18持有848,517枚BTC；10/12–18购入267枚BTC，同期发行140,872股MSTR普通股取得2,200万美元净款用于购币。",
+          "source_id": "ATK-PC-MSTR-1019"
+        },
+        {
+          "claim": "截至10/18 USD Reserve为48.3亿美元，USD Cash为4.473亿美元；前者拟支持优先股股息及债务利息，二者用途不同。",
+          "source_id": "ATK-PC-MSTR-1019"
+        },
+        {
+          "claim": "10/12–18耗用1.931亿美元USD Cash回购STRC，并用4,550万美元Reserve支付优先股股息。可回购额度不是实际现金或已完成回购。",
+          "source_id": "ATK-PC-MSTR-1019"
+        },
+        {
+          "claim": "Q2末可转债本金约67亿美元；Q2营业亏损83.3亿美元包含83.2亿美元数字资产未实现亏损。BTC价格导致的会计利润波动不能代表软件经营现金创造。",
+          "source_id": "ATK-PC-MSTR-Q2"
+        }
+      ],
+      "guidance": "发行人BTC Yield等指标为特定管理指标，不是普通股现金收益率或投资回报承诺。没有完成同一时点BTC市值、全部债务、优先股清算请求权及完全摊薄股数核验，因此不计算或声称净资产折价。",
+      "cash_quality": "资产必须分成BTC、Reserve和其他现金；融资负担须分成债务、各类优先股股息/清偿顺序及普通股ATM稀释。普通股是剩余索取权；只买正股依然承担企业融资杠杆。Q2债务数值不是10/18最新债务总额。",
+      "attack_case": "币价上涨、融资渠道开放、普通股估值与每股净资产创造互相支持时可高度进攻；但需要验证扣除融资成本后的每股净利益，不能只看总BTC数量增加。",
+      "expectations_risk": "MSTR不是无杠杆BTC替身，普通股溢价压缩可抵消BTC上涨。发行优先股与普通股可改善短期流动性同时改变普通股风险/收益分配。",
+      "trap_case": "把Reserve当作可自由全额买币现金；忽略优先股在普通股之前的请求权；以购币总量增长掩盖普通股摊薄。",
+      "kill": "融资渠道收缩、服务债务/优先股需要被迫出售核心资产，或稀释与融资成本持续超过每股经济利益增量。未完成更新资本结构核验前，不升级为核心仓位。",
+      "trigger": "10/29报告及后续8-K中，核对最新债务、各类优先股余额与股息、Reserve覆盖、完全摊薄股数及每股净资产；只有这些证据改善才重新评估。",
+      "next_week_event": {
+        "date_et": "2026-10-29",
+        "time_et": "17:00",
+        "status": "confirmed_issuer",
+        "source_id": "ATK-PC-MSTR-EVENT",
+        "note": "盘后Q3财报，17:00 ET直播；北京时间10/30 05:00。同晚COIN，前后加密风险和融资风险会叠加。下一份周度8-K日期未证实，不假定10/26必发。"
+      },
+      "priority_research": "C：结构复杂的投机观察，非优质现金流核心；财报前默认新增风险仓位为0。不能据20%比赛上限配置20%。",
+      "source_ids": [
+        "ATK-PC-MSTR-1019",
+        "ATK-PC-MSTR-Q2",
+        "ATK-PC-MSTR-EVENT"
+      ]
+    },
+    "TEM": {
+      "ticker": "TEM",
+      "name": "Tempus AI",
+      "sector": "临床诊断、医疗数据与软件",
+      "pathway": "诊断商业收入与数据许可增长；AI医疗叙事需要现金和订单转收入验证",
+      "fiscal_period": "2026Q2及上半年，截至2026-06-30；2026-07-30发布",
+      "facts": [
+        {
+          "claim": "Q2收入3.82486亿美元，同比增长22%；诊断2.893亿美元、数据与应用0.932亿美元。AI叙事不能替代实际收入构成。",
+          "source_id": "ATK-PC-TEM-Q2"
+        },
+        {
+          "claim": "Q2净利润564.2万美元，包含9,850万美元未实现证券收益；调整后EBITDA804.4万美元，股权激励及相关雇主薪资税5,560万美元。",
+          "source_id": "ATK-PC-TEM-Q2"
+        },
+        {
+          "claim": "上半年经营现金流为负8,080.2万美元；现金及可交易证券8.207亿美元，其中融资背景包括4.60亿美元、2032年到期的零息可转债发行。账面现金增长不是经营自给的证明。",
+          "source_id": "ATK-PC-TEM-Q2"
+        },
+        {
+          "claim": "全年收入指引15.95–16.05亿美元、调整后EBITDA约6,500万美元；指引不含待完成Personalis收购，后者预计2026Q4末或2027年初交割，交易企业价值约15亿美元。",
+          "source_id": "ATK-PC-TEM-Q2"
+        }
+      ],
+      "guidance": "收入与调整后EBITDA指引为管理层预测，不能改写成GAAP盈利或正自由现金流承诺。新增数据合同需要检查收入确认节奏，签约金额不是当季收入。",
+      "cash_quality": "净利被未实现证券收益显著抬高，经营现金仍消耗；SBC、可转债及并购均可能影响普通股经济权益。需分别看诊断回款、数据许可递延/确认与并购现金需求。",
+      "attack_case": "若诊断规模、数据许可复购和收入质量同时改善，平台可存在经营杠杆；主要研究真实商业收入与现金回收，不把临床概念当作必然商业成功。",
+      "expectations_risk": "尚无证据证明股价充分反映现金消耗、稀释或并购整合成本；AI标签与大型药企合作不自动等于高利润、可持续现金流。",
+      "trap_case": "将Q2小额GAAP盈利当作稳定盈利拐点；把资本市场融资解释为经营现金创造；把未来订单或临床数据价值直接当当期收入。",
+      "kill": "诊断回款/报销恶化，数据业务增长无法转化现金，SBC和并购融资持续扩大普通股负担，或商业证据不足以支持现金消耗。",
+      "trigger": "11/2实际披露若显示收入增长同时伴随更低现金消耗、可控SBC及清晰收购融资安排，才提高优先级；单纯提高调整后EBITDA不足。",
+      "next_week_event": {
+        "date_et": "2026-11-02",
+        "time_et": "08:45",
+        "status": "confirmed_issuer_outside_window",
+        "source_id": "ATK-PC-TEM-CALENDAR",
+        "note": "发行人日历列11/2 08:45AM EST，Q3盘前；北京时间11/2 21:45，已转冬令时。该事件不在10/26–30周内，不能列为下周某天已确定催化。"
+      },
+      "priority_research": "B：商业数据增长候选；现金消耗与稀释优先于AI概念。下周只跟踪公告，禁止捏造每日催化。",
+      "source_ids": [
+        "ATK-PC-TEM-Q2",
+        "ATK-PC-TEM-CALENDAR"
+      ]
+    },
+    "HIMS": {
+      "ticker": "HIMS",
+      "name": "Hims & Hers Health",
+      "sector": "数字医疗、订阅及个性化健康服务",
+      "pathway": "订阅增长与国际扩张；需要毛利及经营现金流修复的高风险反弹研究",
+      "fiscal_period": "2026Q2，截至2026-06-30；2026-08-10发布",
+      "facts": [
+        {
+          "claim": "Q2收入7.53214亿美元，同比增长38%；美国收入6.21830亿美元、同比16%；海外1.31384亿美元，受到6月完成Eucalyptus收购影响，不能将38%整体增速全称为有机增长。",
+          "source_id": "ATK-PC-HIMS-Q2"
+        },
+        {
+          "claim": "Q2订阅用户289.1万，同比增长19%；毛利率64%，去年76%；净亏损8,629万美元，调整后EBITDA6,030万美元。",
+          "source_id": "ATK-PC-HIMS-Q2"
+        },
+        {
+          "claim": "Q2经营现金流为负3,590万美元、自由现金流为负6,820万美元；股权激励4,211.6万美元。增长仍未在该季度转化为自由现金流。",
+          "source_id": "ATK-PC-HIMS-Q2"
+        },
+        {
+          "claim": "全年收入指引31–33亿美元、调整后EBITDA2.75–3.25亿美元；Q3收入8.8–9.0亿美元、调整后EBITDA7,500–9,500万美元。",
+          "source_id": "ATK-PC-HIMS-Q2"
+        }
+      ],
+      "guidance": "发行人指引使用调整后EBITDA。法律或有事项费用、并购及交易费用被调整，并不代表相应经济成本消失；不得将该口径当作股东自由现金流。",
+      "cash_quality": "6/30现金6.09811亿美元、短期投资2.31237亿美元，不能与经营自给混淆；可转债账面净额13.65299亿美元，另有当期递延收购应付款5.37381亿美元。季度现金流为负但上半年经营现金流为正5,341.7万美元，期间不可混用。需跟踪并购付款、获客及药品成本与SBC稀释。",
+      "attack_case": "若美国存量业务增速稳定且海外整合改善毛利和现金回收，市场可重估盈利质量。反弹需要经营证据，不能仅据减重或医疗AI主题。",
+      "expectations_risk": "产品可持续供应与可销售性依赖适用监管及医疗标准；本研究没有把任何尚未实读的FDA决定写成已发生事实。未证实市场估值已充分反映产品/法律风险。",
+      "trap_case": "高收入增速掩盖并购贡献和毛利压缩；将调整后EBITDA增长等同于现金流转正；假设所有个性化/GLP-1产品都可持续无约束销售。",
+      "kill": "美国增长减速同时毛利和获客经济性恶化，负自由现金流持续扩大，或监管/诉讼事实使关键产品商业模式不可持续。",
+      "trigger": "11/9报告提供美国增长、并购后同口径增速、毛利与经营现金同时改善，以及可核验的产品合规和融资安排，才考虑重新入选。",
+      "next_week_event": {
+        "date_et": "2026-11-09",
+        "time_et": "17:00",
+        "status": "confirmed_issuer_outside_window",
+        "source_id": "ATK-PC-HIMS-EVENT",
+        "note": "发行人确认11/9盘后财报，17:00 ET电话会；北京时间11/10 06:00。不是10/26–30事件。"
+      },
+      "priority_research": "B/C：现金、毛利及监管条件较严的反弹观察；不能作为12%回撤约束下的重仓核心。",
+      "source_ids": [
+        "ATK-PC-HIMS-Q2",
+        "ATK-PC-HIMS-EVENT"
+      ]
+    },
+    "STX": {
+      "ticker": "STX",
+      "name": "Seagate Technology",
+      "sector": "大容量HDD存储",
+      "pathway": "云存储需求、HAMR产品升级与盈利兑现；下周财报验证",
+      "fiscal_period": "FY2026 Q4及全年，截至2026-07-03；FY2027 Q1尚未披露",
+      "facts": [
+        {
+          "claim": "FY26Q4收入36.29亿美元、GAAP毛利率52.3%、调整后EPS5.71美元。",
+          "source_id": "ATK-SS-STX-Q4"
+        },
+        {
+          "claim": "FY26全年经营现金流36.74亿美元、购置资本资产5.69亿美元；相减FCF31.05亿美元。年末总债务约36亿美元、现金约17亿美元。",
+          "source_id": "ATK-SS-STX-Q4"
+        }
+      ],
+      "guidance": "公司FY27Q1收入指引41亿美元±1亿美元、non-GAAP EPS7.30美元±0.20；不是已公布实际业绩。[ATK-SS-STX-Q4]",
+      "cash_quality": "全年FCF为CFO减资本资产购置，现金兑现有支撑；可交换债转换、SBC与债务交易调整仍有经济影响。不能将单季高毛利或下一季EPS年化成永久盈利。[ATK-SS-STX-Q4]",
+      "attack_case": "如果云客户存储采购与HAMR量产交付继续兑现，容量/产品组合及定价可推动利润增长。进攻依据来自已经披露的经营与现金，而不只是AI市场规模；下一次财报能检验高利润能否延续。",
+      "expectations_risk": "市场可能已为强指引和高毛利定价。根代理价格和估值输入尚未加入，不能声称被低估、预期差已证实或具备确定上行空间。",
+      "trap_case": "强现金与高利润可能处于存储周期有利阶段；客户延迟采购、供应增加和产品认证问题都可能使利润反转。与WDC、MU、SNDK同配会叠加存储资本开支风险。",
+      "kill": "实际收入/下一季指引明显下调，HAMR交付或良率拖延，毛利下行并伴随现金转化恶化；未解释的回款/库存积压出现时取消新增。",
+      "trigger": "先读10/27盘后实际结果与17:00 ET电话会；确认需求、HAMR交付和现金，并在10/28根据实际价格反应重排。默认不在财报前新开事件仓。",
+      "next_week_event": {
+        "date_et": "2026-10-27",
+        "time_et": "after close; call17:00 ET",
+        "status": "company_confirmed",
+        "source_id": "ATK-SS-STX-DATE",
+        "note": "FY27Q1财报10/27盘后；北京时间10/28 05:00电话会。并非10/25已经发生的结果。"
+      },
+      "priority_research": "A：盈利兑现型进攻研究；财报前等待，不等于买入",
+      "source_ids": [
+        "ATK-SS-STX-Q4",
+        "ATK-SS-STX-DATE"
+      ]
+    },
+    "WDC": {
+      "ticker": "WDC",
+      "name": "Western Digital",
+      "sector": "HDD与云存储",
+      "pathway": "分拆后的HDD经营杠杆、定价与产品组合；财报后兑现",
+      "fiscal_period": "FY2027 Q1，截至2026-10-02，10/22已披露",
+      "facts": [
+        {
+          "claim": "FY27Q1收入43.81亿美元、同比+55%；GAAP毛利率57.8%、non-GAAP毛利率58.1%；GAAP/调整后EPS4.63/4.64美元。",
+          "source_id": "ATK-SS-WDC-Q1"
+        },
+        {
+          "claim": "同季CFO16.04亿美元，净资本资产购置2.27亿美元，FCF13.77亿美元。",
+          "source_id": "ATK-SS-WDC-Q1"
+        },
+        {
+          "claim": "2025年2月21日已分拆Flash业务为SNDK；WDC不再合并Sandisk，不能把两家公司当前收入混成一个业务。",
+          "source_id": "ATK-SS-WDC-SEP"
+        }
+      ],
+      "guidance": "FY27Q2收入51亿美元±1亿美元、non-GAAP毛利率60%—61%、non-GAAP EPS5.80美元±0.20。[ATK-SS-WDC-Q1]",
+      "cash_quality": "本季FCF可从CFO减净PPE购置勾稽，当前GAAP与调整EPS差异小；比较上一季/TTM须剔除留存Sandisk权益估值收益等非经营影响。不能把历史分拆前口径与现有HDD业务直接串联。[ATK-SS-WDC-Q1][ATK-SS-WDC-SEP]",
+      "attack_case": "真实收入与现金流增长使其更接近盈利兑现型进攻；若客户exabyte需求、价格与产品组合支撑强Q2指引，可研究财报后修复或趋势延续。",
+      "expectations_risk": "57%以上GAAP毛利率及强下一季指引意味着市场可能已计入顺周期景气。没有正常化中周期利润模型，低历史P/E也不能证明便宜。",
+      "trap_case": "HDD采购集中于云客户，供需或定价改变会同时压缩收入、毛利和估值；同时买STX/WDC并不构成充分分散。上一季Sandisk投资收益会污染利润比较。",
+      "kill": "下一季收入/毛利指导无法兑现、客户下调采购或库存/应收占用上升；若需要用一次性非经营收益解释利润，应重新正常化后判断。",
+      "trigger": "财报已在10/22发布；下周观察最新指引能否获得同业和云客户证据支持，价格确认后再列候选，不把旧财报重新包装成新催化。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "already_reported_not_next_week",
+        "source_id": "ATK-SS-WDC-Q1",
+        "note": "FY27Q1已于10/22披露；本轮未核实10/26—30新的确定公司财报，不能沿用2025年10/30旧日历。"
+      },
+      "priority_research": "A/B：财报后经营兑现研究，估值与价格确认约束",
+      "source_ids": [
+        "ATK-SS-WDC-Q1",
+        "ATK-SS-WDC-SEP"
+      ]
+    },
+    "RKLB": {
+      "ticker": "RKLB",
+      "name": "Rocket Lab",
+      "sector": "航天发射与空间系统",
+      "pathway": "Electron/空间系统收入及合同兑现；Neutron开发延期单列",
+      "fiscal_period": "2026 Q2及H1，截至2026-06-30；10/14开发进度更新",
+      "facts": [
+        {
+          "claim": "Q2收入2.34066亿美元、同比+62%，披露backlog约23.6亿美元；新增合同统计含部分期权，合同规模不能直接等同现金收入。",
+          "source_id": "ATK-SS-RKLB-Q2"
+        },
+        {
+          "claim": "H1经营现金流-1.34407亿美元、购置设备与软件0.53112亿美元；简化现金差额-1.87519亿美元，同时ATM股权发行流入15.29639亿美元。",
+          "source_id": "ATK-SS-RKLB-Q2"
+        },
+        {
+          "claim": "10/14公司正式把Neutron首次发射预期调整到2027年；不能再把2026年首飞作为比赛窗口内催化。",
+          "source_id": "ATK-SS-RKLB-NEUTRON"
+        }
+      ],
+      "guidance": "Q3收入指引2.50—2.65亿美元、GAAP毛利率29%—31%、调整后EBITDA亏损1700—2300万美元；均为8/10公司指导，非已实现结果。[ATK-SS-RKLB-Q2]",
+      "cash_quality": "经营与资本购置仍消耗现金，大额ATM融资使现金充裕不等于经营自我造血；H1股权发行远大于同期经营规模，稀释、并购整合及未来开发投入须并看。[ATK-SS-RKLB-Q2]",
+      "attack_case": "Electron/HASTE执行及空间系统交付提供真实收入基础，长期Neutron有更大任务市场，但后者应以概率与时间的不确定性对待，不能据总市场规模计入当期盈利。",
+      "expectations_risk": "股价若已经依赖Neutron放量和大规模合同兑现，延期会同时影响收入时间、现金消耗及估值倍数。没有可审计的成功概率或项目DCF，不设确定目标价。",
+      "trap_case": "已知2027首飞延期直接削弱短赛程催化；一个成功的小火箭任务不能抵销新平台开发延期。合同中的选项、并购预期与实际预付款/收入不是同一回事。",
+      "kill": "Neutron继续延期/成本上升，Electron可靠性或空间系统交付恶化；合同取消、现金消耗加剧或需持续大额融资时维持降级。",
+      "trigger": "当前降为观察，不进入本轮配置示例；先等公司交付/可靠性与融资披露，11/9财报再核现金及最新开发时间表。下周若只有股价反弹而无新经营证据，不升级。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "next_earnings_outside_week_confirmed",
+        "source_id": "ATK-SS-RKLB-DATE",
+        "note": "公司确认11/9盘后、17:00 ET电话会；北京时间11/10 06:00（已切冬令时）。Neutron首飞2027不在2026比赛窗口，不能编为下周发射事件。"
+      },
+      "priority_research": "C：里程碑/融资高风险观察，当前不作为进攻配置示例",
+      "source_ids": [
+        "ATK-SS-RKLB-Q2",
+        "ATK-SS-RKLB-NEUTRON",
+        "ATK-SS-RKLB-DATE"
+      ]
+    },
+    "ASTS": {
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile",
+      "sector": "卫星直连手机网络",
+      "pathway": "卫星部署到实际服务与回款；融资、资本开支与监管闸门",
+      "fiscal_period": "2026 Q2及H1，截至2026-06-30，8/10 Form10-Q",
+      "facts": [
+        {
+          "claim": "Q2收入3152万美元，其中产品2442.8万美元、服务709.2万美元；普通股股东净亏损2.30909亿美元，包含BB7资产核销扣保险回收后的损失1.25911亿美元。",
+          "source_id": "ATK-SS-ASTS-Q2"
+        },
+        {
+          "claim": "6月底现金、等价物及受限现金27.22834亿美元，其中受限现金约4.346亿美元，不能把总额全部视作自由可用。",
+          "source_id": "ATK-SS-ASTS-Q2"
+        },
+        {
+          "claim": "H1经营现金流-1.45212亿美元、购置PPE8.59215亿美元；简化CFO减PPE为-10.04427亿美元。同期融资活动净流入10.68333亿美元。",
+          "source_id": "ATK-SS-ASTS-Q2"
+        }
+      ],
+      "guidance": "已读10-Q目标约45颗BB卫星在2027年初到位，发射取决于组装、测试、运载火箭与物流；不是已交付或保证。完整最新收入指引未在本轮成功读取的公司新闻正文中核实，保留缺口。[ATK-SS-ASTS-Q2]",
+      "cash_quality": "运营收入主要是网关设备/软件及政府相关服务，不能当成大规模手机用户经常性服务收入。只看经营流出会严重低估资本需求；PPE与频谱/其他投资也消耗资金。融资流入不是盈利，受限现金须剔除。未完成10月融资及部署后现金余额完整桥接，不提供当前现金跑道保证。[ATK-SS-ASTS-Q2]",
+      "attack_case": "若实际部署增加并完成监管批准，合作网络服务从试验走向付费，收入基数较低使弹性可能大；必须看到可用覆盖、商业计费与回款，而不是仅凭合作方数量或未来覆盖人数。",
+      "expectations_risk": "部署目标、终端连接能力、合作伙伴和市场空间可能已经承载很高预期。没有可靠的成功概率、单位经济与正常化盈利，本轮不能给出合理目标价。",
+      "trap_case": "卫星损失和延期会同时影响资本支出、可用覆盖与收入时间；融资、监管许可、发射可用性与市场风险偏好可同向恶化。两只航天股票并非独立风险。",
+      "kill": "实际部署/服务上线进一步延迟、卫星故障、监管或融资受阻；资本开支持续超预算却没有可验证商业回款，维持观察或否决新增。",
+      "trigger": "当前只观察；最新现金桥、部署/服务收入与监管证据全部通过后，才讨论高风险未来条件示例最多0.25%总净值；任何缺口未关闭均不新建仓，并保留现金。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "not_confirmed",
+        "source_id": "ATK-SS-ASTS-EVENT",
+        "note": "已读公司IR及事件页未取得10/26—30确定财报/发射时点；未知不等于保证无公告。不能用第三方推测填成已确认事件。"
+      },
+      "priority_research": "C：资本密集里程碑投机观察，证据不足不配置",
+      "source_ids": [
+        "ATK-SS-ASTS-Q2",
+        "ATK-SS-ASTS-IR",
+        "ATK-SS-ASTS-EVENT"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "ATK-AI-ALAB-Q2",
+      "url": "https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-reports-second-quarter-2026-financial-results",
+      "title": "Astera Labs Q2 2026 financial results and cash flow tables",
+      "published": "2026-08-04",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-AI-ALAB-EVENT",
+      "url": "https://ir.asteralabs.com/news-events/events-presentations",
+      "title": "Astera Labs events: Q3 call November3",
+      "published": "event calendar reviewed2026-10-25",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-AI-MRVL-Q2",
+      "url": "https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000022/q227_8kx812026ex-991.htm",
+      "title": "Marvell FY2027 Q2 results Exhibit99.1",
+      "published": "2026-08-27",
+      "accessed": "2026-10-25",
+      "source_type": "issuer_SEC_exhibit_opened"
+    },
+    {
+      "id": "ATK-AI-MRVL-ID",
+      "url": "https://www.marvell.com/company/events/investor-day-2026.html",
+      "title": "Marvell October6 2026 Investor Day official page",
+      "published": "2026-10-06",
+      "accessed": "2026-10-25",
+      "source_type": "company_event_page_opened; linked full deck exceeded tool size limit and was not fully read"
+    },
+    {
+      "id": "ATK-AI-CRWV-Q2",
+      "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/",
+      "title": "CoreWeave second quarter2026 results and financial tables",
+      "published": "2026-08-11",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-AI-CRWV-EVENT",
+      "url": "https://investors.coreweave.com/events-and-presentations/",
+      "title": "CoreWeave events page",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened; dynamic upcoming event body missing"
+    },
+    {
+      "id": "ATK-AI-NBIS-Q2",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm",
+      "title": "Nebius Q2 2026 SEC Exhibit99.1",
+      "published": "2026-08-12",
+      "accessed": "2026-10-25",
+      "source_type": "issuer_SEC_exhibit_opened"
+    },
+    {
+      "id": "ATK-AI-NBIS-LETTER",
+      "url": "https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf",
+      "title": "Nebius Q2 2026 shareholder letter",
+      "published": "2026-08-12",
+      "accessed": "2026-10-25",
+      "source_type": "company_shareholder_letter_PDF_opened"
+    },
+    {
+      "id": "ATK-AI-NBIS-EVENT",
+      "url": "https://nebius.com/investor-hub",
+      "title": "Nebius official investor hub",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened; no current exact next earnings date visible"
+    },
+    {
+      "id": "ATK-AI-GEV-Q2",
+      "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000147/gev2q2026form8-k.pdf",
+      "title": "GE Vernova Q2 2026 results and FY2026 guidance",
+      "published": "2026-07-22",
+      "accessed": "2026-10-25",
+      "source_type": "issuer_SEC_8K_PDF_opened"
+    },
+    {
+      "id": "ATK-AI-GEV-EVENT",
+      "url": "https://www.gevernova.com/investors/events",
+      "title": "GE Vernova Q3 2026 earnings webcast October28",
+      "published": "event calendar reviewed2026-10-25",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-AI-GEV-DATE",
+      "url": "https://www.gevernova.com/news/taxonomy/term/9606",
+      "title": "GE Vernova October13 official date notice",
+      "published": "2026-10-13",
+      "accessed": "2026-10-25",
+      "source_type": "company_news_opened"
+    },
+    {
+      "id": "ATK-AI-SNDK-Q4",
+      "url": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-08-05-sandisk-reports-fiscal-fourth-quarter-2026-financial-results",
+      "title": "Sandisk FY2026 Q4 results and adjusted FCF reconciliation",
+      "published": "2026-08-05",
+      "accessed": "2026-10-25",
+      "source_type": "company_news_opened"
+    },
+    {
+      "id": "ATK-AI-SNDK-EVENT",
+      "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-report-first-quarter-fiscal-year-2027-results-october-29",
+      "title": "Sandisk announces October29 FY2027 Q1 call",
+      "published": "2026-09-29",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-PC-TSLA-Q3",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm",
+      "title": "Tesla Q3 2026 Update (Form 8-K Exhibit 99.1)",
+      "published": "2026-10-21",
+      "accessed": "2026-10-25",
+      "source_type": "SEC issuer exhibit, opened and read"
+    },
+    {
+      "id": "ATK-PC-TSLA-8K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/tsla-20261021.htm",
+      "title": "Tesla Form 8-K dated October 21, 2026",
+      "published": "2026-10-21",
+      "accessed": "2026-10-25",
+      "source_type": "SEC current report, opened and read"
+    },
+    {
+      "id": "ATK-PC-HOOD-Q2",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-second-quarter-2026-results",
+      "title": "Robinhood Reports Second Quarter 2026 Results",
+      "published": "2026-07-29",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR earnings release, opened and read"
+    },
+    {
+      "id": "ATK-PC-HOOD-EVENT",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-announce-third-quarter-2026-results",
+      "title": "Robinhood Markets, Inc. to Announce Third Quarter 2026 Results",
+      "published": "2026-10-01",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR event announcement, opened and read"
+    },
+    {
+      "id": "ATK-PC-COIN-Q2",
+      "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx",
+      "title": "Coinbase Q2 Earnings: Everything Exchange Drives 3rd Consecutive Quarter of Record Crypto Trading Volume Market Share, Revenue Diversification and Resilience",
+      "published": "2026-07-30",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR earnings release, opened and read"
+    },
+    {
+      "id": "ATK-PC-COIN-10Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000088/coin-20260630.htm",
+      "title": "Coinbase Form 10-Q for June 30, 2026",
+      "published": "2026-07-30",
+      "accessed": "2026-10-25",
+      "source_type": "SEC quarterly filing, opened and read"
+    },
+    {
+      "id": "ATK-PC-COIN-EVENT",
+      "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Announces-Date-of-Third-Quarter-2026-Financial-Results/default.aspx",
+      "title": "Coinbase Announces Date of Third Quarter 2026 Financial Results",
+      "published": "2026-10-14",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR event announcement, opened and read"
+    },
+    {
+      "id": "ATK-PC-MSTR-1019",
+      "url": "https://assets.contentstack.io/v3/assets/bltf8d808d9b8cebd37/blt075438553ed3641e/6ad5860b04e8526be47d2cab/form-8-k_10-19-2026.pdf",
+      "title": "Strategy Form 8-K: October 19, 2026, holdings/ATM/repurchases/cash update",
+      "published": "2026-10-19",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer-hosted Form 8-K PDF, opened and read, 5 pages"
+    },
+    {
+      "id": "ATK-PC-MSTR-Q2",
+      "url": "https://www.strategy.com/press/strategy-announces-second-quarter-2026-financial-results_07-30-2026",
+      "title": "Strategy Announces Second Quarter 2026 Financial Results",
+      "published": "2026-07-30",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR earnings release, opened and read"
+    },
+    {
+      "id": "ATK-PC-MSTR-EVENT",
+      "url": "https://www.strategy.com/press/strategy-announces-earnings-release-date-and-live-video-webinar-for-third-quarter-2026-financial-results_10-08-2026",
+      "title": "Strategy Announces Earnings Release Date and Live Video Webinar for Third Quarter 2026 Financial Results",
+      "published": "2026-10-08",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR event announcement, opened and read"
+    },
+    {
+      "id": "ATK-PC-TEM-Q2",
+      "url": "https://investors.tempus.com/news-releases/news-release-details/tempus-reports-second-quarter-2026-results",
+      "title": "Tempus Reports Second Quarter 2026 Results",
+      "published": "2026-07-30",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR earnings release, opened and read"
+    },
+    {
+      "id": "ATK-PC-TEM-CALENDAR",
+      "url": "https://investors.tempus.com/",
+      "title": "Tempus Investor Relations - upcoming Q3 2026 earnings call",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR live event calendar, opened and read; linked PDF access failed and is not cited as read"
+    },
+    {
+      "id": "ATK-PC-HIMS-Q2",
+      "url": "https://investors.hims.com/news/news-details/2026/Hims--Hers-Health-Inc--Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "title": "Hims & Hers Health, Inc. Reports Second Quarter 2026 Financial Results",
+      "published": "2026-08-10",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR earnings release, opened and read"
+    },
+    {
+      "id": "ATK-PC-HIMS-EVENT",
+      "url": "https://investors.hims.com/news/news-details/2026/Hims--Hers-to-Announce-Third-Quarter-2026-Financial-Results-on-November-9-2026/default.aspx",
+      "title": "Hims & Hers to Announce Third Quarter 2026 Financial Results on November 9, 2026",
+      "published": "2026-10-12",
+      "accessed": "2026-10-25",
+      "source_type": "Issuer IR event announcement, opened and read"
+    },
+    {
+      "id": "ATK-SS-STX-Q4",
+      "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results/",
+      "title": "Seagate FY2026 Q4 and FY2026 results",
+      "published": "2026-07-28",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-STX-DATE",
+      "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-to-Report-Fiscal-First-Quarter-2027-Financial-Results-on-October-27-2026/default.aspx",
+      "title": "Seagate FY2027 Q1 announcement date",
+      "published": "2026-10-13",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-WDC-Q1",
+      "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066882/a4ex991-pressreleaseq127.htm",
+      "title": "WD FY2027 Q1 earnings exhibit99.1",
+      "published": "2026-10-22",
+      "accessed": "2026-10-25",
+      "source_type": "SEC_issuer_release_opened"
+    },
+    {
+      "id": "ATK-SS-WDC-SEP",
+      "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000012/wdc8-khardxspin.htm",
+      "title": "Western Digital Sandisk separation pro forma financials",
+      "published": "2025-02-24",
+      "accessed": "2026-10-25",
+      "source_type": "SEC_exhibit_opened"
+    },
+    {
+      "id": "ATK-SS-RKLB-Q2",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-second-quarter-2026-financial-results-posts",
+      "title": "Rocket Lab Q2 2026 financial results and cash flow tables",
+      "published": "2026-08-10",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-RKLB-NEUTRON",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-provides-update-neutron-development-and-adjusts",
+      "title": "Rocket Lab adjusts Neutron inaugural launch to2027",
+      "published": "2026-10-14",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-RKLB-DATE",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-date-third-quarter-2026-financial-results",
+      "title": "Rocket Lab Q3 2026 earnings date",
+      "published": "2026-10-20",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-ASTS-Q2",
+      "url": "https://app.quotemedia.com/data/downloadFiling?cdn=97b0f90b3039b64b39c17ee3c872f664&companyName=AST+SpaceMobile+Inc.&dateFiled=2026-08-10&formDescription=General+form+for+quarterly+reports+under+Section+13+or+15(d)&formType=10-Q&ref=320259077&symbol=ASTS&type=PDF&webmasterId=102691",
+      "title": "AST SpaceMobile Q2 2026 10-Q, linked by issuer IR; financial statements and liquidity pp3,7,29,37,42",
+      "published": "2026-08-10",
+      "accessed": "2026-10-25",
+      "source_type": "issuer_IR_linked_SEC_filing_PDF_opened"
+    },
+    {
+      "id": "ATK-SS-ASTS-IR",
+      "url": "https://investors.ast-science.com/",
+      "title": "AST SpaceMobile investor relations and current results",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-ASTS-EVENT",
+      "url": "https://investors.ast-science.com/events",
+      "title": "AST SpaceMobile investor events",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "SEM-NVDA-1",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/",
+      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+      "published": "2026-08-26",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "SEM-NVDA-2",
+      "url": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx",
+      "title": "NVIDIA Events & Presentations",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened_dynamic_calendar_incomplete"
+    },
+    {
+      "id": "SEM-AMD-1",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results",
+      "title": "AMD Reports Second Quarter 2026 Financial Results",
+      "published": "2026-08-04",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "SEM-AMD-2",
+      "url": "https://ir.amd.com/news-events/ir-calendar",
+      "title": "AMD IR Calendar",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "SEM-AVGO-1",
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial",
+      "title": "Broadcom Third Quarter Fiscal Year 2026 Financial Results",
+      "published": "2026-09-02",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "SEM-AVGO-2",
+      "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+      "title": "Broadcom Financial News",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "SEM-MU-1",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/",
+      "title": "Micron Record Fiscal Fourth-Quarter and Full-Year 2026 Results",
+      "published": "2026-09-30",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "SP_ORCL_Q1",
+      "url": "https://www.oracle.com/news/announcement/q1fy27-earnings-release-2026-09-10/",
+      "title": "Oracle Q1 FY27 earnings release",
+      "published": "2026-09-10",
+      "accessed": "2026-10-25 Asia/Shanghai",
+      "source_type": "company_ir",
+      "read_status": "opened_and_read"
+    },
+    {
+      "id": "SP_PLTR_Q2",
+      "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000039/a2026q2ex991pressrelease.htm",
+      "title": "Palantir Q2 2026 earnings release, Exhibit 99.1",
+      "published": "2026-08-03",
+      "accessed": "2026-10-25 Asia/Shanghai",
+      "source_type": "sec_exhibit",
+      "read_status": "opened_and_read"
+    },
+    {
+      "id": "SP_PLTR_10Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000041/pltr-20260630.htm",
+      "title": "Palantir Form 10-Q quarter ended June 30, 2026",
+      "published": "2026-08-03",
+      "accessed": "2026-10-25 Asia/Shanghai",
+      "source_type": "sec_10q",
+      "read_status": "opened_and_read"
+    },
+    {
+      "id": "SP_PLTR_DATE",
+      "url": "https://www.nasdaq.com/press-release/palantir-announces-date-third-quarter-2026-earnings-release-and-webcast-2026-10-12",
+      "title": "Palantir Q3 2026 date notice, company Business Wire release on Nasdaq",
+      "published": "2026-10-12",
+      "accessed": "2026-10-25 Asia/Shanghai",
+      "source_type": "company_release_distributed_by_nasdaq",
+      "read_status": "opened_and_read"
+    },
+    {
+      "id": "SP_CRWD_Q2",
+      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
+      "title": "CrowdStrike Reports Second Quarter Fiscal Year 2027 Financial Results",
+      "published": "2026-08-26",
+      "accessed": "2026-10-25 Asia/Shanghai",
+      "source_type": "company_ir",
+      "read_status": "opened_and_read"
+    },
+    {
+      "id": "SP_SNOW_Q2",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm",
+      "title": "Snowflake Q2 FY27 results, Exhibit 99.1",
+      "published": "2026-09-02",
+      "accessed": "2026-10-25 Asia/Shanghai",
+      "source_type": "sec_exhibit",
+      "read_status": "opened_and_read"
+    },
+    {
+      "id": "SP_SNOW_10Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/snow-20260731.htm",
+      "title": "Snowflake Form 10-Q quarter ended July 31, 2026",
+      "published": "2026-09-04",
+      "accessed": "2026-10-25 Asia/Shanghai",
+      "source_type": "sec_10q",
+      "read_status": "opened_and_read"
+    },
+    {
+      "id": "IC_ANET_Q2",
+      "url": "https://www.arista.com/company/news/press-release/24401-pr-20260804",
+      "title": "Arista Q2 2026 results and Q3 outlook",
+      "published": "2026-08-04",
+      "accessed": "2026-10-25",
+      "source_type": "company"
+    },
+    {
+      "id": "IC_ANET_TABLES",
+      "url": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Networks-Inc--Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "title": "Arista Q2 2026 financial tables",
+      "published": "2026-08-04",
+      "accessed": "2026-10-25",
+      "source_type": "company"
+    },
+    {
+      "id": "IC_ANET_EVENT",
+      "url": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Networks-to-Announce-Q3-2026-Financial-Results-on-Tuesday-November-3-2026/default.aspx",
+      "title": "Arista confirms November 3 Q3 2026 release",
+      "published": "2026-10-06",
+      "accessed": "2026-10-25",
+      "source_type": "company"
+    },
+    {
+      "id": "IC_VRT_Q2",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026050323/q22026exhibit991vrt07292026.htm",
+      "title": "Vertiv Q2 2026 earnings release",
+      "published": "2026-07-29",
+      "accessed": "2026-10-25",
+      "source_type": "SEC company exhibit"
+    },
+    {
+      "id": "IC_VRT_EVENT",
+      "url": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Announces-Date-of-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
+      "title": "Vertiv confirms October 28 2026 results",
+      "published": "2026-10-14",
+      "accessed": "2026-10-25",
+      "source_type": "company"
+    },
+    {
+      "id": "IC_CEG_Q2",
+      "url": "https://www.constellationenergy.com/news/2026/08/constellation-reports-second-quarter-2026-results.html",
+      "title": "Constellation Q2 2026 results",
+      "published": "2026-08-06",
+      "accessed": "2026-10-25",
+      "source_type": "company"
+    },
+    {
+      "id": "IC_CEG_10Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000104/ceg-20260630.htm",
+      "title": "Constellation June 2026 Form 10-Q",
+      "published": "2026-08-06",
+      "accessed": "2026-10-25",
+      "source_type": "SEC filing"
+    },
+    {
+      "id": "IC_CEG_EVENT",
+      "url": "https://investors.constellationenergy.com/events-and-presentations",
+      "title": "Constellation upcoming events: November 9 Q3 call",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company event page"
+    },
+    {
+      "id": "IC_VST_Q2",
+      "url": "https://investor.vistracorp.com/2026-08-07-Vistra-Reports-Second-Quarter-2026-Results",
+      "title": "Vistra Q2 2026 results",
+      "published": "2026-08-07",
+      "accessed": "2026-10-25",
+      "source_type": "company"
+    },
+    {
+      "id": "IC_VST_EVENT",
+      "url": "https://investor.vistracorp.com/2026-09-29-Vistra-to-Report-Third-Quarter-Results-on-Nov-6,-2026",
+      "title": "Vistra confirms November 6 Q3 results call",
+      "published": "2026-09-29",
+      "accessed": "2026-10-25",
+      "source_type": "company"
+    }
+  ],
+  "groups": {
+    "盈利与现金兑现": [
+      "NVDA",
+      "AVGO",
+      "ANET",
+      "MRVL",
+      "GEV",
+      "STX",
+      "WDC",
+      "SNDK",
+      "CEG",
+      "VST",
+      "CRWD"
+    ],
+    "增长加速与高预期": [
+      "AMD",
+      "MU",
+      "ALAB",
+      "PLTR",
+      "VRT",
+      "SNOW"
+    ],
+    "资本开支与融资约束": [
+      "CRWV",
+      "NBIS",
+      "ORCL"
+    ],
+    "高弹性主题与市场交易": [
+      "TSLA",
+      "HOOD",
+      "COIN",
+      "MSTR",
+      "RKLB",
+      "ASTS"
+    ],
+    "医疗商业化与监管": [
+      "TEM",
+      "HIMS"
+    ]
+  },
+  "new_tickers": [
+    "ALAB",
+    "MRVL",
+    "CRWV",
+    "NBIS",
+    "GEV",
+    "SNDK",
+    "TSLA",
+    "HOOD",
+    "COIN",
+    "MSTR",
+    "TEM",
+    "HIMS",
+    "STX",
+    "WDC",
+    "RKLB",
+    "ASTS"
+  ],
+  "retained_tickers": [
+    "NVDA",
+    "AMD",
+    "AVGO",
+    "MU",
+    "ANET",
+    "VRT",
+    "PLTR",
+    "CRWD",
+    "SNOW",
+    "CEG",
+    "VST",
+    "ORCL"
+  ],
+  "models": {
+    "盈利兑现型": {
+      "attack": {
+        "NVDA": 2,
+        "AVGO": 1.5,
+        "ANET": 1.5,
+        "MRVL": 1,
+        "GEV": 1,
+        "STX": 1
+      },
+      "attack_pct": 8.0,
+      "reference_core": {
+        "XOM": 5,
+        "CVX": 3,
+        "JNJ": 5,
+        "ABBV": 3,
+        "PG": 7,
+        "WMT": 3,
+        "JPM": 6,
+        "BRK.B": 6,
+        "LMT": 4
+      },
+      "reference_core_pct": 42,
+      "cash_pct": 50.0,
+      "total_equity_pct": 50.0,
+      "shock_assumptions_pct": {
+        "NVDA": -30,
+        "AVGO": -30,
+        "ANET": -35,
+        "MRVL": -35,
+        "GEV": -25,
+        "STX": -35
+      },
+      "attack_scenario_impact_pct": -2.5250000000000004,
+      "combined_with_core_recession_pct": -10.055,
+      "all_attack_down70_combined_pct": -13.129999999999999,
+      "attack_rises25_core_flat_NAV_pct": 2.0,
+      "attack_rises50_core_flat_NAV_pct": 4.0
+    },
+    "高增长验证型": {
+      "attack": {
+        "NVDA": 2,
+        "ALAB": 1.5,
+        "PLTR": 1.5,
+        "VRT": 1.5,
+        "MRVL": 1.5
+      },
+      "attack_pct": 8.0,
+      "reference_core": {
+        "XOM": 5,
+        "CVX": 3,
+        "JNJ": 5,
+        "ABBV": 3,
+        "PG": 7,
+        "WMT": 3,
+        "JPM": 6,
+        "BRK.B": 6,
+        "LMT": 4
+      },
+      "reference_core_pct": 42,
+      "cash_pct": 50.0,
+      "total_equity_pct": 50.0,
+      "shock_assumptions_pct": {
+        "NVDA": -35,
+        "ALAB": -50,
+        "PLTR": -50,
+        "VRT": -40,
+        "MRVL": -40
+      },
+      "attack_scenario_impact_pct": -3.4000000000000004,
+      "combined_with_core_recession_pct": -10.93,
+      "all_attack_down70_combined_pct": -13.129999999999999,
+      "attack_rises25_core_flat_NAV_pct": 2.0,
+      "attack_rises50_core_flat_NAV_pct": 4.0
+    },
+    "高风险主题观察型": {
+      "attack": {
+        "HOOD": 0.75,
+        "COIN": 0.5,
+        "TSLA": 0.5,
+        "ASTS": 0.25
+      },
+      "attack_pct": 2.0,
+      "reference_core": {
+        "XOM": 5,
+        "CVX": 3,
+        "JNJ": 5,
+        "ABBV": 3,
+        "PG": 7,
+        "WMT": 3,
+        "JPM": 6,
+        "BRK.B": 6,
+        "LMT": 4
+      },
+      "reference_core_pct": 42,
+      "cash_pct": 56.0,
+      "total_equity_pct": 44.0,
+      "shock_assumptions_pct": {
+        "HOOD": -60,
+        "COIN": -65,
+        "TSLA": -50,
+        "ASTS": -75
+      },
+      "attack_scenario_impact_pct": -1.2125,
+      "combined_with_core_recession_pct": -8.7425,
+      "all_attack_down70_combined_pct": -8.93,
+      "attack_rises25_core_flat_NAV_pct": 0.5,
+      "attack_rises50_core_flat_NAV_pct": 1.0
+    }
+  },
+  "core_recession_impact_pct": -7.529999999999999,
+  "constraints": {
+    "account": "Bloomberg Trading Challenge",
+    "current_holdings": "defensive assets; user authorizes planning as if 100% buying power can be reallocated; actual holdings not supplied",
+    "long_only": true,
+    "common_stock_only": true,
+    "max_single_pct": 20,
+    "max_drawdown_tolerance_pct": 12,
+    "cash_rules": "User explicitly confirms 50% and 80% cash allowed on 2026-10-24; not independent handbook verification",
+    "wls_eligibility": "not verified",
+    "initial_entry_completed": "user confirmed",
+    "new_rebound_pilot_total_max_pct": 2,
+    "confirmed_rebound_subbucket_max_pct": 4,
+    "all_tech_AI_related_total_max_pct": 8,
+    "conditional_total_equity_max_pct": 50,
+    "pre_earnings_new_event_position_default_pct": 0,
+    "attack_sleeve_max_pct": 8,
+    "attack_sleeve_is_same_budget_as_prior_tech_AI": true,
+    "first_pilot_total_pct": 2,
+    "high_risk_theme_example_max_pct": 2,
+    "max_single_pct_user": 20,
+    "plan_status": "mutually exclusive hypothetical research allocations, no actual holdings or orders"
+  },
+  "data_limits": {
+    "new_history": "unavailable; no RSI/ATR/historical beta/covariance/backtest claims",
+    "valuation": "provider GAAP TTM only; not normalized forward multiples; no price targets",
+    "WLS": "not verified; ordinary stock/ADR form and current eligibility must be checked",
+    "quotes": "regular-session last_done, not Monday executable prices",
+    "expected_return": "not estimated; upside contributions are simple hypothetical arithmetic",
+    "automation": "existing five-day55-stock update not changed by this independent report"
+  },
+  "method": "Qualitative attack archetypes and issuer evidence, not optimized return rankings. Scenario shocks illustrative; original42%core recession vector retained for comparison, not a validated new portfolio risk forecast."
+}

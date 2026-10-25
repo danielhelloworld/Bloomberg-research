@@ -1,0 +1,119 @@
+{
+  "as_of": "2026-10-24 Asia/Shanghai; 10/23 US session still intraday in supplied quote snapshot",
+  "price_basis": "Valuation uses 2026-10-22 completed close (quotes.json prev_close), not 10/23 intraday price. Shares and trailing EPS are Longbridge snapshot, not independently reconciled official share counts.",
+  "portfolio_rules": "Competition account; cash initially 100%; long-only ordinary shares; no ETF/options/leverage; issuer eligibility must be verified in WLS before orders; all proposed weights are total-account NAV, not percent of invested sleeve.",
+  "scope": "Six B-model names, analyst judgement and conditional caps, not return forecasts or personalized maximum-loss guarantees.",
+  "common_risk": "MSFT/GOOGL/AMZN/ETN/NEE share exposure to AI/data-center capital expenditure and long-duration financing. Industrial/utilities sector labels do not remove this common factor. Suggested combined MSFT+GOOGL+AMZN+ETN cap 13%, with NEE counted additionally in AI/financing sensitivity. Pre-earnings three tech initial weight 0%; these are opportunity budgets after event validation.",
+  "stocks": [
+    {
+      "ticker": "MSFT",
+      "facts": [
+        {"claim":"FY26 Q4 CFO $55.441bn minus cash additions to PPE $35.802bn equals cash FCF $19.639bn; FY26 $182.935bn minus $115.948bn equals $66.987bn. This is internally reconcilable and replaces the anomalous supplier FCF field.","source_url":"https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast","source_date":"2026-07-29","period":"FY26 Q4 / FY26 ended 2026-06-30"},
+        {"claim":"Q4 reported capex $41bn includes $5.6bn finance leases; commercial RPO $678bn, but ex-OpenAI RPO growth 25% versus headline 84%. Q4 adjusted EPS $4.74 excludes OpenAI impact yet still contains discrete benefits; management identifies $0.27 net EPS benefit including a $3.2bn Anthropic gain and retirement/severance/impairment items.","source_url":"https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4","source_date":"2026-07-29","period":"FY26 Q4"},
+        {"claim":"FY27 Q1 company guidance revenue $89.85–90.95bn, Azure growth approximately 45% constant currency, capex over $50bn including lease reclassification. Building/datacenter useful lives extended 15 to 25 years; the resulting lease classification change breaks naive comparisons of headline capex across periods.","source_url":"https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4","source_date":"2026-07-29","period":"FY27 Q1 outlook"},
+        {"claim":"FY26 cash/short-term investments $76.843bn; debt carrying value $40.294bn; finance-lease liabilities $66.594bn. Annual finance-lease principal cash payment $3.101bn; uncommenced leases $329.1bn subject in some cases to conditions. Existing operating-lease and finance-lease interest cash flows already reduce CFO; subtracting them again would double count.","source_url":"https://www.microsoft.com/investor/reports/ar26/index.html","source_date":"2026 annual report read 2026-10-24","period":"2026-06-30"}
+      ],
+      "quality":"Strongest cash-conversion evidence among the three platforms, but Q4 FCF fell from $25.568bn to $19.639bn despite CFO growth; capex absorbs incremental operating cash. Adjusted EPS excluding OpenAI is not equivalent to EPS excluding all non-recurring gains. Do not extrapolate headline RPO as near-term cash.",
+      "valuation_basis":"10/22 close $521.08; supplier GAAP TTM P/E 28.93x. Approximate equity value $3,869.3bn / FY26 cash FCF $66.987bn =57.76x (1.73% yield); after separately subtracting finance-lease principal $3.101bn, $63.886bn cash remainder implies 60.56x /1.65%. This is an analyst sensitivity, not company FCF or fair value. Uncommenced leases are commitments, not all booked financial debt.",
+      "catalyst":"FY27 Q1 10/28 after US close. Watch Azure constant-currency growth versus company's ~45%, next-quarter cloud guide, RPO ex-frontier-model concentration, total cash capex and lease additions; longbridge next-period consensus $90.720bn revenue / normalized EPS $4.7161 is a vendor snapshot without a separate revision timestamp.",
+      "downside_mechanism":"Slower AI utilization plus short-life GPU replacement and rising operating lease payments compress FCF while investors derate duration. A capex accounting decline may fail to improve actual cash obligations.",
+      "falsifier":"Do not initiate if reported Azure growth falls below the company guide AND next-quarter outlook decelerates, or operating margin/FCF deterioration is attributed to weak utilization rather than capacity coming online. Cancel scaling if the post-release price closes below the event-day low after a failed rebound. These are analytical rules, not company forecasts.",
+      "decision":"等待财报后；保留为科技首选候选",
+      "proposed_max_weight":0.05,
+      "monday_initial_max_weight":0.0,
+      "evidence_gaps":["Latest 10/23 full close unavailable in supplied snapshot","WLS eligibility unverified","Cannot derive exact quarterly economic FCF after all lease principal from the press release alone","No independently verified current NTM earnings consensus or price target; no such target asserted"]
+    },
+    {
+      "ticker":"GOOGL",
+      "facts":[
+        {"claim":"Q2 revenue $119.796bn +24%; operating income $40.770bn; Google Cloud $24.768bn +82%, segment operating profit $8.814bn; Search & other revenue $63.271bn +17%. Net EPS $9.11 includes other income $97.983bn dominated by equity gains, so the apparent profit surge is not a recurring operating growth rate.","source_url":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm","source_date":"2026-07-22","period":"Q2 2026"},
+        {"claim":"Q2 CFO $39.1bn and capex $44.9bn imply about −$5.8bn cash FCF using rounded disclosures; H1 CFO $84.859bn less capex $80.598bn equals $4.261bn. H1 depreciation $13.586bn, versus $9.485bn prior year; capex does not immediately appear in full in current earnings.","source_url":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm","source_date":"2026-07-23","period":"Q2 / H1 2026"},
+        {"claim":"June equity and mandatory-convertible preferred financing raised net $49.6bn; Q2 new notes net $20.3bn. Uncommenced leases require $85.2bn future payments plus a short-term $5.8bn commitment starting Q3. These are not immediately funded recurring profit.","source_url":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm","source_date":"2026-07-23","period":"2026-06-30"},
+        {"claim":"Q2 equity-security gains $99.031bn; filing attributes the increase primarily to SpaceX and a private company. Wiz closed 3/11 for $29.5bn and enters Cloud results, so total Cloud growth is not an explicitly verified organic rate.","source_url":"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm","source_date":"2026-07-23","period":"Q2 2026"}
+      ],
+      "quality":"Search/Cloud operating engine is growing, but GAAP earnings, liquid assets and capex funding have substantial investment-mark and external-financing components. Read Search monetization and Cloud operating profit separately; do not infer net-cash safety from gross marketable securities without asset restrictions/total debt/lease commitments.",
+      "valuation_basis":"10/22 $324.22 / supplier GAAP TTM EPS $19.96067 =16.24x is materially distorted by investment marks. Vendor Q2 normalized EPS $2.85 implies a simple quarterly-times-four illustration 28.44x, NOT NTM or a company forecast. No reliable normalized annual earnings or clean recurring FCF yield established; do not rank it as cheapest based on 16x.",
+      "catalyst":"10/28 16:30 ET Q3 call date found in issuer press-release distribution; direct IR schedule remains incomplete. Watch Search pricing/AI query economics, Cloud organic contribution versus Wiz, capex funding, diluted share count and investment marks. Longbridge Q3 consensus revenue $127.853bn, normalized EPS $2.9659 (snapshot, not Bloomberg).",
+      "downside_mechanism":"Capex, new depreciation and dilution outpace operating cash; equity marks reverse simultaneously with AI sentiment; Search revenue holds up while economics per answer deteriorate. Antitrust remedy/commercial distribution risk remains unquantified here.",
+      "falsifier":"Cancel initiation if Search revenue growth materially decelerates while TAC/revenue or shared AI costs rise, or management increases investment needs without a credible cash-funding bridge. Do not scale on EPS beat driven by security marks; require operating profit and cash evidence plus two full-session price acceptance.",
+      "decision":"减至较小条件预算；财报前等待",
+      "proposed_max_weight":0.03,
+      "monday_initial_max_weight":0.0,
+      "evidence_gaps":["Q3 direct company IR date page not independently captured; company-distributed text supports 10/28","No comparable organic Cloud growth separated from Wiz","No current clean NTM EPS/FCF valuation established","WLS eligibility and 10/23 complete close unverified"]
+    },
+    {
+      "ticker":"AMZN",
+      "facts":[
+        {"claim":"Q2 revenue $200.606bn +20%; operating income $27.461bn; AWS revenue $42.2bn +37% and operating income $16.6bn. Net EPS $5.75 contains $53.4bn non-operating pre-tax income primarily from Anthropic investments.","source_url":"https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx","source_date":"2026-07-30","period":"Q2 2026"},
+        {"claim":"TTM CFO $161.403bn minus net cash PPE purchases $169.007bn equals company FCF −$7.604bn. Q3 company guide revenue $197–202bn and operating income $22.5–26.5bn; Prime Day timing reduces year-over-year growth comparability.","source_url":"https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx","source_date":"2026-07-30","period":"TTM through Q2; Q3 outlook"},
+        {"claim":"H1 proceeds from long-term debt $66.998bn; debt carrying amount $132.224bn including current portion versus $68.396bn at year-end. Lease liabilities present value $109.771bn and uncommenced lease commitments $137.214bn. AWS long-term performance obligations ~$496bn with weighted average remaining life 6.4 years; not near-term cash.","source_url":"https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm","source_date":"2026-07-31","period":"H1 2026 / 2026-06-30"},
+        {"claim":"Q2 AWS depreciation/amortization $8.076bn versus $4.844bn; H1 PPE acquired but not yet paid increased $20.620bn. Cash FCF alone can understate additional committed investment and future settlement needs.","source_url":"https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm","source_date":"2026-07-31","period":"Q2 / H1 2026"},
+        {"claim":"Q3 2026 earnings call scheduled 10/29 17:00 ET.","source_url":"https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report","source_date":"2026-10-15","period":"Q3 2026 event"}
+      ],
+      "quality":"Operating income and AWS growth substantiate a business improvement; GAAP EPS overstates recurring earnings, and investment acceleration leaves negative company FCF. Debt and long lease commitments make it more financially sensitive than a legacy cash-rich-platform label implies.",
+      "valuation_basis":"10/22 $250.38 / vendor TTM GAAP EPS $12.541912 =19.96x; this is not a clean recurring P/E. Quarterly normalized EPS $1.9505 times four gives32.09x merely as a run-rate illustration, not NTM. Company FCF negative, so positive P/FCF multiple is not meaningful. Longbridge Q3 estimate $202.203bn revenue is slightly above company's $202bn high end, leaving a high bar.",
+      "catalyst":"10/29 Q3 and holiday Q4 guide; focus on AWS growth/margins, Q4 retail operating income, capex plus unpaid PPE, and cash conversion rather than Anthropic marks. Vendor Q3 normalized EPS $1.9823 is not management EPS guidance.",
+      "downside_mechanism":"Cloud utilization/pricing disappoints while depreciation and memory/power costs rise; Q4 retail guide fails to offset cash deficits. Same AI financing factor as MSFT/GOOGL/ETN; cannot serve as diversification among them.",
+      "falsifier":"Reject the trade if Q3 operating income is below company $22.5bn floor or Q4 guide weakens while cash investment guidance rises. A GAAP EPS beat caused by investments cannot override this. If post-event selling takes out the event low, cancel scaling rather than averaging down.",
+      "decision":"等待财报后；较旧3%预算降至2%",
+      "proposed_max_weight":0.02,
+      "monday_initial_max_weight":0.0,
+      "evidence_gaps":["No independent current full-year normalized earnings forecast","No official return forecast or price target used","10/23 completed close and WLS eligibility unverified"]
+    },
+    {
+      "ticker":"LMT",
+      "facts":[
+        {"claim":"Q3 sales $20.711bn +11%, EPS $7.97; CFO $3.4bn and FCF $3.0bn versus prior $3.7bn/$3.3bn. Record backlog $292bn includes $52.5bn PAC-3 MSE award. Raised FY26 EPS $30.35–30.75 and FCF $7.8–8.0bn.","source_url":"https://lockheedmartin.gcs-web.com/news-releases/news-release-details/lockheed-martin-reports-third-quarter-2026-financial-results","source_date":"2026-10-22","period":"Q3 2026 / FY26 outlook"},
+        {"claim":"F-35 Lot20 incurred costs exceeded current contractual authorization/funding; company warns absent new authorization, future operations and cash flows will be negatively affected. Aeronautics reported unfavorable profit adjustments of $40m each on F-16 and C-130.","source_url":"https://lockheedmartin.gcs-web.com/news-releases/news-release-details/lockheed-martin-reports-third-quarter-2026-financial-results","source_date":"2026-10-22","period":"Q3 2026"},
+        {"claim":"9M CFO $6.893bn minus capex $1.268bn =FCF $5.625bn. Contract assets $16.899bn vs $13.001bn year-end absorbed $3.898bn cash; contract liabilities rose only $1.204bn. Backlog therefore does not equal collected cash.","source_url":"https://www.sec.gov/Archives/edgar/data/936468/000162828026066928/lmt-20260927.htm","source_date":"2026-10-22","period":"9M ended 2026-09-27"},
+        {"claim":"Cash $5.960bn; planned $3.45bn Ultra Maritime acquisition expected Q4 and intended funded from cash; guaranteed ULA borrowing $750m and expects further support. These compete with cash available for shareholders.","source_url":"https://www.sec.gov/Archives/edgar/data/936468/000162828026066928/lmt-20260927.htm","source_date":"2026-10-22","period":"2026-09-27 / Q4 outlook"}
+      ],
+      "quality":"Stronger recurring cash support than a purely geopolitical story. Nonetheless unbilled contract assets, fixed-price program losses and federal funding timing matter more than headline backlog; pension/FAS-CAS effects also make industrial P/E comparisons imperfect.",
+      "valuation_basis":"10/22 $589.91 / FY26 company EPS midpoint $30.55 =19.31x (range19.18–19.44x), versus vendor GAAP trailing20.90x. Approximate market cap $136.15bn and FCF guide midpoint $7.9bn implies5.80% yield. This is a guided-year valuation, not guaranteed cash yield or 11/13 stock-return target.",
+      "catalyst":"Already reported10/22; no new earnings before11/13 verified. Monitor F-35 authorization, PAC-3 funding/production schedules and acquisition updates; no exact unscheduled award date assumed.",
+      "downside_mechanism":"Funding delays grow unbilled assets; fixed-price cost overruns require new losses despite booked backlog; lower geopolitical risk premium can depress stock even with earnings intact.",
+      "falsifier":"Revoke new orders if company announces further material reach-forward losses, reduces FCF below $7.8bn floor or F-35 funding dispute materially escalates. For price execution, first close below10/22 event low pauses adding; a failed reclaim triggers trimming under portfolio loss budget.",
+      "decision":"保留；已出财报但不追高，先小仓",
+      "proposed_max_weight":0.04,
+      "monday_initial_max_weight":0.02,
+      "evidence_gaps":["No verified material company event date before11/13 beyond disclosed ongoing contracts","Full pension/debt valuation bridge not separately built","WLS and10/23 close unverified"]
+    },
+    {
+      "ticker":"ETN",
+      "facts":[
+        {"claim":"Q2 sales $8.531bn +21%, organic +14%; segment margin23.1% down80bp YoY. Electrical12-month rolling orders +41% Americas/+33% Global and electrical book-to-bill1.2. Orders indicate demand but are not immediate revenue or cash.","source_url":"https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html","source_date":"2026-07-31","period":"Q2 2026"},
+        {"claim":"Q3 company guide organic growth13.5–15.5%, segment margin24.6–25.0%, GAAP EPS2.77–2.87 and adjusted3.46–3.56. FY26 adjusted EPS13.40–13.60 vs GAAP10.36–10.56.","source_url":"https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html","source_date":"2026-07-31","period":"Q3 / FY26 outlook"},
+        {"claim":"Q2 CFO $1.127bn minus capex$0.253bn =FCF$0.874bn. GAAP EPS2.11 to adjusted3.15 adds0.50 intangible amortization,0.49 acquisition/divestiture,0.05 restructuring. Debt $20.611bn includes short term$2.091bn, current long-term$0.011bn and long term$18.509bn vs total$9.895bn year-end.","source_url":"https://www.eaton.com/content/dam/eaton/company/investor-relations/quarterly-earnings/filings/2026/q2/q2-2026-financials-only.pdf","source_date":"2026-07-31","period":"Q2 /2026-06-30"},
+        {"claim":"Boyd Thermal bought3/12 for$9.55bn; first full quarter adds25 percentage points to Electrical Global revenue growth. Mobility separation/Dana combination expectedQ1 2027, beyond11/13 competition horizon; cannot treat closing benefit as imminent.","source_url":"https://www.eaton.com/content/dam/eaton/company/investor-relations/quarterly-earnings/filings/2026/q2/q2-2026-financials-only.pdf","source_date":"2026-07-31","period":"H1 / future transaction"},
+        {"claim":"Q3 release11/3 beforeNYSE open; call11:00ET.","source_url":"https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-to-announce-third-quarter-2026-earnings-on-november-3--202.html","source_date":"2026-10-20","period":"Q3 event"}
+      ],
+      "quality":"Real organic orders and positive cash generation; however bolt-on growth, integration charges and doubled debt weaken simple quality-growth treatment. Adjusted EBIT must be paired with actual interest/cash costs; deal charges can recur with a serial acquisition strategy.",
+      "valuation_basis":"10/22$368.99 / FY26 adjustedEPS midpoint13.50=27.33x; GAAP midpoint10.46 gives35.28x; vendor trailingGAAP37.43x. Comparisons must not mix GAAP/adjusted or Q3 estimates with FY26 guide. Vendor Q3 adjustedEPS3.5463 sits near company3.56 upper end, a demanding hurdle.",
+      "catalyst":"11/3 earnings; compare organic growth and orders to guide, margin recovery, CFO and integration/deleveraging. Big-tech10/28–29 capex guides are an earlier shared-factor catalyst.",
+      "downside_mechanism":"AI capex slowdown or financing pressure reduces data-center orders while acquisition debt and amortization remain; order cancellations and lower margins can compress both earnings and premium multiple.",
+      "falsifier":"Wait if Q3 organic growth<13.5% or margins<24.6% without a temporary bridge; cancel scale-up on FY26 adjusted guide cut below13.40 or deterioration in CFO despite reported EPS growth. No need to hold through event at full cap.",
+      "decision":"保留3%条件上限；11/3财报前等待",
+      "proposed_max_weight":0.03,
+      "monday_initial_max_weight":0.0,
+      "evidence_gaps":["Net debt/cash balance not fully bridged in this lane","No clean organic backlog cancellation schedule","WLS and10/23 completed close unverified"]
+    },
+    {
+      "ticker":"NEE",
+      "facts":[
+        {"claim":"Q3 GAAP EPS2.28 versus adjusted1.24 (+9.7% YoY); non-qualifying hedge gains contribute approximately1.07/share after tax. FY26 adjustedEPS guide3.92–4.02 targeting high end. Added3.7GW renewable/storage backlog, total36.7GW.","source_url":"https://www.sec.gov/Archives/edgar/data/37634/000075330826000077/neeq32026exhibit99.htm","source_date":"2026-10-21","period":"Q3/FY26 outlook"},
+        {"claim":"9M CFO$12.322bn versus capex/independent power investments/nuclear fuel purchases$27.554bn; net financing cash$17.522bn and new long-term debt proceeds$18.232bn. The CFO-investment difference −$15.232bn includes growth investment, not a standalone company free cash flow metric.","source_url":"https://www.sec.gov/Archives/edgar/data/753308/000075330826000081/nee-20260930.htm","source_date":"2026-10-21","period":"9M ended2026-09-30"},
+        {"claim":"Q3 interest-rate-contract gains$3.045bn include unrealized$3.005bn. GAAP earnings can rise from hedge marks even while underlying financing expense remains economically relevant.","source_url":"https://www.sec.gov/Archives/edgar/data/753308/000075330826000081/nee-20260930.htm","source_date":"2026-10-21","period":"Q3 2026"},
+        {"claim":"Company presentation:2025 actual S&P FFO/debt19.4%, target2026>18%, downgrade threshold18%; Moody's adjusted CFO/debt17.8%, target>17%, threshold17%. Targets are not measured current ratios. Dominion combination remains pending; no completion before11/13 verified.","source_url":"https://www.investor.nexteraenergy.com/~/media/Files/N/NEE-IR/reports-and-fillings/quarterly-earnings/2026/Q3%202026/Q3%202026%20Earnings%20Slides_v%20F.pdf","source_date":"2026-10-21","period":"2025 actual /2026 target"}
+      ],
+      "quality":"FPL regulated demand and contracted generation provide some stability, but NEE is a capital-intensive developer with financing/merger risk. Tax credits, adjusted EBITDA and projected pre-tax cash flow are not interchangeable with distributable free cash after growth capex/tax/working capital.",
+      "valuation_basis":"10/22$81.90 / FY26 company adjustedEPS3.97 midpoint=20.63x, range20.37–20.89x. VendorGAAPTTM14.68x is flattered by hedge marks and should not support a cheap-utility claim. No bond-like maximum loss assumption.",
+      "catalyst":"Q3 already released10/21; through11/13 rate expectations, financing and pending Dominion regulatory updates matter. No additional scheduled earnings catalyst before11/13 verified.",
+      "downside_mechanism":"Higher yields compress valuation and raise project funding cost; credit-metric headroom contracts, projects face delayed PPAs/permits or equity dilution; rate-sensitive NEE can fall alongside growth stocks.",
+      "falsifier":"Suspend adding if company lowers3.92–4.02 guide, announces unfavorable financing/credit action or merger terms materially increase equity/funding burden. Treat confirmed credit downgrade/financial-policy deterioration as thesis review regardless of dividend. A macro rise in yields requires portfolio duration cap review, not automatic averaging down.",
+      "decision":"减至2%上限；周一最多1%，利率稳定才启用",
+      "proposed_max_weight":0.02,
+      "monday_initial_max_weight":0.01,
+      "evidence_gaps":["Latest full debt maturity/net-debt bridge not completed here","Credit thresholds sourced from company presentation, not independent rating-agency current opinion","WLS eligibility and10/23 full close unverified"]
+    }
+  ]
+}

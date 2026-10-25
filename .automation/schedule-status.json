@@ -1,0 +1,12 @@
+{
+  "name": "Bloomberg每日市场与仓位研究更新",
+  "timezone": "Asia/Shanghai",
+  "local_time": "20:45",
+  "frequency": "daily",
+  "requested_environment": "Bloomberg-research",
+  "repository": "danielhelloworld/Bloomberg-research",
+  "branch": "main",
+  "scheduler_status": "pending_setup",
+  "environment_binding": "not_verified",
+  "execution_status": "not_run"
+}

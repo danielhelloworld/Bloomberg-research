@@ -1,0 +1,260 @@
+[
+  {
+    "id": 1,
+    "url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1208/exxonmobil-announces-second-quarter-2026-results",
+    "date": "2026-07-31",
+    "ticker": "XOM"
+  },
+  {
+    "id": 2,
+    "url": "https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0000034088-26-000093/xom-20260630.htm",
+    "date": "2026-08-03",
+    "ticker": "XOM"
+  },
+  {
+    "id": 3,
+    "url": "https://content.equisolve.net/sec/0002115436-26-000013/f8k3q991101626.htm",
+    "date": "2026-10-16",
+    "ticker": "XOM"
+  },
+  {
+    "id": 4,
+    "url": "https://investor.exxonmobil.com/news-events/ir-calendar/detail/20261030-3q-2026-earnings-call",
+    "date": "2026-10-16 announcement/calendar reviewed 2026-10-24",
+    "ticker": "XOM"
+  },
+  {
+    "id": 5,
+    "url": "https://chevroncorp.gcs-web.com/node/38551",
+    "date": "2026-07-31",
+    "ticker": "CVX"
+  },
+  {
+    "id": 6,
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000167/cvx-20260630.htm",
+    "date": "2026-08 (Q2 10-Q)",
+    "ticker": "CVX"
+  },
+  {
+    "id": 7,
+    "url": "https://chevroncorp.gcs-web.com/",
+    "date": "calendar reviewed 2026-10-24",
+    "ticker": "CVX"
+  },
+  {
+    "id": 8,
+    "url": "https://investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-reports-Q3-2026-results-raises-2026-guidance/default.aspx",
+    "date": "2026-10-13",
+    "ticker": "JNJ"
+  },
+  {
+    "id": 9,
+    "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-q3-2026-earnings-ceo-and-cfo-prepared-remarks",
+    "date": "2026-10-13",
+    "ticker": "JNJ"
+  },
+  {
+    "id": 10,
+    "url": "https://news.abbvie.com/2026-07-31-AbbVie-Reports-Second-Quarter-2026-Financial-Results",
+    "date": "2026-07-31",
+    "ticker": "ABBV"
+  },
+  {
+    "id": 11,
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000026/abbv-20260630.htm",
+    "date": "2026-08-03",
+    "ticker": "ABBV"
+  },
+  {
+    "id": 12,
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000030/abbv-20261005.htm",
+    "date": "2026-10-05",
+    "ticker": "ABBV"
+  },
+  {
+    "id": 13,
+    "url": "https://abbvie.gcs-web.com/news-releases/news-release-details/abbvie-host-third-quarter-2026-earnings-conference-call",
+    "date": "2026-10-01",
+    "ticker": "ABBV"
+  },
+  {
+    "id": 14,
+    "url": "https://news.abbvie.com/2026-10-22-AbbVie-Announces-Topline-Results-from-the-Phase-3-INTREPID-Trial-Showing-Lutikizumab-Significantly-Improved-Signs-and-Symptoms-of-Disease-in-Patients-with-Hidradenitis-Suppurativa",
+    "date": "2026-10-22",
+    "ticker": "ABBV"
+  },
+  {
+    "id": 15,
+    "url": "https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2027-First-Quarter-Results/default.aspx",
+    "date": "2026-10-22",
+    "ticker": "PG"
+  },
+  {
+    "id": 16,
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/pg-20260630.htm",
+    "date": "2026-08-06",
+    "ticker": "PG"
+  },
+  {
+    "id": 17,
+    "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-26-000145/earningsreleasefy27q2.htm",
+    "date": "2026-08-20",
+    "ticker": "WMT"
+  },
+  {
+    "id": 18,
+    "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-26-000154/wmt-20260731.htm",
+    "date": "2026-08-28",
+    "ticker": "WMT"
+  },
+  {
+    "id": 19,
+    "url": "https://corporate.walmart.com/news/events/fy2027-q3-earnings-release",
+    "date": "event page retrieved 2026-10-24",
+    "ticker": "WMT"
+  },
+  {
+    "id": 20,
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm",
+    "date": "2026-10-13",
+    "ticker": "JPM"
+  },
+  {
+    "id": 21,
+    "url": "https://jpmorganchaseco.gcs-web.com/node/943846/html",
+    "date": "2026-10-13",
+    "ticker": "JPM"
+  },
+  {
+    "id": 22,
+    "url": "https://jpmorganchaseco.gcs-web.com/node/943776/html",
+    "date": "2026-10-13",
+    "ticker": "JPM"
+  },
+  {
+    "id": 23,
+    "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526344495/d159922dex991.htm",
+    "date": "2026-08-08",
+    "ticker": "BRK.B"
+  },
+  {
+    "id": 24,
+    "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+    "date": "2026-08 (Q2 10-Q)",
+    "ticker": "BRK.B"
+  },
+  {
+    "id": 25,
+    "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+    "date": "2026-07-29",
+    "ticker": "MSFT"
+  },
+  {
+    "id": 26,
+    "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4",
+    "date": "2026-07-29",
+    "ticker": "MSFT"
+  },
+  {
+    "id": 27,
+    "url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "date": "2026 annual report read 2026-10-24",
+    "ticker": "MSFT"
+  },
+  {
+    "id": 28,
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "date": "2026-07-22",
+    "ticker": "GOOGL"
+  },
+  {
+    "id": 29,
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+    "date": "2026-07-23",
+    "ticker": "GOOGL"
+  },
+  {
+    "id": 30,
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+    "date": "2026-07-30",
+    "ticker": "AMZN"
+  },
+  {
+    "id": 31,
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+    "date": "2026-07-31",
+    "ticker": "AMZN"
+  },
+  {
+    "id": 32,
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report",
+    "date": "2026-10-15",
+    "ticker": "AMZN"
+  },
+  {
+    "id": 33,
+    "url": "https://lockheedmartin.gcs-web.com/news-releases/news-release-details/lockheed-martin-reports-third-quarter-2026-financial-results",
+    "date": "2026-10-22",
+    "ticker": "LMT"
+  },
+  {
+    "id": 34,
+    "url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026066928/lmt-20260927.htm",
+    "date": "2026-10-22",
+    "ticker": "LMT"
+  },
+  {
+    "id": 35,
+    "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html",
+    "date": "2026-07-31",
+    "ticker": "ETN"
+  },
+  {
+    "id": 36,
+    "url": "https://www.eaton.com/content/dam/eaton/company/investor-relations/quarterly-earnings/filings/2026/q2/q2-2026-financials-only.pdf",
+    "date": "2026-07-31",
+    "ticker": "ETN"
+  },
+  {
+    "id": 37,
+    "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-to-announce-third-quarter-2026-earnings-on-november-3--202.html",
+    "date": "2026-10-20",
+    "ticker": "ETN"
+  },
+  {
+    "id": 38,
+    "url": "https://pressroom.toyota.com/tmc-announces-april-through-june-2026-financial-results/",
+    "date": "2026-08-04",
+    "ticker": "TM"
+  },
+  {
+    "id": 39,
+    "url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526331392/d258414dex991.htm",
+    "date": "2026-08-04",
+    "ticker": "TM"
+  },
+  {
+    "id": 40,
+    "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_presentation_2_en.pdf",
+    "date": "2026-08-04",
+    "ticker": "TM"
+  },
+  {
+    "id": 41,
+    "url": "https://www.sec.gov/Archives/edgar/data/37634/000075330826000077/neeq32026exhibit99.htm",
+    "date": "2026-10-21",
+    "ticker": "NEE"
+  },
+  {
+    "id": 42,
+    "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000081/nee-20260930.htm",
+    "date": "2026-10-21",
+    "ticker": "NEE"
+  },
+  {
+    "id": 43,
+    "url": "https://www.investor.nexteraenergy.com/~/media/Files/N/NEE-IR/reports-and-fillings/quarterly-earnings/2026/Q3%202026/Q3%202026%20Earnings%20Slides_v%20F.pdf",
+    "date": "2026-10-21",
+    "ticker": "NEE"
+  }
+]

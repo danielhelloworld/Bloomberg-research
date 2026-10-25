@@ -1,0 +1,17 @@
+﻿ticker,old_B_target_pct,revised_conditional_target_pct,Monday_conditional_pct,single_stock_max_pct_user,assumed_name_stress_pct,NAV_loss_at_revised_pct,WLS
+XOM,8,5,2,20,-18.0,0.8999999999999999,unverified
+CVX,4,3,1,20,-18.0,0.54,unverified
+JNJ,8,5,3,20,-12.0,0.6,unverified
+ABBV,4,3,0,20,-20.0,0.6000000000000001,unverified
+PG,7,7,3,20,-10.0,0.7000000000000001,unverified
+WMT,5,3,2,20,-20.0,0.6000000000000001,unverified
+JPM,6,6,4,20,-22.0,1.32,unverified
+BRK.B,6,6,3,20,-18.0,1.08,unverified
+MSFT,5,5,0,20,-20.0,1.0,unverified
+GOOGL,5,3,0,20,-22.0,0.66,unverified
+AMZN,3,0,0,20,-30.0,-0.0,unverified
+LMT,4,4,2,20,-20.0,0.8,unverified
+ETN,3,0,0,20,-25.0,-0.0,unverified
+TM,4,0,0,20,-25.0,-0.0,unverified
+NEE,3,0,0,20,-25.0,-0.0,unverified
+CASH,25,50,80,,0,0,unverified

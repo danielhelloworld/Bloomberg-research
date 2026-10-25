@@ -1,0 +1,253 @@
+{
+  "as_of": "2026-10-25 Asia/Shanghai",
+  "scope": "Aggressive research candidates, not approved positions",
+  "stocks": [
+    {
+      "ticker": "STX",
+      "name": "Seagate Technology",
+      "sector": "大容量HDD存储",
+      "pathway": "云存储需求、HAMR产品升级与盈利兑现；下周财报验证",
+      "fiscal_period": "FY2026 Q4及全年，截至2026-07-03；FY2027 Q1尚未披露",
+      "facts": [
+        {
+          "claim": "FY26Q4收入36.29亿美元、GAAP毛利率52.3%、调整后EPS5.71美元。",
+          "source_id": "ATK-SS-STX-Q4"
+        },
+        {
+          "claim": "FY26全年经营现金流36.74亿美元、购置资本资产5.69亿美元；相减FCF31.05亿美元。年末总债务约36亿美元、现金约17亿美元。",
+          "source_id": "ATK-SS-STX-Q4"
+        }
+      ],
+      "guidance": "公司FY27Q1收入指引41亿美元±1亿美元、non-GAAP EPS7.30美元±0.20；不是已公布实际业绩。[ATK-SS-STX-Q4]",
+      "cash_quality": "全年FCF为CFO减资本资产购置，现金兑现有支撑；可交换债转换、SBC与债务交易调整仍有经济影响。不能将单季高毛利或下一季EPS年化成永久盈利。[ATK-SS-STX-Q4]",
+      "attack_case": "如果云客户存储采购与HAMR量产交付继续兑现，容量/产品组合及定价可推动利润增长。进攻依据来自已经披露的经营与现金，而不只是AI市场规模；下一次财报能检验高利润能否延续。",
+      "expectations_risk": "市场可能已为强指引和高毛利定价。根代理价格和估值输入尚未加入，不能声称被低估、预期差已证实或具备确定上行空间。",
+      "trap_case": "强现金与高利润可能处于存储周期有利阶段；客户延迟采购、供应增加和产品认证问题都可能使利润反转。与WDC、MU、SNDK同配会叠加存储资本开支风险。",
+      "kill": "实际收入/下一季指引明显下调，HAMR交付或良率拖延，毛利下行并伴随现金转化恶化；未解释的回款/库存积压出现时取消新增。",
+      "trigger": "先读10/27盘后实际结果与17:00 ET电话会；确认需求、HAMR交付和现金，并在10/28根据实际价格反应重排。默认不在财报前新开事件仓。",
+      "next_week_event": {
+        "date_et": "2026-10-27",
+        "time_et": "after close; call17:00 ET",
+        "status": "company_confirmed",
+        "source_id": "ATK-SS-STX-DATE",
+        "note": "FY27Q1财报10/27盘后；北京时间10/28 05:00电话会。并非10/25已经发生的结果。"
+      },
+      "priority_research": "A：盈利兑现型进攻研究；财报前等待，不等于买入",
+      "source_ids": [
+        "ATK-SS-STX-Q4",
+        "ATK-SS-STX-DATE"
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital",
+      "sector": "HDD与云存储",
+      "pathway": "分拆后的HDD经营杠杆、定价与产品组合；财报后兑现",
+      "fiscal_period": "FY2027 Q1，截至2026-10-02，10/22已披露",
+      "facts": [
+        {
+          "claim": "FY27Q1收入43.81亿美元、同比+55%；GAAP毛利率57.8%、non-GAAP毛利率58.1%；GAAP/调整后EPS4.63/4.64美元。",
+          "source_id": "ATK-SS-WDC-Q1"
+        },
+        {
+          "claim": "同季CFO16.04亿美元，净资本资产购置2.27亿美元，FCF13.77亿美元。",
+          "source_id": "ATK-SS-WDC-Q1"
+        },
+        {
+          "claim": "2025年2月21日已分拆Flash业务为SNDK；WDC不再合并Sandisk，不能把两家公司当前收入混成一个业务。",
+          "source_id": "ATK-SS-WDC-SEP"
+        }
+      ],
+      "guidance": "FY27Q2收入51亿美元±1亿美元、non-GAAP毛利率60%—61%、non-GAAP EPS5.80美元±0.20。[ATK-SS-WDC-Q1]",
+      "cash_quality": "本季FCF可从CFO减净PPE购置勾稽，当前GAAP与调整EPS差异小；比较上一季/TTM须剔除留存Sandisk权益估值收益等非经营影响。不能把历史分拆前口径与现有HDD业务直接串联。[ATK-SS-WDC-Q1][ATK-SS-WDC-SEP]",
+      "attack_case": "真实收入与现金流增长使其更接近盈利兑现型进攻；若客户exabyte需求、价格与产品组合支撑强Q2指引，可研究财报后修复或趋势延续。",
+      "expectations_risk": "57%以上GAAP毛利率及强下一季指引意味着市场可能已计入顺周期景气。没有正常化中周期利润模型，低历史P/E也不能证明便宜。",
+      "trap_case": "HDD采购集中于云客户，供需或定价改变会同时压缩收入、毛利和估值；同时买STX/WDC并不构成充分分散。上一季Sandisk投资收益会污染利润比较。",
+      "kill": "下一季收入/毛利指导无法兑现、客户下调采购或库存/应收占用上升；若需要用一次性非经营收益解释利润，应重新正常化后判断。",
+      "trigger": "财报已在10/22发布；下周观察最新指引能否获得同业和云客户证据支持，价格确认后再列候选，不把旧财报重新包装成新催化。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "already_reported_not_next_week",
+        "source_id": "ATK-SS-WDC-Q1",
+        "note": "FY27Q1已于10/22披露；本轮未核实10/26—30新的确定公司财报，不能沿用2025年10/30旧日历。"
+      },
+      "priority_research": "A/B：财报后经营兑现研究，估值与价格确认约束",
+      "source_ids": [
+        "ATK-SS-WDC-Q1",
+        "ATK-SS-WDC-SEP"
+      ]
+    },
+    {
+      "ticker": "RKLB",
+      "name": "Rocket Lab",
+      "sector": "航天发射与空间系统",
+      "pathway": "Electron/空间系统收入及合同兑现；Neutron开发延期单列",
+      "fiscal_period": "2026 Q2及H1，截至2026-06-30；10/14开发进度更新",
+      "facts": [
+        {
+          "claim": "Q2收入2.34066亿美元、同比+62%，披露backlog约23.6亿美元；新增合同统计含部分期权，合同规模不能直接等同现金收入。",
+          "source_id": "ATK-SS-RKLB-Q2"
+        },
+        {
+          "claim": "H1经营现金流-1.34407亿美元、购置设备与软件0.53112亿美元；简化现金差额-1.87519亿美元，同时ATM股权发行流入15.29639亿美元。",
+          "source_id": "ATK-SS-RKLB-Q2"
+        },
+        {
+          "claim": "10/14公司正式把Neutron首次发射预期调整到2027年；不能再把2026年首飞作为比赛窗口内催化。",
+          "source_id": "ATK-SS-RKLB-NEUTRON"
+        }
+      ],
+      "guidance": "Q3收入指引2.50—2.65亿美元、GAAP毛利率29%—31%、调整后EBITDA亏损1700—2300万美元；均为8/10公司指导，非已实现结果。[ATK-SS-RKLB-Q2]",
+      "cash_quality": "经营与资本购置仍消耗现金，大额ATM融资使现金充裕不等于经营自我造血；H1股权发行远大于同期经营规模，稀释、并购整合及未来开发投入须并看。[ATK-SS-RKLB-Q2]",
+      "attack_case": "Electron/HASTE执行及空间系统交付提供真实收入基础，长期Neutron有更大任务市场，但后者应以概率与时间的不确定性对待，不能据总市场规模计入当期盈利。",
+      "expectations_risk": "股价若已经依赖Neutron放量和大规模合同兑现，延期会同时影响收入时间、现金消耗及估值倍数。没有可审计的成功概率或项目DCF，不设确定目标价。",
+      "trap_case": "已知2027首飞延期直接削弱短赛程催化；一个成功的小火箭任务不能抵销新平台开发延期。合同中的选项、并购预期与实际预付款/收入不是同一回事。",
+      "kill": "Neutron继续延期/成本上升，Electron可靠性或空间系统交付恶化；合同取消、现金消耗加剧或需持续大额融资时维持降级。",
+      "trigger": "当前降为观察，不进入本轮配置示例；先等公司交付/可靠性与融资披露，11/9财报再核现金及最新开发时间表。下周若只有股价反弹而无新经营证据，不升级。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "next_earnings_outside_week_confirmed",
+        "source_id": "ATK-SS-RKLB-DATE",
+        "note": "公司确认11/9盘后、17:00 ET电话会；北京时间11/10 06:00（已切冬令时）。Neutron首飞2027不在2026比赛窗口，不能编为下周发射事件。"
+      },
+      "priority_research": "C：里程碑/融资高风险观察，当前不作为进攻配置示例",
+      "source_ids": [
+        "ATK-SS-RKLB-Q2",
+        "ATK-SS-RKLB-NEUTRON",
+        "ATK-SS-RKLB-DATE"
+      ]
+    },
+    {
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile",
+      "sector": "卫星直连手机网络",
+      "pathway": "卫星部署到实际服务与回款；融资、资本开支与监管闸门",
+      "fiscal_period": "2026 Q2及H1，截至2026-06-30，8/10 Form10-Q",
+      "facts": [
+        {
+          "claim": "Q2收入3152万美元，其中产品2442.8万美元、服务709.2万美元；普通股股东净亏损2.30909亿美元，包含BB7资产核销扣保险回收后的损失1.25911亿美元。",
+          "source_id": "ATK-SS-ASTS-Q2"
+        },
+        {
+          "claim": "6月底现金、等价物及受限现金27.22834亿美元，其中受限现金约4.346亿美元，不能把总额全部视作自由可用。",
+          "source_id": "ATK-SS-ASTS-Q2"
+        },
+        {
+          "claim": "H1经营现金流-1.45212亿美元、购置PPE8.59215亿美元；简化CFO减PPE为-10.04427亿美元。同期融资活动净流入10.68333亿美元。",
+          "source_id": "ATK-SS-ASTS-Q2"
+        }
+      ],
+      "guidance": "已读10-Q目标约45颗BB卫星在2027年初到位，发射取决于组装、测试、运载火箭与物流；不是已交付或保证。完整最新收入指引未在本轮成功读取的公司新闻正文中核实，保留缺口。[ATK-SS-ASTS-Q2]",
+      "cash_quality": "运营收入主要是网关设备/软件及政府相关服务，不能当成大规模手机用户经常性服务收入。只看经营流出会严重低估资本需求；PPE与频谱/其他投资也消耗资金。融资流入不是盈利，受限现金须剔除。未完成10月融资及部署后现金余额完整桥接，不提供当前现金跑道保证。[ATK-SS-ASTS-Q2]",
+      "attack_case": "若实际部署增加并完成监管批准，合作网络服务从试验走向付费，收入基数较低使弹性可能大；必须看到可用覆盖、商业计费与回款，而不是仅凭合作方数量或未来覆盖人数。",
+      "expectations_risk": "部署目标、终端连接能力、合作伙伴和市场空间可能已经承载很高预期。没有可靠的成功概率、单位经济与正常化盈利，本轮不能给出合理目标价。",
+      "trap_case": "卫星损失和延期会同时影响资本支出、可用覆盖与收入时间；融资、监管许可、发射可用性与市场风险偏好可同向恶化。两只航天股票并非独立风险。",
+      "kill": "实际部署/服务上线进一步延迟、卫星故障、监管或融资受阻；资本开支持续超预算却没有可验证商业回款，维持观察或否决新增。",
+      "trigger": "暂不进入配置示例。先核实最新卫星在轨/商业服务、监管许可、资本需求和融资后可用现金；新财报的收入结构、真实服务回款与现金转化共同改善后再研究小额仓位。",
+      "next_week_event": {
+        "date_et": null,
+        "time_et": null,
+        "status": "not_confirmed",
+        "source_id": "ATK-SS-ASTS-EVENT",
+        "note": "已读公司IR及事件页未取得10/26—30确定财报/发射时点；未知不等于保证无公告。不能用第三方推测填成已确认事件。"
+      },
+      "priority_research": "C：资本密集里程碑投机观察，证据不足不配置",
+      "source_ids": [
+        "ATK-SS-ASTS-Q2",
+        "ATK-SS-ASTS-IR",
+        "ATK-SS-ASTS-EVENT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ATK-SS-STX-Q4",
+      "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results/",
+      "title": "Seagate FY2026 Q4 and FY2026 results",
+      "published": "2026-07-28",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-STX-DATE",
+      "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-to-Report-Fiscal-First-Quarter-2027-Financial-Results-on-October-27-2026/default.aspx",
+      "title": "Seagate FY2027 Q1 announcement date",
+      "published": "2026-10-13",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-WDC-Q1",
+      "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066882/a4ex991-pressreleaseq127.htm",
+      "title": "WD FY2027 Q1 earnings exhibit99.1",
+      "published": "2026-10-22",
+      "accessed": "2026-10-25",
+      "source_type": "SEC_issuer_release_opened"
+    },
+    {
+      "id": "ATK-SS-WDC-SEP",
+      "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000012/wdc8-khardxspin.htm",
+      "title": "Western Digital Sandisk separation pro forma financials",
+      "published": "2025-02-24",
+      "accessed": "2026-10-25",
+      "source_type": "SEC_exhibit_opened"
+    },
+    {
+      "id": "ATK-SS-RKLB-Q2",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-second-quarter-2026-financial-results-posts",
+      "title": "Rocket Lab Q2 2026 financial results and cash flow tables",
+      "published": "2026-08-10",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-RKLB-NEUTRON",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-provides-update-neutron-development-and-adjusts",
+      "title": "Rocket Lab adjusts Neutron inaugural launch to2027",
+      "published": "2026-10-14",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-RKLB-DATE",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-date-third-quarter-2026-financial-results",
+      "title": "Rocket Lab Q3 2026 earnings date",
+      "published": "2026-10-20",
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-ASTS-Q2",
+      "url": "https://app.quotemedia.com/data/downloadFiling?cdn=97b0f90b3039b64b39c17ee3c872f664&companyName=AST+SpaceMobile+Inc.&dateFiled=2026-08-10&formDescription=General+form+for+quarterly+reports+under+Section+13+or+15(d)&formType=10-Q&ref=320259077&symbol=ASTS&type=PDF&webmasterId=102691",
+      "title": "AST SpaceMobile Q2 2026 10-Q, linked by issuer IR; financial statements and liquidity pp3,7,29,37,42",
+      "published": "2026-08-10",
+      "accessed": "2026-10-25",
+      "source_type": "issuer_IR_linked_SEC_filing_PDF_opened"
+    },
+    {
+      "id": "ATK-SS-ASTS-IR",
+      "url": "https://investors.ast-science.com/",
+      "title": "AST SpaceMobile investor relations and current results",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    },
+    {
+      "id": "ATK-SS-ASTS-EVENT",
+      "url": "https://investors.ast-science.com/events",
+      "title": "AST SpaceMobile investor events",
+      "published": null,
+      "accessed": "2026-10-25",
+      "source_type": "company_IR_opened"
+    }
+  ],
+  "risk_countercase": [
+    "这四只并不是四个独立主题：STX/WDC共享云存储采购与定价周期，RKLB/ASTS共享开发、部署、资本市场与风险偏好。应按共同风险桶计量，不能因股票数量多而提高预算。",
+    "股票是普通股并不代表经营没有杠杆或融资需求。对持续消耗现金的航天公司，融资窗口关闭和项目延期可能同时发生；账上现金不能脱离受限资金、资本开支、债务与稀释分析。",
+    "12%回撤容忍不等于可以接受每只股票12%的止损。若高风险子篮子占4%NAV且跌50%，单项即损失2%NAV；这必须和原防守核心也下跌的情景叠加，而非声称进攻篮子可以对冲核心。",
+    "STX财报前默认不新增事件仓；WDC是已发布后的验证。RKLB已知首飞延期应降级，ASTS缺当前现金桥和确定下周事件，均不应因高弹性而优先放进配置示例。",
+    "根代理统一价格、流动性和估值筛选；这里没有独立行情、WLS资格、RSI/ATR、预期收益、命中率、相关性或回测。所有升级都需终端资格和实际新证据。"
+  ]
+}

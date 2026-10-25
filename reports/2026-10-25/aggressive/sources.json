@@ -1,0 +1,505 @@
+[
+  {
+    "id": "ATK-AI-ALAB-Q2",
+    "url": "https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-reports-second-quarter-2026-financial-results",
+    "title": "Astera Labs Q2 2026 financial results and cash flow tables",
+    "published": "2026-08-04",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-AI-ALAB-EVENT",
+    "url": "https://ir.asteralabs.com/news-events/events-presentations",
+    "title": "Astera Labs events: Q3 call November3",
+    "published": "event calendar reviewed2026-10-25",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-AI-MRVL-Q2",
+    "url": "https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000022/q227_8kx812026ex-991.htm",
+    "title": "Marvell FY2027 Q2 results Exhibit99.1",
+    "published": "2026-08-27",
+    "accessed": "2026-10-25",
+    "source_type": "issuer_SEC_exhibit_opened"
+  },
+  {
+    "id": "ATK-AI-MRVL-ID",
+    "url": "https://www.marvell.com/company/events/investor-day-2026.html",
+    "title": "Marvell October6 2026 Investor Day official page",
+    "published": "2026-10-06",
+    "accessed": "2026-10-25",
+    "source_type": "company_event_page_opened; linked full deck exceeded tool size limit and was not fully read"
+  },
+  {
+    "id": "ATK-AI-CRWV-Q2",
+    "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/",
+    "title": "CoreWeave second quarter2026 results and financial tables",
+    "published": "2026-08-11",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-AI-CRWV-EVENT",
+    "url": "https://investors.coreweave.com/events-and-presentations/",
+    "title": "CoreWeave events page",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened; dynamic upcoming event body missing"
+  },
+  {
+    "id": "ATK-AI-NBIS-Q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm",
+    "title": "Nebius Q2 2026 SEC Exhibit99.1",
+    "published": "2026-08-12",
+    "accessed": "2026-10-25",
+    "source_type": "issuer_SEC_exhibit_opened"
+  },
+  {
+    "id": "ATK-AI-NBIS-LETTER",
+    "url": "https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf",
+    "title": "Nebius Q2 2026 shareholder letter",
+    "published": "2026-08-12",
+    "accessed": "2026-10-25",
+    "source_type": "company_shareholder_letter_PDF_opened"
+  },
+  {
+    "id": "ATK-AI-NBIS-EVENT",
+    "url": "https://nebius.com/investor-hub",
+    "title": "Nebius official investor hub",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened; no current exact next earnings date visible"
+  },
+  {
+    "id": "ATK-AI-GEV-Q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000147/gev2q2026form8-k.pdf",
+    "title": "GE Vernova Q2 2026 results and FY2026 guidance",
+    "published": "2026-07-22",
+    "accessed": "2026-10-25",
+    "source_type": "issuer_SEC_8K_PDF_opened"
+  },
+  {
+    "id": "ATK-AI-GEV-EVENT",
+    "url": "https://www.gevernova.com/investors/events",
+    "title": "GE Vernova Q3 2026 earnings webcast October28",
+    "published": "event calendar reviewed2026-10-25",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-AI-GEV-DATE",
+    "url": "https://www.gevernova.com/news/taxonomy/term/9606",
+    "title": "GE Vernova October13 official date notice",
+    "published": "2026-10-13",
+    "accessed": "2026-10-25",
+    "source_type": "company_news_opened"
+  },
+  {
+    "id": "ATK-AI-SNDK-Q4",
+    "url": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-08-05-sandisk-reports-fiscal-fourth-quarter-2026-financial-results",
+    "title": "Sandisk FY2026 Q4 results and adjusted FCF reconciliation",
+    "published": "2026-08-05",
+    "accessed": "2026-10-25",
+    "source_type": "company_news_opened"
+  },
+  {
+    "id": "ATK-AI-SNDK-EVENT",
+    "url": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-report-first-quarter-fiscal-year-2027-results-october-29",
+    "title": "Sandisk announces October29 FY2027 Q1 call",
+    "published": "2026-09-29",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-PC-TSLA-Q3",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm",
+    "title": "Tesla Q3 2026 Update (Form 8-K Exhibit 99.1)",
+    "published": "2026-10-21",
+    "accessed": "2026-10-25",
+    "source_type": "SEC issuer exhibit, opened and read"
+  },
+  {
+    "id": "ATK-PC-TSLA-8K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/tsla-20261021.htm",
+    "title": "Tesla Form 8-K dated October 21, 2026",
+    "published": "2026-10-21",
+    "accessed": "2026-10-25",
+    "source_type": "SEC current report, opened and read"
+  },
+  {
+    "id": "ATK-PC-HOOD-Q2",
+    "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-second-quarter-2026-results",
+    "title": "Robinhood Reports Second Quarter 2026 Results",
+    "published": "2026-07-29",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR earnings release, opened and read"
+  },
+  {
+    "id": "ATK-PC-HOOD-EVENT",
+    "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-announce-third-quarter-2026-results",
+    "title": "Robinhood Markets, Inc. to Announce Third Quarter 2026 Results",
+    "published": "2026-10-01",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR event announcement, opened and read"
+  },
+  {
+    "id": "ATK-PC-COIN-Q2",
+    "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx",
+    "title": "Coinbase Q2 Earnings: Everything Exchange Drives 3rd Consecutive Quarter of Record Crypto Trading Volume Market Share, Revenue Diversification and Resilience",
+    "published": "2026-07-30",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR earnings release, opened and read"
+  },
+  {
+    "id": "ATK-PC-COIN-10Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000088/coin-20260630.htm",
+    "title": "Coinbase Form 10-Q for June 30, 2026",
+    "published": "2026-07-30",
+    "accessed": "2026-10-25",
+    "source_type": "SEC quarterly filing, opened and read"
+  },
+  {
+    "id": "ATK-PC-COIN-EVENT",
+    "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Announces-Date-of-Third-Quarter-2026-Financial-Results/default.aspx",
+    "title": "Coinbase Announces Date of Third Quarter 2026 Financial Results",
+    "published": "2026-10-14",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR event announcement, opened and read"
+  },
+  {
+    "id": "ATK-PC-MSTR-1019",
+    "url": "https://assets.contentstack.io/v3/assets/bltf8d808d9b8cebd37/blt075438553ed3641e/6ad5860b04e8526be47d2cab/form-8-k_10-19-2026.pdf",
+    "title": "Strategy Form 8-K: October 19, 2026, holdings/ATM/repurchases/cash update",
+    "published": "2026-10-19",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer-hosted Form 8-K PDF, opened and read, 5 pages"
+  },
+  {
+    "id": "ATK-PC-MSTR-Q2",
+    "url": "https://www.strategy.com/press/strategy-announces-second-quarter-2026-financial-results_07-30-2026",
+    "title": "Strategy Announces Second Quarter 2026 Financial Results",
+    "published": "2026-07-30",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR earnings release, opened and read"
+  },
+  {
+    "id": "ATK-PC-MSTR-EVENT",
+    "url": "https://www.strategy.com/press/strategy-announces-earnings-release-date-and-live-video-webinar-for-third-quarter-2026-financial-results_10-08-2026",
+    "title": "Strategy Announces Earnings Release Date and Live Video Webinar for Third Quarter 2026 Financial Results",
+    "published": "2026-10-08",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR event announcement, opened and read"
+  },
+  {
+    "id": "ATK-PC-TEM-Q2",
+    "url": "https://investors.tempus.com/news-releases/news-release-details/tempus-reports-second-quarter-2026-results",
+    "title": "Tempus Reports Second Quarter 2026 Results",
+    "published": "2026-07-30",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR earnings release, opened and read"
+  },
+  {
+    "id": "ATK-PC-TEM-CALENDAR",
+    "url": "https://investors.tempus.com/",
+    "title": "Tempus Investor Relations - upcoming Q3 2026 earnings call",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR live event calendar, opened and read; linked PDF access failed and is not cited as read"
+  },
+  {
+    "id": "ATK-PC-HIMS-Q2",
+    "url": "https://investors.hims.com/news/news-details/2026/Hims--Hers-Health-Inc--Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+    "title": "Hims & Hers Health, Inc. Reports Second Quarter 2026 Financial Results",
+    "published": "2026-08-10",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR earnings release, opened and read"
+  },
+  {
+    "id": "ATK-PC-HIMS-EVENT",
+    "url": "https://investors.hims.com/news/news-details/2026/Hims--Hers-to-Announce-Third-Quarter-2026-Financial-Results-on-November-9-2026/default.aspx",
+    "title": "Hims & Hers to Announce Third Quarter 2026 Financial Results on November 9, 2026",
+    "published": "2026-10-12",
+    "accessed": "2026-10-25",
+    "source_type": "Issuer IR event announcement, opened and read"
+  },
+  {
+    "id": "ATK-SS-STX-Q4",
+    "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results/",
+    "title": "Seagate FY2026 Q4 and FY2026 results",
+    "published": "2026-07-28",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-SS-STX-DATE",
+    "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-to-Report-Fiscal-First-Quarter-2027-Financial-Results-on-October-27-2026/default.aspx",
+    "title": "Seagate FY2027 Q1 announcement date",
+    "published": "2026-10-13",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-SS-WDC-Q1",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066882/a4ex991-pressreleaseq127.htm",
+    "title": "WD FY2027 Q1 earnings exhibit99.1",
+    "published": "2026-10-22",
+    "accessed": "2026-10-25",
+    "source_type": "SEC_issuer_release_opened"
+  },
+  {
+    "id": "ATK-SS-WDC-SEP",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000012/wdc8-khardxspin.htm",
+    "title": "Western Digital Sandisk separation pro forma financials",
+    "published": "2025-02-24",
+    "accessed": "2026-10-25",
+    "source_type": "SEC_exhibit_opened"
+  },
+  {
+    "id": "ATK-SS-RKLB-Q2",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-second-quarter-2026-financial-results-posts",
+    "title": "Rocket Lab Q2 2026 financial results and cash flow tables",
+    "published": "2026-08-10",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-SS-RKLB-NEUTRON",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-provides-update-neutron-development-and-adjusts",
+    "title": "Rocket Lab adjusts Neutron inaugural launch to2027",
+    "published": "2026-10-14",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-SS-RKLB-DATE",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-date-third-quarter-2026-financial-results",
+    "title": "Rocket Lab Q3 2026 earnings date",
+    "published": "2026-10-20",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-SS-ASTS-Q2",
+    "url": "https://app.quotemedia.com/data/downloadFiling?cdn=97b0f90b3039b64b39c17ee3c872f664&companyName=AST+SpaceMobile+Inc.&dateFiled=2026-08-10&formDescription=General+form+for+quarterly+reports+under+Section+13+or+15(d)&formType=10-Q&ref=320259077&symbol=ASTS&type=PDF&webmasterId=102691",
+    "title": "AST SpaceMobile Q2 2026 10-Q, linked by issuer IR; financial statements and liquidity pp3,7,29,37,42",
+    "published": "2026-08-10",
+    "accessed": "2026-10-25",
+    "source_type": "issuer_IR_linked_SEC_filing_PDF_opened"
+  },
+  {
+    "id": "ATK-SS-ASTS-IR",
+    "url": "https://investors.ast-science.com/",
+    "title": "AST SpaceMobile investor relations and current results",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "ATK-SS-ASTS-EVENT",
+    "url": "https://investors.ast-science.com/events",
+    "title": "AST SpaceMobile investor events",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-NVDA-1",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/",
+    "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+    "published": "2026-08-26",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-NVDA-2",
+    "url": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx",
+    "title": "NVIDIA Events & Presentations",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened_dynamic_calendar_incomplete"
+  },
+  {
+    "id": "SEM-AMD-1",
+    "url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results",
+    "title": "AMD Reports Second Quarter 2026 Financial Results",
+    "published": "2026-08-04",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-AMD-2",
+    "url": "https://ir.amd.com/news-events/ir-calendar",
+    "title": "AMD IR Calendar",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-AVGO-1",
+    "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial",
+    "title": "Broadcom Third Quarter Fiscal Year 2026 Financial Results",
+    "published": "2026-09-02",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-AVGO-2",
+    "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+    "title": "Broadcom Financial News",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SEM-MU-1",
+    "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/",
+    "title": "Micron Record Fiscal Fourth-Quarter and Full-Year 2026 Results",
+    "published": "2026-09-30",
+    "accessed": "2026-10-25",
+    "source_type": "company_IR_opened"
+  },
+  {
+    "id": "SP_ORCL_Q1",
+    "url": "https://www.oracle.com/news/announcement/q1fy27-earnings-release-2026-09-10/",
+    "title": "Oracle Q1 FY27 earnings release",
+    "published": "2026-09-10",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_PLTR_Q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000039/a2026q2ex991pressrelease.htm",
+    "title": "Palantir Q2 2026 earnings release, Exhibit 99.1",
+    "published": "2026-08-03",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_exhibit",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_PLTR_10Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000041/pltr-20260630.htm",
+    "title": "Palantir Form 10-Q quarter ended June 30, 2026",
+    "published": "2026-08-03",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_10q",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_PLTR_DATE",
+    "url": "https://www.nasdaq.com/press-release/palantir-announces-date-third-quarter-2026-earnings-release-and-webcast-2026-10-12",
+    "title": "Palantir Q3 2026 date notice, company Business Wire release on Nasdaq",
+    "published": "2026-10-12",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_release_distributed_by_nasdaq",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_CRWD_Q2",
+    "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
+    "title": "CrowdStrike Reports Second Quarter Fiscal Year 2027 Financial Results",
+    "published": "2026-08-26",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "company_ir",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_SNOW_Q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm",
+    "title": "Snowflake Q2 FY27 results, Exhibit 99.1",
+    "published": "2026-09-02",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_exhibit",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "SP_SNOW_10Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/snow-20260731.htm",
+    "title": "Snowflake Form 10-Q quarter ended July 31, 2026",
+    "published": "2026-09-04",
+    "accessed": "2026-10-25 Asia/Shanghai",
+    "source_type": "sec_10q",
+    "read_status": "opened_and_read"
+  },
+  {
+    "id": "IC_ANET_Q2",
+    "url": "https://www.arista.com/company/news/press-release/24401-pr-20260804",
+    "title": "Arista Q2 2026 results and Q3 outlook",
+    "published": "2026-08-04",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_ANET_TABLES",
+    "url": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Networks-Inc--Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+    "title": "Arista Q2 2026 financial tables",
+    "published": "2026-08-04",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_ANET_EVENT",
+    "url": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Networks-to-Announce-Q3-2026-Financial-Results-on-Tuesday-November-3-2026/default.aspx",
+    "title": "Arista confirms November 3 Q3 2026 release",
+    "published": "2026-10-06",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_VRT_Q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026050323/q22026exhibit991vrt07292026.htm",
+    "title": "Vertiv Q2 2026 earnings release",
+    "published": "2026-07-29",
+    "accessed": "2026-10-25",
+    "source_type": "SEC company exhibit"
+  },
+  {
+    "id": "IC_VRT_EVENT",
+    "url": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Announces-Date-of-Third-Quarter-2026-Earnings-Release-and-Conference-Call/",
+    "title": "Vertiv confirms October 28 2026 results",
+    "published": "2026-10-14",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_CEG_Q2",
+    "url": "https://www.constellationenergy.com/news/2026/08/constellation-reports-second-quarter-2026-results.html",
+    "title": "Constellation Q2 2026 results",
+    "published": "2026-08-06",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_CEG_10Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000104/ceg-20260630.htm",
+    "title": "Constellation June 2026 Form 10-Q",
+    "published": "2026-08-06",
+    "accessed": "2026-10-25",
+    "source_type": "SEC filing"
+  },
+  {
+    "id": "IC_CEG_EVENT",
+    "url": "https://investors.constellationenergy.com/events-and-presentations",
+    "title": "Constellation upcoming events: November 9 Q3 call",
+    "published": null,
+    "accessed": "2026-10-25",
+    "source_type": "company event page"
+  },
+  {
+    "id": "IC_VST_Q2",
+    "url": "https://investor.vistracorp.com/2026-08-07-Vistra-Reports-Second-Quarter-2026-Results",
+    "title": "Vistra Q2 2026 results",
+    "published": "2026-08-07",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  },
+  {
+    "id": "IC_VST_EVENT",
+    "url": "https://investor.vistracorp.com/2026-09-29-Vistra-to-Report-Third-Quarter-Results-on-Nov-6,-2026",
+    "title": "Vistra confirms November 6 Q3 results call",
+    "published": "2026-09-29",
+    "accessed": "2026-10-25",
+    "source_type": "company"
+  }
+]

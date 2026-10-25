@@ -1,0 +1,268 @@
+[
+  {
+    "id": "MD",
+    "title": "长桥行情：48个证券，日线与盘中快照",
+    "date": "2026-10-23；统计截止10/22",
+    "url": "https://longbridge.com/",
+    "evidence": "原始数据附 market_raw.json、stock_raw.json、stock_quotes.json；前复权口径由供应商提供。"
+  },
+  {
+    "id": "BB",
+    "title": "Bloomberg Asia：本次直接读取的首页",
+    "date": "10/23首页",
+    "url": "https://www.bloomberg.com/asia",
+    "evidence": "已读首页标题和摘要。市场综述正文触发机器人验证，未将全文视为已读。"
+  },
+  {
+    "id": "FED",
+    "title": "美联储9月政策声明",
+    "date": "9/16",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "evidence": "官方原文：加息25bp至3.75%–4%。"
+  },
+  {
+    "id": "CPI",
+    "title": "BLS：9月CPI",
+    "date": "10/14发布",
+    "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+    "evidence": "总体同比3.7%、核心2.6%；网页及劳工部同版PDF核验。"
+  },
+  {
+    "id": "JOBS",
+    "title": "BLS：9月就业",
+    "date": "10/2发布",
+    "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+    "evidence": "非农+29,000；失业率4.2%。"
+  },
+  {
+    "id": "FCAL",
+    "title": "美联储10月日历",
+    "date": "10/23读取",
+    "url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+    "evidence": "10/27–28开会，10/28决议与发布会。"
+  },
+  {
+    "id": "BEA",
+    "title": "BEA发布日程",
+    "date": "10/23读取",
+    "url": "https://www.bea.gov/news/schedule/full",
+    "evidence": "10/29 08:30 ET：Q3 GDP初值与9月个人收入支出（含PCE）同日。"
+  },
+  {
+    "id": "IMF",
+    "title": "IMF 2026年10月WEO",
+    "date": "10/13发布",
+    "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026",
+    "evidence": "增长、通胀为IMF预测，统计信息截至10/1。"
+  },
+  {
+    "id": "Y10",
+    "title": "FRED：10年期名义利率",
+    "date": "10/21观测",
+    "url": "https://fred.stlouisfed.org/series/DGS10",
+    "evidence": "最新读取观测5.13%；不是10/23盘中利率。"
+  },
+  {
+    "id": "REAL",
+    "title": "FRED：10年期实际利率",
+    "date": "10/21观测",
+    "url": "https://fred.stlouisfed.org/series/DFII10",
+    "evidence": "2.76%；与名义利率同日可比较。"
+  },
+  {
+    "id": "HY",
+    "title": "FRED/ICE：高收益债OAS",
+    "date": "10/22观测",
+    "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+    "evidence": "3.40%，前日3.27%；仅用作股票风险信号。"
+  },
+  {
+    "id": "SPY",
+    "title": "State Street：SPY官方基金页",
+    "date": "10/22",
+    "url": "https://www.ssga.com/us/en/intermediary/etfs/state-street-spdr-sp-500-etf-trust-spy",
+    "evidence": "收盘763.96；FY1 PE20.33、TTM PE24.48；持股及行业权重。"
+  },
+  {
+    "id": "ACWI",
+    "title": "iShares：ACWI官方基金页",
+    "date": "10/22",
+    "url": "https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf",
+    "evidence": "PE24.73；美国64.69%、信息技术31.18%。"
+  },
+  {
+    "id": "GTC",
+    "title": "Bloomberg for Education比赛门户",
+    "date": "10/23读取",
+    "url": "https://portal.bloombergforeducation.com/trading_challenges/13",
+    "evidence": "WLS相对时间加权收益；10/16初始仓截止，11/13结束。详细交易约束仍未核验。"
+  },
+  {
+    "id": "ECB",
+    "title": "ECB议息日程",
+    "date": "10/23读取",
+    "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+    "evidence": "10/28–29会议。"
+  },
+  {
+    "id": "BOJ",
+    "title": "日本银行会议日程",
+    "date": "10/23读取",
+    "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+    "evidence": "10/29–30会议。"
+  },
+  {
+    "id": "MSFT",
+    "title": "微软：FY27 Q1财报日期",
+    "date": "10/7公告",
+    "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/",
+    "evidence": "10/28美股盘后；电话会14:30 PT。"
+  },
+  {
+    "id": "GOOG",
+    "title": "Alphabet财报日期，公司公告转载",
+    "date": "10/6公告",
+    "url": "https://www.marketscreener.com/news/alphabet-announces-date-of-third-quarter-2026-financial-results-conference-call-ce785dd9dc89f62d",
+    "evidence": "10/28 16:30 ET电话会。标为公司原公告的分发文本；IR主站本次未显示该条完整公告。"
+  },
+  {
+    "id": "AMZN",
+    "title": "Amazon：Q3财报日期",
+    "date": "10/23读取",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report",
+    "evidence": "10/29；电话会17:00 ET。"
+  },
+  {
+    "id": "XOM",
+    "title": "ExxonMobil：Q3财报日期",
+    "date": "10/16公告",
+    "url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1212/exxonmobil-to-release-third-quarter-2026-financial-results",
+    "evidence": "10/30 05:30 CT发布，08:30 CT电话会。"
+  },
+  {
+    "id": "CVX",
+    "title": "Chevron：事件日历",
+    "date": "10/23读取",
+    "url": "https://chevroncorp.gcs-web.com/events-and-presentations/upcoming-events?mobile=1&page=2%2C0",
+    "evidence": "10/30 11:00 ET电话会。"
+  },
+  {
+    "id": "ABBV",
+    "title": "AbbVie：Q3财报日期",
+    "date": "10/1公告",
+    "url": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-host-third-quarter-2026-earnings-conference-call",
+    "evidence": "10/30盘前；08:00 CT电话会。"
+  },
+  {
+    "id": "PG",
+    "title": "P&G：FY27 Q1结果",
+    "date": "10/22",
+    "url": "https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2027-First-Quarter-Results/default.aspx",
+    "evidence": "营收233亿美元、有机增长4%、核心EPS2.00美元增长1%；经营现金流58亿美元。"
+  },
+  {
+    "id": "JNJ",
+    "title": "J&J：Q3结果与全年指引",
+    "date": "10/13",
+    "url": "https://investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-reports-Q3-2026-results-raises-2026-guidance/default.aspx",
+    "evidence": "营收254亿美元；GAAP EPS0.09、调整EPS2.59；调整全年EPS中点11.10。"
+  },
+  {
+    "id": "JPM",
+    "title": "JPMorgan：Q3财报",
+    "date": "10/13",
+    "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2026/3rd-quarter/6c1f8114-1be4-4174-8292-f75bbb59bc21.pdf",
+    "evidence": "净利153亿美元、EPS5.57；报表净利与调整口径需分开。"
+  },
+  {
+    "id": "BRK",
+    "title": "Berkshire：Q2公告",
+    "date": "8/8",
+    "url": "https://www.berkshirehathaway.com/news/aug0826.pdf",
+    "evidence": "最新已读财报为Q2，不能当作Q3实际结果；Q3日期本次未确认。"
+  },
+  {
+    "id": "LMT",
+    "title": "Lockheed Martin：Q3结果",
+    "date": "10/22",
+    "url": "https://lockheedmartin.gcs-web.com/news-releases/news-release-details/lockheed-martin-reports-third-quarter-2026-financial-results",
+    "evidence": "季度销售207亿美元，去年186亿美元；不能直接推成股价还有同等涨幅。"
+  },
+  {
+    "id": "ETN",
+    "title": "Eaton：财报公告日期",
+    "date": "10/20",
+    "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-to-announce-third-quarter-2026-earnings-on-november-3--202.html",
+    "evidence": "11/3盘前财报；公司列明数据中心、公用事业等终端市场。"
+  },
+  {
+    "id": "NEE",
+    "title": "NextEra：Q3财报",
+    "date": "10/21",
+    "url": "https://www.investor.nexteraenergy.com/~/media/Files/N/NEE-IR/reports-and-fillings/quarterly-earnings/2026/Q3%202026/2026-1021%20NEEQ32026News%20Release%20vFinal.pdf",
+    "evidence": "调整EPS1.24，去年1.13；GAAP与调整口径分开。"
+  },
+  {
+    "id": "TSM",
+    "title": "TSMC：Q3结果及Q4指引",
+    "date": "10/15",
+    "url": "https://investor.tsmc.com/english/quarterly-results/2026/q3",
+    "evidence": "Q3美元收入467.2亿美元、毛利率66.4%；Q4收入指引523–543亿美元。"
+  },
+  {
+    "id": "NVDA",
+    "title": "NVIDIA：FY27 Q2结果",
+    "date": "8/26",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/",
+    "evidence": "季度收入962亿美元；较新季度尚未发布，不能视为10月业绩。"
+  },
+  {
+    "id": "WMT",
+    "title": "Walmart：FY27 Q2官方结果",
+    "date": "8/20",
+    "url": "https://corporate.walmart.com/news/2026/08/20/walmart-releases-q2-fy27-earnings",
+    "evidence": "已补读官方季度结果；营收同比5.9%、美国同店2.6%；利润增长含关税退款收益。"
+  },
+  {
+    "id": "TM",
+    "title": "Toyota：FY2027 Q1 SEC财务资料",
+    "date": "8/4资料",
+    "url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526331392/d258414dex991.htm",
+    "evidence": "补核SEC原文：收入同比10.4%，营业利润下降8.8%，净利润增长75.6%。"
+  },
+  {
+    "id": "AAPL",
+    "title": "Apple：投资者关系",
+    "date": "10/23读取",
+    "url": "https://investor.apple.com/investor-relations/",
+    "evidence": "下一次业绩电话会11/2；并非惯常猜测的10/29。"
+  },
+  {
+    "id": "META",
+    "title": "Meta：Q3结果",
+    "date": "10/21",
+    "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+    "evidence": "已经发布，不能再列为下周尚待发布事件。"
+  },
+  {
+    "id": "LLY",
+    "title": "Eli Lilly：Q3日期",
+    "date": "10/15",
+    "url": "https://investor.lilly.com/node/55096/pdf",
+    "evidence": "10/29发布；10:00 ET电话会。"
+  },
+  {
+    "id": "ORCL",
+    "title": "Oracle：投资者日",
+    "date": "10/23公告",
+    "url": "https://investor.oracle.com/investor-news/news-details/2026/ORACLE-INVESTOR-DAY-MEETING-TO-BE-HELD-OCTOBER-28-2026/default.aspx",
+    "evidence": "10/28 10:55 CT投资者日，需区分财报。"
+  },
+  {
+    "id": "VIX",
+    "title": "Cboe：VIX产品页",
+    "date": "10/23读取",
+    "url": "https://www.cboe.com/tradable-products/vix/",
+    "evidence": "未取得有可靠日期的最新VIX点位，本文不填数字或期权价格。"
+  }
+]

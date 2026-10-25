@@ -1,0 +1,17 @@
+{
+  "automation_id": "10-26-30",
+  "name": "10月26—30日美股盘前研究更新",
+  "status_verified": "ACTIVE",
+  "timezone": "Asia/Shanghai",
+  "local_machine_timezone_verified": "China Standard Time",
+  "scheduled_dates": ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"],
+  "start_time_beijing": "20:45",
+  "maximum_scheduled_occurrences": 5,
+  "target": "current conversation",
+  "authorization": "User explicitly confirmed five premarket research-only updates on 2026-10-25",
+  "scope": "Refresh actual market data, issuer disclosures, daily candidate decisions and risk management from existing55-stock research; no trades",
+  "verified_by": "automation tool create succeeded, view rendered, saved automation.toml ACTIVE and bounded count checked",
+  "execution_status": "scheduled only; no future daily update has run yet",
+  "stop_rule": "Delete after October30 final handling or after all5reports completed; no extension into following week",
+  "local_execution_requirement": "Computer awake and online, desktop app running, sources available; task does not buy quota or bypass access limits"
+}

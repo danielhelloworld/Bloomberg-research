@@ -1,12 +1,20 @@
 {
   "name": "Bloomberg每日市场与仓位研究更新",
+  "automation_id": "6addd878a12c819092d02072754b753e",
+  "automation_source": "cloud",
+  "management_url": "https://chatgpt.com/scheduled?automationId=6addd878a12c819092d02072754b753e&automationSource=cloud",
   "timezone": "Asia/Shanghai",
   "local_time": "20:45",
   "frequency": "daily",
+  "first_scheduled_date": "2026-10-25",
   "requested_environment": "Bloomberg-research",
   "repository": "danielhelloworld/Bloomberg-research",
   "branch": "main",
-  "scheduler_status": "pending_setup",
-  "environment_binding": "not_verified",
-  "execution_status": "not_run"
+  "scheduler_status": "ACTIVE_verified_in_web_UI",
+  "execution_location": "cloud_verified_in_web_UI",
+  "environment_binding": "not_supported_by_scheduler_UI; requested_in_prompt_only",
+  "manual_test_status": "run_now_requested; result_not_yet_verified",
+  "archive_commit": "5e656111380fbab038ee94f340d1339ef8f13f7e",
+  "original_local_automation": "10-26-30 remains unchanged",
+  "verified_at_utc": "2026-10-25T10:24:49.244307+00:00"
 }
